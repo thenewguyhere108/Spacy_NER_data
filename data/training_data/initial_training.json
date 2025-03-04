@@ -1,0 +1,3121 @@
+[
+  {
+    "text": "Naloxone reverses the antihypertensive effect of clonidine. In unanesthetized, spontaneously hypertensive rats the decrease in blood pressure and heart rate produced by intravenous clonidine, 5 to 20 micrograms/kg, was inhibited or reversed by nalozone, 0.2 to 2 mg/kg. The hypotensive effect of 100 mg/kg alpha-methyldopa was also partially reversed by naloxone. Naloxone alone did not affect either blood pressure or heart rate. In brain membranes from spontaneously hypertensive rats clonidine, 10(-8) to 10(-5) M, did not influence stereoselective binding of [3H]-naloxone (8 nM), and naloxone, 10(-8) to 10(-4) M, did not influence clonidine-suppressible binding of [3H]-dihydroergocryptine (1 nM). These findings indicate that in spontaneously hypertensive rats the effects of central alpha-adrenoceptor stimulation involve activation of opiate receptors. As naloxone and clonidine do not appear to interact with the same receptor site, the observed functional antagonism suggests the release of an endogenous opiate by clonidine or alpha-methyldopa and the possible role of the opiate in the central control of sympathetic tone.",
+    "id": 1,
+    "label": [
+      {
+        "start": 0,
+        "end": 8,
+        "text": "Naloxone",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 22,
+        "end": 39,
+        "text": "antihypertensive ",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 49,
+        "end": 58,
+        "text": "clonidine",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 93,
+        "end": 105,
+        "text": "hypertensive",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 181,
+        "end": 190,
+        "text": "clonidine",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 244,
+        "end": 252,
+        "text": "nalozone",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 306,
+        "end": 322,
+        "text": "alpha-methyldopa",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 354,
+        "end": 362,
+        "text": "naloxone",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 364,
+        "end": 372,
+        "text": "Naloxone",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 469,
+        "end": 481,
+        "text": "hypertensive",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 487,
+        "end": 496,
+        "text": "clonidine",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 563,
+        "end": 576,
+        "text": "[3H]-naloxone",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 671,
+        "end": 695,
+        "text": "[3H]-dihydroergocryptine",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 589,
+        "end": 597,
+        "text": "naloxone",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 637,
+        "end": 646,
+        "text": "clonidine",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 750,
+        "end": 762,
+        "text": "hypertensive",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 865,
+        "end": 873,
+        "text": "naloxone",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 878,
+        "end": 887,
+        "text": "clonidine",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 1026,
+        "end": 1035,
+        "text": "clonidine",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 1039,
+        "end": 1055,
+        "text": "alpha-methyldopa",
+        "labels": ["CHEMICAL"]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 1,
+    "created_at": "2025-02-23T21:25:20.298431Z",
+    "updated_at": "2025-02-23T21:25:20.298431Z",
+    "lead_time": 349.97
+  },
+  {
+    "text": "Chronic carbamazepine treatment in the rat: efficacy, toxicity, and effect on plasma and tissue folate concentrations. Folate depletion has often been a problem in chronic antiepileptic drug (AED) therapy. Carbamazepine (CBZ), a commonly used AED, has been implicated in some clinical studies. A rat model was developed to examine the effects of chronic CBZ treatment on folate concentrations in the rat. In the course of developing this model, a common vehicle, propylene glycol, by itself in high doses, was found to exhibit protective properties against induced seizures and inhibited weight gain. Seizures induced by hexafluorodiethyl ether (HFDE) were also found to be a more sensitive measure of protection by CBZ than seizures induced by maximal electroshock (MES). Oral administration of CBZ as an aqueous suspension every 8 h at a dose of 250 mg/kg was continuously protective against HFDE-induced seizures and was minimally toxic as measured by weight gain over 8 weeks of treatment. The CBZ levels measured in plasma and brain of these animals, however, were below those normally considered protective. This treatment with CBZ had no apparent adverse effect on folate concentrations in the rat, and, indeed, the folate concentration increased in liver after 6 weeks of treatment and in plasma at 8 weeks of treatment.",
+    "id": 17,
+    "label": [
+      {
+        "start": 8,
+        "end": 21,
+        "text": "carbamazepine",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 54,
+        "end": 62,
+        "text": "toxicity",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 96,
+        "end": 102,
+        "text": "folate",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 119,
+        "end": 125,
+        "text": "Folate",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 206,
+        "end": 219,
+        "text": "Carbamazepine",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 221,
+        "end": 224,
+        "text": "CBZ",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 354,
+        "end": 357,
+        "text": "CBZ",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 371,
+        "end": 377,
+        "text": "folate",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 463,
+        "end": 479,
+        "text": "propylene glycol",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 565,
+        "end": 573,
+        "text": "seizures",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 588,
+        "end": 599,
+        "text": "weight gain",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 601,
+        "end": 609,
+        "text": "Seizures",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 621,
+        "end": 644,
+        "text": "hexafluorodiethyl ether",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 646,
+        "end": 650,
+        "text": "HFDE",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 716,
+        "end": 719,
+        "text": "CBZ",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 725,
+        "end": 733,
+        "text": "seizures",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 796,
+        "end": 799,
+        "text": "CBZ",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 907,
+        "end": 915,
+        "text": "seizures",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 998,
+        "end": 1001,
+        "text": "CBZ",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 894,
+        "end": 898,
+        "text": "HFDE",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 955,
+        "end": 966,
+        "text": "weight gain",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 1134,
+        "end": 1137,
+        "text": "CBZ",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 1172,
+        "end": 1178,
+        "text": "folate",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 1223,
+        "end": 1229,
+        "text": "folate",
+        "labels": ["CHEMICAL"]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 24,
+    "created_at": "2025-02-24T12:13:10.514486Z",
+    "updated_at": "2025-02-24T12:13:10.515485Z",
+    "lead_time": 170.697
+  },
+  {
+    "text": "Severe complications of antianginal drug therapy in a patient identified as a poor metabolizer of metoprolol, propafenone, diltiazem, and sparteine. A 47-year-old patient suffering from coronary artery disease was admitted to the CCU in shock with III. AV block, severe hypotension, and impairment of ventricular function. One week prior to admission a therapy with standard doses of metoprolol (100 mg t.i.d. and then 100 mg b.i.d.) had been initiated. Two days before admission diltiazem (60 mg b.i.d.) was prescribed in addition. Analyses of a blood sample revealed unusually high plasma concentrations of metoprolol (greater than 3000 ng/ml) and diltiazem (526 ng/ml). The patient recovered within 1 week following discontinuation of antianginal therapy. Three months later the patient was exposed to a single dose of metoprolol, diltiazem, propafenone (since he had received this drug in the past), and sparteine (as a probe for the debrisoquine/sparteine type polymorphism of oxidative drug metabolism). It was found that he was a poor metabolizer of all four drugs, indicating that their metabolism is under the same genetic control. Therefore, patients belonging to the poor-metabolizer phenotype of sparteine/debrisoquine polymorphism in drug metabolism, which constitutes 6.4% of the German population, may experience adverse drug reactions when treated with standard doses of one of these drugs alone. Moreover, the coadministration of these frequently used drugs is expected to be especially harmful in this subgroup of patients.",
+    "id": 23,
+    "label": [
+      {
+        "start": 98,
+        "end": 108,
+        "text": "metoprolol",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 110,
+        "end": 121,
+        "text": "propafenone",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 123,
+        "end": 132,
+        "text": "diltiazem",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 138,
+        "end": 147,
+        "text": "sparteine",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 186,
+        "end": 209,
+        "text": "coronary artery disease",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 237,
+        "end": 242,
+        "text": "shock",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 253,
+        "end": 261,
+        "text": "AV block",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 270,
+        "end": 281,
+        "text": "hypotension",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 287,
+        "end": 321,
+        "text": "impairment of ventricular function",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 384,
+        "end": 394,
+        "text": "metoprolol",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 480,
+        "end": 489,
+        "text": "diltiazem",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 609,
+        "end": 619,
+        "text": "metoprolol",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 650,
+        "end": 659,
+        "text": "diltiazem",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 822,
+        "end": 832,
+        "text": "metoprolol",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 834,
+        "end": 843,
+        "text": "diltiazem",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 845,
+        "end": 856,
+        "text": "propafenone",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 908,
+        "end": 917,
+        "text": "sparteine",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 938,
+        "end": 950,
+        "text": "debrisoquine",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 951,
+        "end": 960,
+        "text": "sparteine",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 1208,
+        "end": 1217,
+        "text": "sparteine",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 1218,
+        "end": 1230,
+        "text": "debrisoquine",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 1328,
+        "end": 1350,
+        "text": "adverse drug reactions",
+        "labels": ["DISEASE"]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 50,
+    "created_at": "2025-02-24T13:19:41.034767Z",
+    "updated_at": "2025-02-24T13:19:41.034767Z",
+    "lead_time": 98.458
+  },
+  {
+    "text": "Recurrent reversible acute renal failure from amphotericin. A patient with cryptogenic cirrhosis and disseminated sporotrichosis developed acute renal failure immediately following the administration of amphotericin B on four separate occasions. The abruptness of the renal failure and its reversibility within days suggests that there was a functional component to the renal dysfunction. We propose that amphotericin, in the setting of reduced effective arterial volume, may activate tubuloglomerular feedback, thereby contributing to acute renal failure.",
+    "id": 27,
+    "label": [
+      {
+        "start": 21,
+        "end": 40,
+        "text": "acute renal failure",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 46,
+        "end": 58,
+        "text": "amphotericin",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 87,
+        "end": 96,
+        "text": "cirrhosis",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 114,
+        "end": 128,
+        "text": "sporotrichosis",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 139,
+        "end": 158,
+        "text": "acute renal failure",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 203,
+        "end": 217,
+        "text": "amphotericin B",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 268,
+        "end": 281,
+        "text": "renal failure",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 370,
+        "end": 387,
+        "text": "renal dysfunction",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 405,
+        "end": 417,
+        "text": "amphotericin",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 536,
+        "end": 555,
+        "text": "acute renal failure",
+        "labels": ["DISEASE"]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 90,
+    "created_at": "2025-02-24T19:14:48.366549Z",
+    "updated_at": "2025-02-24T19:14:48.366549Z",
+    "lead_time": 63.544
+  },
+  {
+    "text": "Comparison of the subjective effects and plasma concentrations following oral and i.m. administration of flunitrazepam in volunteers. Flunitrazepam 0.5, 1.0 or 2.0 mg was given by the oral or i.m. routes to groups of volunteers and its effects compared. Plasma concentrations of the drug were estimated by gas-liquid chromatography, in a smaller number of the subjects. The most striking effect was sedation which increased with the dose, 2 mg producing deep sleep although the subjects could still be aroused. The effects of i.m. administration were apparent earlier and sometimes lasted longer than those following oral administration. Dizziness was less marked than sedation, but increased with the dose. There was pain on i.m. injection of flunitrazepam significantly more often than with isotonic saline. Plasma concentrations varied with dose and route and corresponded qualitatively with the subjective effects. The drug was still present in measurable quantities after 24 h even with the smallest dose.",
+    "id": 30,
+    "label": [
+      {
+        "start": 134,
+        "end": 147,
+        "text": "Flunitrazepam",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 105,
+        "end": 118,
+        "text": "flunitrazepam",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 638,
+        "end": 647,
+        "text": "Dizziness",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 718,
+        "end": 722,
+        "text": "pain",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 744,
+        "end": 757,
+        "text": "flunitrazepam",
+        "labels": ["CHEMICAL"]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 38,
+    "created_at": "2025-02-24T12:51:19.232592Z",
+    "updated_at": "2025-02-24T12:51:19.232592Z",
+    "lead_time": 264.66
+  },
+  {
+    "text": "Triamterene nephrolithiasis complicating dyazide therapy. A case of triamterene nephrolithiasis is reported in a man after 4 years of hydrochlorothiazide-triamterene therapy for hypertension. The stone passed spontaneously and was found to contain a triamterene metabolite admixed with uric acid salts. Factors affecting triamterene nephrolithiasis are discussed and 2 previously reported cases are reviewed.",
+    "id": 39,
+    "label": [
+      {
+        "start": 0,
+        "end": 11,
+        "text": "Triamterene",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 12,
+        "end": 27,
+        "text": "nephrolithiasis",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 41,
+        "end": 48,
+        "text": "dyazide",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 68,
+        "end": 79,
+        "text": "triamterene",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 80,
+        "end": 95,
+        "text": "nephrolithiasis",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 134,
+        "end": 165,
+        "text": "hydrochlorothiazide-triamterene",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 178,
+        "end": 190,
+        "text": "hypertension",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 250,
+        "end": 261,
+        "text": "triamterene",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 286,
+        "end": 301,
+        "text": "uric acid salts",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 321,
+        "end": 332,
+        "text": "triamterene",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 333,
+        "end": 348,
+        "text": "nephrolithiasis",
+        "labels": ["DISEASE"]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 81,
+    "created_at": "2025-02-24T18:41:40.648940Z",
+    "updated_at": "2025-02-24T18:41:40.648940Z",
+    "lead_time": 99.695
+  },
+  {
+    "text": "Age-dependent sensitivity of the rat to neurotoxic effects of streptomycin. Streptomycin sulfate (300 mg/kg s.c.) was injected for various periods into preweanling rats and for 3 weeks into weanling rats. Beginning at 8 days of age, body movement and hearing were examined for 6 and up to 17 weeks, respectively. Abnormal movements and deafness occurred only in rats treated during the preweaning period; within this period the greatest sensitivities for these abnormalities occurred from 2 to 11-17 and 5 to 11 days of age, respectively, indicating that the cochlea is more sensitive to streptomycin than the site (vestibular or central) responsible for the dyskinesias.",
+    "id": 41,
+    "label": [
+      {
+        "start": 40,
+        "end": 50,
+        "text": "neurotoxic",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 76,
+        "end": 88,
+        "text": "Streptomycin",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 62,
+        "end": 74,
+        "text": "streptomycin",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 313,
+        "end": 331,
+        "text": "Abnormal movements",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 336,
+        "end": 344,
+        "text": "deafness",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 588,
+        "end": 600,
+        "text": "streptomycin",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 659,
+        "end": 670,
+        "text": "dyskinesias",
+        "labels": ["DISEASE"]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 98,
+    "created_at": "2025-02-24T19:34:21.234348Z",
+    "updated_at": "2025-02-24T19:34:21.234348Z",
+    "lead_time": 62.916
+  },
+  {
+    "text": "Acute hepatitis, autoimmune hemolytic anemia, and erythroblastocytopenia induced by ceftriaxone. An 80-yr-old man developed acute hepatitis shortly after ingesting oral ceftriaxone. Although the transaminases gradually returned to baseline after withholding the beta lactam antibiotic, there was a gradual increase in serum bilirubin and a decrease in hemoglobin concentration caused by an autoimmune hemolytic anemia and erythroblastocytopenia. These responded to systemic steroids and immunoglobulins. Despite the widespread use of these agents this triad of side effects has not previously been reported in connection with beta lactam antibiotics.",
+    "id": 51,
+    "label": [
+      {
+        "start": 6,
+        "end": 15,
+        "text": "hepatitis",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 17,
+        "end": 44,
+        "text": "autoimmune hemolytic anemia",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 50,
+        "end": 72,
+        "text": "erythroblastocytopenia",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 84,
+        "end": 95,
+        "text": "ceftriaxone",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 169,
+        "end": 180,
+        "text": "ceftriaxone",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 130,
+        "end": 139,
+        "text": "hepatitis",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 262,
+        "end": 273,
+        "text": "beta lactam",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 324,
+        "end": 333,
+        "text": "bilirubin",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 390,
+        "end": 417,
+        "text": "autoimmune hemolytic anemia",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 422,
+        "end": 444,
+        "text": "erythroblastocytopenia",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 474,
+        "end": 482,
+        "text": "steroids",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 626,
+        "end": 637,
+        "text": "beta lactam",
+        "labels": ["CHEMICAL"]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 17,
+    "created_at": "2025-02-24T11:48:49.633757Z",
+    "updated_at": "2025-02-24T11:48:49.633757Z",
+    "lead_time": 148.069
+  },
+  {
+    "text": "Epithelial sodium channel (ENaC) subunit mRNA and protein expression in rats with puromycin aminonucleoside-induced nephrotic syndrome. In experimental nephrotic syndrome, urinary sodium excretion is decreased during the early phase of the disease. The molecular mechanism(s) leading to salt retention has not been completely elucidated. The rate-limiting constituent of collecting duct sodium transport is the epithelial sodium channel (ENaC). We examined the abundance of ENaC subunit mRNAs and proteins in puromycin aminonucleoside (PAN)-induced nephrotic syndrome. The time courses of urinary sodium excretion, plasma aldosterone concentration and proteinuria were studied in male Sprague-Dawley rats treated with a single dose of either PAN or vehicle. The relative amounts of alphaENaC, betaENaC and gammaENaC mRNAs were determined in kidneys from these rats by real-time quantitative TaqMan PCR, and the amounts of proteins by Western blot. The kinetics of urinary sodium excretion and the appearance of proteinuria were comparable with those reported previously. Sodium retention occurred on days 2, 3 and 6 after PAN injection. A significant up-regulation of alphaENaC and betaENaC mRNA abundance on days 1 and 2 preceded sodium retention on days 2 and 3. Conversely, down-regulation of alphaENaC, betaENaC and gammaENaC mRNA expression on day 3 occurred in the presence of high aldosterone concentrations, and was followed by a return of sodium excretion to control values. The amounts of alphaENaC, betaENaC and gammaENaC proteins were not increased during PAN-induced sodium retention. In conclusion, ENaC mRNA expression, especially alphaENaC, is increased in the very early phase of the experimental model of PAN-induced nephrotic syndrome in rats, but appears to escape from the regulation by aldosterone after day 3.",
+    "id": 63,
+    "label": [
+      {
+        "start": 11,
+        "end": 17,
+        "text": "sodium",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 82,
+        "end": 107,
+        "text": "puromycin aminonucleoside",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 116,
+        "end": 134,
+        "text": "nephrotic syndrome",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 152,
+        "end": 170,
+        "text": "nephrotic syndrome",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 180,
+        "end": 186,
+        "text": "sodium",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 387,
+        "end": 393,
+        "text": "sodium",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 422,
+        "end": 428,
+        "text": "sodium",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 509,
+        "end": 534,
+        "text": "puromycin aminonucleoside",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 536,
+        "end": 539,
+        "text": "PAN",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 549,
+        "end": 567,
+        "text": "nephrotic syndrome",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 597,
+        "end": 603,
+        "text": "sodium",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 622,
+        "end": 633,
+        "text": "aldosterone",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 742,
+        "end": 745,
+        "text": "PAN",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 972,
+        "end": 978,
+        "text": "sodium",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 1122,
+        "end": 1125,
+        "text": "PAN",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 1231,
+        "end": 1237,
+        "text": "sodium",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 652,
+        "end": 663,
+        "text": "proteinuria",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 1011,
+        "end": 1022,
+        "text": "proteinuria",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 1071,
+        "end": 1077,
+        "text": "Sodium",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 1388,
+        "end": 1399,
+        "text": "aldosterone",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 1448,
+        "end": 1454,
+        "text": "sodium",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 1568,
+        "end": 1571,
+        "text": "PAN",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 1580,
+        "end": 1586,
+        "text": "sodium",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 1723,
+        "end": 1726,
+        "text": "PAN",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 1735,
+        "end": 1753,
+        "text": "nephrotic syndrome",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 1808,
+        "end": 1819,
+        "text": "aldosterone",
+        "labels": ["CHEMICAL"]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 75,
+    "created_at": "2025-02-24T18:24:18.803023Z",
+    "updated_at": "2025-02-24T18:24:18.803023Z",
+    "lead_time": 7609.266
+  },
+  {
+    "text": "Recurrent dysphonia and acitretin. We report the case of a woman complaining of dysphonia while she was treated by acitretin. Her symptoms totally regressed after drug withdrawal and reappeared when acitretin was reintroduced. To our knowledge, this is the first case of acitretin-induced dysphonia. This effect may be related to the pharmacological effect of this drug on mucous membranes.",
+    "id": 67,
+    "label": [
+      {
+        "start": 10,
+        "end": 19,
+        "text": "dysphonia",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 24,
+        "end": 33,
+        "text": "acitretin",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 80,
+        "end": 89,
+        "text": "dysphonia",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 115,
+        "end": 124,
+        "text": "acitretin",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 199,
+        "end": 208,
+        "text": "acitretin",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 271,
+        "end": 280,
+        "text": "acitretin",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 289,
+        "end": 298,
+        "text": "dysphonia",
+        "labels": ["DISEASE"]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 58,
+    "created_at": "2025-02-24T15:34:10.858788Z",
+    "updated_at": "2025-02-24T15:34:10.858788Z",
+    "lead_time": 40.334
+  },
+  {
+    "text": "Proteinuria after conversion to sirolimus in renal transplant recipients. Sirolimus (SRL) is a new, potent immunosuppressive agent. More recently, proteinuria has been reported as a consequence of sirolimus therapy, although the mechanism has remained unclear. We retrospectively examined the records of 25 renal transplant patients, who developed or displayed increased proteinuria after SRL conversion. The patient cohort (14 men, 11 women) was treated with SRL as conversion therapy, due to chronic allograft nephropathy (CAN) (n = 15) neoplasia (n = 8); Kaposi's sarcoma, Four skin cancers, One intestinal tumors, One renal cell carsinom) or BK virus nephropathy (n = 2). SRL was started at a mean of 78 +/- 42 (15 to 163) months after transplantation. Mean follow-up on SRL therapy was 20 +/- 12 (6 to 43) months. Proteinuria increased from 0.445 (0 to 1.5) g/d before conversion to 3.2 g/dL (0.2 to 12) after conversion (P = 0.001). Before conversion 8 (32%) patients had no proteinuria, whereas afterwards all patients had proteinuria. In 28% of patients proteinuria remained unchanged, whereas it increased in 68% of patients. In 40% it increased by more than 100%. Twenty-eight percent of patients showed increased proteinuria to the nephrotic range. Biopsies performed in five patients revealed new pathological changes: One membranoproliferative glomerulopathy and interstitial nephritis. These patients showed persistently good graft function. Serum creatinine values did not change significantly: 1.98 +/- 0.8 mg/dL before SRL therapy and 2.53 +/- 1.9 mg/dL at last follow-up (P = .14). Five grafts were lost and the patients returned to dialysis. Five patients displayed CAN and Kaposi's sarcoma. Mean urinary protein of patients who returned to dialysis was 1.26 (0.5 to 3.5) g/d before and 4.7 (3 to 12) g/d after conversion (P = .01). Mean serum creatinine level before conversion was 2.21 mg/dL and thereafter, 4.93 mg/dL (P = .02). Heavy proteinuria was common after the use of SRL as rescue therapy for renal transplantation. Therefore, conversion should be considered for patients who have not developed advanced CAN and proteinuria. The possibility of de novo glomerular pathology under SRL treatment requires further investigation by renal biopsy.",
+    "id": 71,
+    "label": [
+      {
+        "start": 0,
+        "end": 11,
+        "text": "Proteinuria",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 32,
+        "end": 41,
+        "text": "sirolimus",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 74,
+        "end": 83,
+        "text": "Sirolimus",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 85,
+        "end": 88,
+        "text": "SRL",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 147,
+        "end": 158,
+        "text": "proteinuria",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 197,
+        "end": 206,
+        "text": "sirolimus",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 371,
+        "end": 382,
+        "text": "proteinuria",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 389,
+        "end": 392,
+        "text": "SRL",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 460,
+        "end": 463,
+        "text": "SRL",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 494,
+        "end": 523,
+        "text": "chronic allograft nephropathy",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 525,
+        "end": 528,
+        "text": "CAN",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 539,
+        "end": 548,
+        "text": "neoplasia",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 558,
+        "end": 574,
+        "text": "Kaposi's sarcoma",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 581,
+        "end": 593,
+        "text": "skin cancers",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 599,
+        "end": 616,
+        "text": "intestinal tumors",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 622,
+        "end": 641,
+        "text": "renal cell carsinom",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 655,
+        "end": 666,
+        "text": "nephropathy",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 676,
+        "end": 679,
+        "text": "SRL",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 775,
+        "end": 778,
+        "text": "SRL",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 981,
+        "end": 992,
+        "text": "proteinuria",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 1030,
+        "end": 1042,
+        "text": "proteinuria.",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 819,
+        "end": 830,
+        "text": "Proteinuria",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 1224,
+        "end": 1235,
+        "text": "proteinuria",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 1536,
+        "end": 1539,
+        "text": "SRL",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 1062,
+        "end": 1073,
+        "text": "proteinuria",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 1243,
+        "end": 1252,
+        "text": "nephrotic",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 1335,
+        "end": 1371,
+        "text": "membranoproliferative glomerulopathy",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 1376,
+        "end": 1398,
+        "text": "interstitial nephritis",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 1462,
+        "end": 1472,
+        "text": "creatinine",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 1685,
+        "end": 1688,
+        "text": "CAN",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 1693,
+        "end": 1709,
+        "text": "Kaposi's sarcoma",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 1863,
+        "end": 1873,
+        "text": "creatinine",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 1957,
+        "end": 1968,
+        "text": "proteinuria",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 1997,
+        "end": 2000,
+        "text": "SRL",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 2134,
+        "end": 2137,
+        "text": "CAN",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 2142,
+        "end": 2153,
+        "text": "proteinuria",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 2209,
+        "end": 2212,
+        "text": "SRL",
+        "labels": ["CHEMICAL"]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 78,
+    "created_at": "2025-02-24T18:32:18.569988Z",
+    "updated_at": "2025-02-24T18:32:18.569988Z",
+    "lead_time": 256.507
+  },
+  {
+    "text": "Higher optical density of an antigen assay predicts thrombosis in patients with heparin-induced thrombocytopenia. OBJECTIVES: To correlate optical density and percent inhibition of a two-step heparin-induced thrombocytopenia (HIT) antigen assay with thrombosis; the assay utilizes reaction inhibition characteristics of a high heparin concentration. PATIENTS AND METHODS: Patients with more than 50% decrease in platelet count or thrombocytopenia (<150 x 10(9)/L) after exposure to heparin, who had a positive two-step antigen assay [optical density (OD) >0.4 and >50 inhibition with high concentration of heparin] were included in the study. RESULTS: Forty of 94 HIT patients had thrombosis at diagnosis; 54/94 had isolated-HIT without thrombosis. Eight of the isolated-HIT patients developed thrombosis within the next 30 d; thus, a total of 48 patients had thrombosis at day 30. At diagnosis there was no significant difference in OD between HIT patients with thrombosis and those with isolated-HIT. However, OD was significantly higher in all patients with thrombosis (n = 48, 1.34 +/- 0.89), including isolated-HIT patients who later developed thrombosis within 30 d (n = 8, 1.84 +/- 0.64) as compared to isolated-HIT patients who did not develop thrombosis (0.96 +/- 0.75; P = 0.011 and P = 0.008). The Receiver Operative Characteristic Curve showed that OD >1.27 in the isolated-HIT group had a significantly higher chance of developing thrombosis by day 30. None of these groups showed significant difference in percent inhibition. Multivariate analysis showed a 2.8-fold increased risk of thrombosis in females. Similarly, thrombotic risk increased with age and OD values. CONCLUSION: Higher OD is associated with significant risk of subsequent thrombosis in patients with isolated-HIT; percent inhibition, however, was not predictive.",
+    "id": 75,
+    "label": [
+      {
+        "start": 52,
+        "end": 62,
+        "text": "thrombosis",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 80,
+        "end": 87,
+        "text": "heparin",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 96,
+        "end": 112,
+        "text": "thrombocytopenia",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 192,
+        "end": 199,
+        "text": "heparin",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 208,
+        "end": 224,
+        "text": "thrombocytopenia",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 226,
+        "end": 229,
+        "text": "HIT",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 250,
+        "end": 260,
+        "text": "thrombosis",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 327,
+        "end": 334,
+        "text": "heparin",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 430,
+        "end": 446,
+        "text": "thrombocytopenia",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 482,
+        "end": 489,
+        "text": "heparin",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 606,
+        "end": 613,
+        "text": "heparin",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 664,
+        "end": 667,
+        "text": "HIT",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 771,
+        "end": 774,
+        "text": "HIT",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 681,
+        "end": 691,
+        "text": "thrombosis",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 725,
+        "end": 728,
+        "text": "HIT",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 737,
+        "end": 747,
+        "text": "thrombosis",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 794,
+        "end": 804,
+        "text": "thrombosis",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 860,
+        "end": 870,
+        "text": "thrombosis",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 945,
+        "end": 948,
+        "text": "HIT",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 963,
+        "end": 973,
+        "text": "thrombosis",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 998,
+        "end": 1001,
+        "text": "HIT",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 1061,
+        "end": 1071,
+        "text": "thrombosis",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 1116,
+        "end": 1119,
+        "text": "HIT",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 1219,
+        "end": 1222,
+        "text": "HIT",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 1149,
+        "end": 1159,
+        "text": "thrombosis",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 1252,
+        "end": 1262,
+        "text": "thrombosis",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 1386,
+        "end": 1389,
+        "text": "HIT",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 1444,
+        "end": 1454,
+        "text": "thrombosis",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 1598,
+        "end": 1608,
+        "text": "thrombosis",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 1791,
+        "end": 1794,
+        "text": "HIT",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 1754,
+        "end": 1764,
+        "text": "thrombosis",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 1632,
+        "end": 1642,
+        "text": "thrombotic",
+        "labels": ["DISEASE"]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 96,
+    "created_at": "2025-02-24T19:31:06.398223Z",
+    "updated_at": "2025-02-24T19:31:06.398223Z",
+    "lead_time": 164.484
+  },
+  {
+    "text": "Protective effect of verapamil on gastric hemorrhagic ulcers in severe atherosclerotic rats. Studies concerning with pathogenesis of gastric hemorrhage and mucosal ulceration produced in atherosclerotic rats are lacking. The aim of this study is to examine the role of gastric acid back-diffusion, mast cell histamine release, lipid peroxide (LPO) generation and mucosal microvascular permeability in modulating gastric hemorrhage and ulcer in rats with atherosclerosis induced by coadministration of vitamin D2 and cholesterol. Additionally, the protective effect of verapamil on this ulcer model was evaluated. Male Wistar rats were challenged intragastrically once daily for 9 days with 1.0 ml/kg of corn oil containing vitamin D2 and cholesterol to induce atherosclerosis. Control rats received corn oil only. After gastric surgery, rat stomachs were irrigated for 3 h with either simulated gastric juice or normal saline. Gastric acid back-diffusion, mucosal LPO generation, histamine concentration, microvascular permeability, luminal hemoglobin content and ulcer areas were determined. Elevated atherosclerotic parameters, such as serum calcium, total cholesterol and low-density lipoprotein concentration were obtained in atherosclerotic rats. Severe gastric ulcers accompanied with increased ulcerogenic factors, including gastric acid back-diffusion, histamine release, LPO generation and luminal hemoglobin content were also observed in these rats. Moreover, a positive correlation of histamine to gastric hemorrhage and to ulcer was found in those atherosclerotic rats. This hemorrhagic ulcer and various ulcerogenic parameters were dose-dependently ameliorated by daily intragastric verapamil. Atherosclerosis could produce gastric hemorrhagic ulcer via aggravation of gastric acid back-diffusion, LPO generation, histamine release and microvascular permeability that could be ameliorated by verapamil in rats.",
+    "id": 78,
+    "label": [
+      {
+        "start": 21,
+        "end": 30,
+        "text": "verapamil",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 34,
+        "end": 53,
+        "text": "gastric hemorrhagic",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 54,
+        "end": 60,
+        "text": "ulcers",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 71,
+        "end": 86,
+        "text": "atherosclerotic",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 133,
+        "end": 151,
+        "text": "gastric hemorrhage",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 187,
+        "end": 202,
+        "text": "atherosclerotic",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 308,
+        "end": 317,
+        "text": "histamine",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 412,
+        "end": 430,
+        "text": "gastric hemorrhage",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 435,
+        "end": 440,
+        "text": "ulcer",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 454,
+        "end": 469,
+        "text": "atherosclerosis",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 501,
+        "end": 511,
+        "text": "vitamin D2",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 516,
+        "end": 527,
+        "text": "cholesterol",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 568,
+        "end": 577,
+        "text": "verapamil",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 586,
+        "end": 591,
+        "text": "ulcer",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 723,
+        "end": 733,
+        "text": "vitamin D2",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 738,
+        "end": 749,
+        "text": "cholesterol",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 760,
+        "end": 775,
+        "text": "atherosclerosis",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 980,
+        "end": 989,
+        "text": "histamine",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 1064,
+        "end": 1069,
+        "text": "ulcer",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 1102,
+        "end": 1117,
+        "text": "atherosclerotic",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 1144,
+        "end": 1151,
+        "text": "calcium",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 1159,
+        "end": 1170,
+        "text": "cholesterol",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 1230,
+        "end": 1245,
+        "text": "atherosclerotic",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 1267,
+        "end": 1273,
+        "text": "ulcers",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 1361,
+        "end": 1370,
+        "text": "histamine",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 1399,
+        "end": 1406,
+        "text": "luminal",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 1496,
+        "end": 1505,
+        "text": "histamine",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 1509,
+        "end": 1527,
+        "text": "gastric hemorrhage",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 1535,
+        "end": 1540,
+        "text": "ulcer",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 1560,
+        "end": 1575,
+        "text": "atherosclerotic",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 1587,
+        "end": 1598,
+        "text": "hemorrhagic",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 1599,
+        "end": 1604,
+        "text": "ulcer",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 1696,
+        "end": 1705,
+        "text": "verapamil",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 1707,
+        "end": 1722,
+        "text": "Atherosclerosis",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 1737,
+        "end": 1756,
+        "text": "gastric hemorrhagic",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 1757,
+        "end": 1762,
+        "text": "ulcer",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 1827,
+        "end": 1836,
+        "text": "histamine",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 1905,
+        "end": 1914,
+        "text": "verapamil",
+        "labels": ["CHEMICAL"]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 20,
+    "created_at": "2025-02-24T12:00:40.450976Z",
+    "updated_at": "2025-02-24T12:00:40.450976Z",
+    "lead_time": 239.362
+  },
+  {
+    "text": "Prolonged elevation of plasma argatroban in a cardiac transplant patient with a suspected history of heparin-induced thrombocytopenia with thrombosis. BACKGROUND: Direct thrombin inhibitors (DTIs) provide an alternative method of anticoagulation for patients with a history of heparin-induced thrombocytopenia (HIT) or HIT with thrombosis (HITT) undergoing cardiopulmonary bypass (CPB). In the following report, a 65-year-old critically ill patient with a suspected history of HITT was administered argatroban for anticoagulation on bypass during heart transplantation. The patient required massive transfusion support (55 units of red blood cells, 42 units of fresh-frozen plasma, 40 units of cryoprecipitate, 40 units of platelets, and three doses of recombinant Factor VIIa) for severe intraoperative and postoperative bleeding. STUDY DESIGN AND METHODS: Plasma samples from before and after CPB were analyzed postoperatively for argatroban concentration using a modified ecarin clotting time (ECT) assay. RESULTS: Unexpectedly high concentrations of argatroban were measured in these samples (range, 0-32 microg/mL), and a prolonged plasma argatroban half life (t(1/2)) of 514 minutes was observed (published elimination t(1/2) is 39-51 minutes [< or = 181 minutes with hepatic impairment]). CONCLUSIONS: Correlation of plasma argatroban concentration versus the patient's coagulation variables and clinical course suggest that prolonged elevated levels of plasma argatroban may have contributed to the patient's extended coagulopathy. Because DTIs do not have reversal agents, surgical teams and transfusion services should remain aware of the possibility of massive transfusion events during anticoagulation with these agents. This is the first report to measure plasma argatroban concentration in the context of CPB and extended coagulopathy.",
+    "id": 82,
+    "label": [
+      {
+        "start": 30,
+        "end": 40,
+        "text": "argatroban",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 101,
+        "end": 108,
+        "text": "heparin",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 117,
+        "end": 133,
+        "text": "thrombocytopenia",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 139,
+        "end": 149,
+        "text": "thrombosis",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 277,
+        "end": 284,
+        "text": "heparin",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 293,
+        "end": 309,
+        "text": "thrombocytopenia",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 328,
+        "end": 338,
+        "text": "thrombosis",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 311,
+        "end": 314,
+        "text": "HIT",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 319,
+        "end": 322,
+        "text": "HIT",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 340,
+        "end": 344,
+        "text": "HITT",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 477,
+        "end": 481,
+        "text": "HITT",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 426,
+        "end": 440,
+        "text": "critically ill",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 933,
+        "end": 943,
+        "text": "argatroban",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 789,
+        "end": 830,
+        "text": "intraoperative and postoperative bleeding",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 499,
+        "end": 509,
+        "text": "argatroban",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 1054,
+        "end": 1064,
+        "text": "argatroban",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 1468,
+        "end": 1478,
+        "text": "argatroban",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 1526,
+        "end": 1538,
+        "text": "coagulopathy",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 1776,
+        "end": 1786,
+        "text": "argatroban",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 1836,
+        "end": 1848,
+        "text": "coagulopathy",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 1331,
+        "end": 1341,
+        "text": "argatroban",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 1274,
+        "end": 1292,
+        "text": "hepatic impairment",
+        "labels": ["DISEASE"]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 5,
+    "created_at": "2025-02-24T10:59:53.402543Z",
+    "updated_at": "2025-02-24T10:59:53.402543Z",
+    "lead_time": 314.049
+  },
+  {
+    "text": "Central nervous system complications during treatment of acute lymphoblastic leukemia in a single pediatric institution. Central nervous system (CNS) complications during treatment of childhood acute lymphoblastic leukemia (ALL) remain a challenging clinical problem. Outcome improvement with more intensive chemotherapy has significantly increased the incidence and severity of adverse events. This study analyzed the incidence of neurological complications during ALL treatment in a single pediatric institution, focusing on clinical, radiological, and electrophysiological findings. Exclusion criteria included CNS leukemic infiltration at diagnosis, therapy-related peripheral neuropathy, late-onset encephalopathy, or long-term neurocognitive defects. During a 9-year period, we retrospectively collected 27 neurological events (11%) in as many patients, from 253 children enrolled in the ALL front-line protocol. CNS complications included posterior reversible leukoencephalopathy syndrome (n = 10), stroke (n = 5), temporal lobe epilepsy (n = 2), high-dose methotrexate toxicity (n = 2), syndrome of inappropriate antidiuretic hormone secretion (n = 1), and other unclassified events (n = 7). In conclusion, CNS complications are frequent events during ALL therapy, and require rapid detection and prompt treatment to limit permanent damage.",
+    "id": 84,
+    "label": [
+      {
+        "start": 0,
+        "end": 36,
+        "text": "Central nervous system complications",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 57,
+        "end": 85,
+        "text": "acute lymphoblastic leukemia",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 121,
+        "end": 163,
+        "text": "Central nervous system (CNS) complications",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 194,
+        "end": 222,
+        "text": "acute lymphoblastic leukemia",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 224,
+        "end": 227,
+        "text": "ALL",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 466,
+        "end": 469,
+        "text": "ALL",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 432,
+        "end": 458,
+        "text": "neurological complications",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 618,
+        "end": 639,
+        "text": "leukemic infiltration",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 670,
+        "end": 691,
+        "text": "peripheral neuropathy",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 704,
+        "end": 718,
+        "text": "encephalopathy",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 733,
+        "end": 755,
+        "text": "neurocognitive defects",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 894,
+        "end": 897,
+        "text": "ALL",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 967,
+        "end": 986,
+        "text": "leukoencephalopathy",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 1022,
+        "end": 1044,
+        "text": "temporal lobe epilepsy",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 1077,
+        "end": 1085,
+        "text": "toxicity",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 1064,
+        "end": 1076,
+        "text": "methotrexate",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 1107,
+        "end": 1151,
+        "text": "inappropriate antidiuretic hormone secretion",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 1260,
+        "end": 1263,
+        "text": "ALL",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 1006,
+        "end": 1012,
+        "text": "stroke",
+        "labels": ["DISEASE"]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 13,
+    "created_at": "2025-02-24T11:37:06.198386Z",
+    "updated_at": "2025-02-24T11:37:06.198386Z",
+    "lead_time": 215.278
+  },
+  {
+    "text": "Less frequent lithium administration and lower urine volume. OBJECTIVE: This study was designed to determine whether patients maintained on a regimen of lithium on a once-per-day schedule have lower urine volumes than do patients receiving multiple doses per day. METHOD: This was a cross-sectional study of 85 patients from a lithium clinic who received different dose schedules. Patients were admitted to the hospital for measurement of lithium level, creatinine clearance, urine volume, and maximum osmolality. RESULTS: Multiple daily doses of lithium were associated with higher urine volumes. The dosing schedule, duration of lithium treatment, and daily dose of lithium did not affect maximum osmolality or creatinine clearance. CONCLUSIONS: Urine volume can be reduced by giving lithium once daily and/or by lowering the total daily dose. Lithium-induced polyuria seems to be related to extrarenal as well as to renal effects.",
+    "id": 94,
+    "label": [
+      {
+        "start": 14,
+        "end": 21,
+        "text": "lithium",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 153,
+        "end": 160,
+        "text": "lithium",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 327,
+        "end": 334,
+        "text": "lithium",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 439,
+        "end": 446,
+        "text": "lithium",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 454,
+        "end": 464,
+        "text": "creatinine",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 547,
+        "end": 554,
+        "text": "lithium",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 631,
+        "end": 638,
+        "text": "lithium",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 668,
+        "end": 675,
+        "text": "lithium",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 713,
+        "end": 723,
+        "text": "creatinine",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 786,
+        "end": 793,
+        "text": "lithium",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 846,
+        "end": 853,
+        "text": "Lithium",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 862,
+        "end": 870,
+        "text": "polyuria",
+        "labels": ["DISEASE"]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 4,
+    "created_at": "2025-02-24T10:54:38.995850Z",
+    "updated_at": "2025-02-24T10:54:38.995850Z",
+    "lead_time": 77.766
+  },
+  {
+    "text": "Prazosin-induced stress incontinence. A case of genuine stress incontinence due to prazosin, a common antihypertensive drug, is presented. Prazosin exerts its antihypertensive effects through vasodilatation caused by selective blockade of postsynaptic alpha-1 adrenergic receptors. As an alpha-blocker, it also exerts a significant relaxant effect on the bladder neck and urethra. The patient's clinical course is described and correlated with initial urodynamic studies while on prazosin and subsequent studies while taking verapamil. Her incontinence resolved with the change of medication. The restoration of continence was accompanied by a substantial rise in maximum urethral pressure, maximum urethral closure pressure, and functional urethral length. Patients who present with stress incontinence while taking prazosin should change their antihypertensive medication before considering surgery, because their incontinence may resolve spontaneously with a change in drug therapy.",
+    "id": 96,
+    "label": [
+      {
+        "start": 0,
+        "end": 8,
+        "text": "Prazosin",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 17,
+        "end": 36,
+        "text": "stress incontinence",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 56,
+        "end": 75,
+        "text": "stress incontinence",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 83,
+        "end": 91,
+        "text": "prazosin",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 139,
+        "end": 147,
+        "text": "Prazosin",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 525,
+        "end": 534,
+        "text": "verapamil",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 540,
+        "end": 552,
+        "text": "incontinence",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 480,
+        "end": 488,
+        "text": "prazosin",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 784,
+        "end": 803,
+        "text": "stress incontinence",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 817,
+        "end": 825,
+        "text": "prazosin",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 916,
+        "end": 928,
+        "text": "incontinence",
+        "labels": ["DISEASE"]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 26,
+    "created_at": "2025-02-24T12:15:37.922008Z",
+    "updated_at": "2025-02-24T12:15:37.922008Z",
+    "lead_time": 87.204
+  },
+  {
+    "text": "Cerebral blood flow and metabolism during isoflurane-induced hypotension in patients subjected to surgery for cerebral aneurysms. Cerebral blood flow and cerebral metabolic rate for oxygen were measured during isoflurane-induced hypotension in 10 patients subjected to craniotomy for clipping of a cerebral aneurysm. Flow and metabolism were measured 5-13 days after the subarachnoid haemorrhage by a modification of the classical Kety-Schmidt technique using xenon-133 i.v. Anaesthesia was maintained with an inspired isoflurane concentration of 0.75% (plus 67% nitrous oxide in oxygen), during which CBF and CMRO2 were 34.3 +/- 2.1 ml/100 g min-1 and 2.32 +/- 0.16 ml/100 g min-1 at PaCO2 4.1 +/- 0.1 kPa (mean +/- SEM). Controlled hypotension to an average MAP of 50-55 mm Hg was induced by increasing the dose of isoflurane, and maintained at an inspired concentration of 2.2 +/- 0.2%. This resulted in a significant decrease in CMRO2 (to 1.73 +/- 0.16 ml/100 g min-1), while CBF was unchanged. After the clipping of the aneurysm the isoflurane concentration was reduced to 0.75%. There was a significant increase in CBF, although CMRO2 was unchanged, compared with pre-hypotensive values. These changes might offer protection to brain tissue during periods of induced hypotension.",
+    "id": 104,
+    "label": [
+      {
+        "start": 42,
+        "end": 52,
+        "text": "isoflurane",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 61,
+        "end": 72,
+        "text": "hypotension",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 110,
+        "end": 128,
+        "text": "cerebral aneurysms",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 182,
+        "end": 188,
+        "text": "oxygen",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 210,
+        "end": 220,
+        "text": "isoflurane",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 229,
+        "end": 240,
+        "text": "hypotension",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 298,
+        "end": 315,
+        "text": "cerebral aneurysm",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 371,
+        "end": 395,
+        "text": "subarachnoid haemorrhage",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 460,
+        "end": 465,
+        "text": "xenon",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 519,
+        "end": 529,
+        "text": "isoflurane",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 563,
+        "end": 576,
+        "text": "nitrous oxide",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 580,
+        "end": 586,
+        "text": "oxygen",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 734,
+        "end": 745,
+        "text": "hypotension",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 817,
+        "end": 827,
+        "text": "isoflurane",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 1025,
+        "end": 1033,
+        "text": "aneurysm",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 776,
+        "end": 778,
+        "text": "Hg",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 1038,
+        "end": 1048,
+        "text": "isoflurane",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 1174,
+        "end": 1185,
+        "text": "hypotensive",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 1273,
+        "end": 1284,
+        "text": "hypotension",
+        "labels": ["DISEASE"]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 3,
+    "created_at": "2025-02-24T10:53:20.852504Z",
+    "updated_at": "2025-02-24T10:53:20.852504Z",
+    "lead_time": 307.619
+  },
+  {
+    "text": "Effect of some anticancer drugs and combined chemotherapy on renal toxicity. The nephrotoxic action of anticancer drugs such as nitrogranulogen (NG), methotrexate (MTX), 5-fluorouracil (5-FU) and cyclophosphamide (CY) administered alone or in combination [MTX + 5-FU + CY (CMF)] was evaluated in experiments on Wistar rats. After drug administration, creatinine concentrations in the plasma and in the urine of the rats were determined, as well as creatinine clearance. Histopathologic evaluation of the kidneys was also performed. After MTX administration a significant increase (p = 0.0228) in the plasma creatinine concentration and a significant (p = 0.0001) decrease in creatinine clearance was noted compared to controls. After the administration of NG, 5-FU and CY neither a statistically significant increase in creatinine concentration nor an increase in creatinine clearance was observed compared to the group receiving no cytostatics. Following polytherapy according to the CMF regimen, a statistically significant decrease (p = 0.0343) in creatinine clearance was found, but creatinine concentration did not increase significantly compared to controls. CY caused hemorrhagic cystitis in 40% of rats, but it did not cause this complication when combined with 5-FU and MTX. Histologic changes were found in rat kidneys after administration of MTX, CY and NG, while no such change was observed after 5-FU and joint administration of MTX + 5-FU + CY compared to controls. Our studies indicate that nephrotoxicity of MTX + 5-FU + CY administered jointly is lower than in monotherapy.",
+    "id": 122,
+    "label": [
+      {
+        "start": 61,
+        "end": 75,
+        "text": "renal toxicity",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 81,
+        "end": 92,
+        "text": "nephrotoxic",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 128,
+        "end": 143,
+        "text": "nitrogranulogen",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 145,
+        "end": 147,
+        "text": "NG",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 150,
+        "end": 162,
+        "text": "methotrexate",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 164,
+        "end": 167,
+        "text": "MTX",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 170,
+        "end": 184,
+        "text": "5-fluorouracil",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 186,
+        "end": 190,
+        "text": "5-FU",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 196,
+        "end": 212,
+        "text": "cyclophosphamide",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 214,
+        "end": 216,
+        "text": "CY",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 256,
+        "end": 259,
+        "text": "MTX",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 262,
+        "end": 266,
+        "text": "5-FU",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 269,
+        "end": 271,
+        "text": "CY",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 351,
+        "end": 361,
+        "text": "creatinine",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 448,
+        "end": 458,
+        "text": "creatinine",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 538,
+        "end": 541,
+        "text": "MTX",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 607,
+        "end": 617,
+        "text": "creatinine",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 675,
+        "end": 685,
+        "text": "creatinine",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 769,
+        "end": 771,
+        "text": "CY",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 864,
+        "end": 874,
+        "text": "creatinine",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 756,
+        "end": 758,
+        "text": "NG",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 760,
+        "end": 764,
+        "text": "5-FU",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 820,
+        "end": 830,
+        "text": "creatinine",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 1051,
+        "end": 1061,
+        "text": "creatinine",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 1087,
+        "end": 1097,
+        "text": "creatinine",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 1165,
+        "end": 1167,
+        "text": "CY",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 1175,
+        "end": 1195,
+        "text": "hemorrhagic cystitis",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 1270,
+        "end": 1274,
+        "text": "5-FU",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 1279,
+        "end": 1282,
+        "text": "MTX",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 1353,
+        "end": 1356,
+        "text": "MTX",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 1358,
+        "end": 1360,
+        "text": "CY",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 1365,
+        "end": 1367,
+        "text": "NG",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 1409,
+        "end": 1413,
+        "text": "5-FU",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 1442,
+        "end": 1445,
+        "text": "MTX",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 1448,
+        "end": 1452,
+        "text": "5-FU",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 1455,
+        "end": 1457,
+        "text": "CY",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 1506,
+        "end": 1520,
+        "text": "nephrotoxicity",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 1524,
+        "end": 1527,
+        "text": "MTX",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 1530,
+        "end": 1534,
+        "text": "5-FU",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 1537,
+        "end": 1539,
+        "text": "CY",
+        "labels": ["CHEMICAL"]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 48,
+    "created_at": "2025-02-24T13:15:41.181597Z",
+    "updated_at": "2025-02-24T13:15:41.181597Z",
+    "lead_time": 237.139
+  },
+  {
+    "text": "Treatment of previously treated metastatic breast cancer by mitoxantrone and 48-hour continuous infusion of high-dose 5-FU and leucovorin (MFL): low palliative benefit and high treatment-related toxicity. For previously treated advanced breast cancer, there is no standard second-line therapy. Combination chemotherapy with mitoxantrone, high-dose 5-fluorouracil (5-FU) and leucovorin (MFL regimen) had been reported as an effective and well tolerated regimen. From October 1993 to November 1995, we treated 13 patients with previously chemotherapy-treated metastatic breast cancer by mitoxantrone, 12 mg/m2, on day 1 and continuous infusion of 5-FU, 3000 mg/m2, together with leucovorin, 300 mg/m2, for 48 h from day 1 to 2. Each course of chemotherapy was given every 4 weeks. Most of these patients had more than two metastatic sites, with lung metastasis predominant. Seven patients had been treated with anthracycline. Seven patients had previously received radiotherapy and seven had received hormone therapy. Median number of courses of MFL regimen given was six and the median cumulative dose of mitoxantrone was 68.35 mg/m2. One patient had complete response, seven had stable disease, none had partial response and five had progressive disease. The overall objective response rate was 7.6%. The median follow-up period was 14 months. Median survival was 16 months. Median progression-free survival was 5 months. A complete responder had relapse-free survival up to 17 months. Major toxicities were cardiotoxicity and leukopenia. Eight patients were dead in the last follow-up; two of them died of treatment-related toxicity. The MFL regimen achieves little palliative benefit and induces severe toxicity at a fairly high rate. Administration of this regimen to breast cancer patients who have been treated by chemotherapy and those with impaired heart function requires careful attention.",
+    "id": 124,
+    "label": [
+      {
+        "start": 43,
+        "end": 56,
+        "text": "breast cancer",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 60,
+        "end": 72,
+        "text": "mitoxantrone",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 118,
+        "end": 122,
+        "text": "5-FU",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 127,
+        "end": 137,
+        "text": "leucovorin",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 138,
+        "end": 142,
+        "text": "(MFL",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 195,
+        "end": 203,
+        "text": "toxicity",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 237,
+        "end": 250,
+        "text": "breast cancer",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 324,
+        "end": 336,
+        "text": "mitoxantrone",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 348,
+        "end": 362,
+        "text": "5-fluorouracil",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 364,
+        "end": 368,
+        "text": "5-FU",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 374,
+        "end": 384,
+        "text": "leucovorin",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 386,
+        "end": 397,
+        "text": "MFL regimen",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 568,
+        "end": 581,
+        "text": "breast cancer",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 585,
+        "end": 597,
+        "text": "mitoxantrone",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 645,
+        "end": 649,
+        "text": "5-FU",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 677,
+        "end": 687,
+        "text": "leucovorin",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 909,
+        "end": 922,
+        "text": "anthracycline",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 1104,
+        "end": 1116,
+        "text": "mitoxantrone",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 1492,
+        "end": 1502,
+        "text": "toxicities",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 1508,
+        "end": 1522,
+        "text": "cardiotoxicity",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 1527,
+        "end": 1537,
+        "text": "leukopenia",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 1625,
+        "end": 1633,
+        "text": "toxicity",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 1639,
+        "end": 1650,
+        "text": "MFL regimen",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 1705,
+        "end": 1713,
+        "text": "toxicity",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 1771,
+        "end": 1784,
+        "text": "breast cancer",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 1044,
+        "end": 1055,
+        "text": "MFL regimen",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 1847,
+        "end": 1870,
+        "text": "impaired heart function",
+        "labels": ["DISEASE"]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 84,
+    "created_at": "2025-02-24T18:52:14.974947Z",
+    "updated_at": "2025-02-24T18:52:14.974947Z",
+    "lead_time": 215.927
+  },
+  {
+    "text": "An unusual toxic reaction to axillary block by mepivacaine with adrenaline. An increase in blood pressure, accompanied by atrial fibrillation, agitation, incomprehensible shouts and loss of consciousness, was observed in an elderly, ASA classification group II, cardiovascularly medicated male, 12 min after performance of axillary block with mepivacaine 850 mg containing adrenaline 0.225 mg, for correction of Dupuytren's contracture. After intravenous administration of labetalol, metoprolol and midazolam the patient's condition improved, and 15 min later he woke up. The block was successful and surgery was conducted as scheduled despite persisting atrial fibrillation. Postoperatively, the patient refused DC cardioversion and was treated medically. Both the temporal relationship of events and the response to treatment suggest that a rapid systemic absorption of mepivacaine with adrenaline and/or interaction of these drugs with the patient's cardiovascular medications were responsible for the perioperative complications.",
+    "id": 127,
+    "label": [
+      {
+        "start": 47,
+        "end": 58,
+        "text": "mepivacaine",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 64,
+        "end": 74,
+        "text": "adrenaline",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 79,
+        "end": 105,
+        "text": "increase in blood pressure",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 122,
+        "end": 141,
+        "text": "atrial fibrillation",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 143,
+        "end": 152,
+        "text": "agitation",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 154,
+        "end": 177,
+        "text": "incomprehensible shouts",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 182,
+        "end": 203,
+        "text": "loss of consciousness",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 343,
+        "end": 354,
+        "text": "mepivacaine",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 373,
+        "end": 383,
+        "text": "adrenaline",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 412,
+        "end": 435,
+        "text": "Dupuytren's contracture",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 473,
+        "end": 482,
+        "text": "labetalol",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 484,
+        "end": 494,
+        "text": "metoprolol",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 499,
+        "end": 508,
+        "text": "midazolam",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 655,
+        "end": 674,
+        "text": "atrial fibrillation",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 872,
+        "end": 883,
+        "text": "mepivacaine",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 889,
+        "end": 899,
+        "text": "adrenaline",
+        "labels": ["CHEMICAL"]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 61,
+    "created_at": "2025-02-24T15:41:46.508393Z",
+    "updated_at": "2025-02-24T15:41:46.508393Z",
+    "lead_time": 122.198
+  },
+  {
+    "text": "Clinical and histopathologic examination of renal allografts treated with tacrolimus (FK506) for at least one year. BACKGROUND: We clinically and pathologically analyzed renal allografts from 1 9 renal transplant patients treated with tacrolimus (FK506) for more than 1 year. METHODS: Twenty-six renal allograft biopsy specimens from 1 9 renal transplant patients who underwent transplantations between 1991 and 1993 were evaluated. Thirteen biopsies were performed from stable functioning renal allografts with informed consent (nonepisode biopsy) and the other 13 were from dysfunctional renal allografts with a clinical indication for biopsy (episode biopsy). RESULTS: The main pathologic diagnoses (some overlap) were acute rejection (AR; n = 4), chronic rejection (CR; n=5), AR+CR (n =4), recurrent IgA nephropathy (n =5), normal findings (n =2), minimal-type chronic FK506 nephropathy (n = 9), and mild-type FK506 nephropathy (n = 11). Of the nonepisode biopsies, 7 and 4 biopsies showed minimal-type and mild-type chronic FK506 nephropathy, respectively. Chronic FK506 nephropathy consisted of rough and foamy tubular vacuolization (5 biopsies), arteriolopathy (angiodegeneration of the arteriolar wall; 20 biopsies), focal segmental glomerulosclerosis (4 biopsies) and the striped form of interstitial fibrosis (11 biopsies). The serum creatinine levels of patients in the mild-type chronic FK506 nephropathy group, which included 7 episode biopsies, were statistically higher than those in the minimum-type chronic FK506-nephropathy group (P< 0.001). CONCLUSIONS: This study demonstrates that chronic FK506 nephropathy consists primarily of arteriolopathy manifesting as insudative hyalinosis of the arteriolar wall, and suggests that mild-type chronic FK506 nephropathy is a condition which may lead to deterioration of renal allograft function.",
+    "id": 128,
+    "label": [
+      {
+        "start": 74,
+        "end": 84,
+        "text": "tacrolimus",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 86,
+        "end": 91,
+        "text": "FK506",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 235,
+        "end": 245,
+        "text": "tacrolimus",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 247,
+        "end": 252,
+        "text": "FK506",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 1070,
+        "end": 1075,
+        "text": "FK506",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 1399,
+        "end": 1404,
+        "text": "FK506",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 1610,
+        "end": 1615,
+        "text": "FK506",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 1524,
+        "end": 1529,
+        "text": "FK506",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 1762,
+        "end": 1767,
+        "text": "FK506",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 914,
+        "end": 919,
+        "text": "FK506",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 804,
+        "end": 819,
+        "text": "IgA nephropathy",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 873,
+        "end": 878,
+        "text": "FK506",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 879,
+        "end": 890,
+        "text": "nephropathy",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 920,
+        "end": 931,
+        "text": "nephropathy",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 1076,
+        "end": 1087,
+        "text": "nephropathy",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 1225,
+        "end": 1259,
+        "text": "focal segmental glomerulosclerosis",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 1297,
+        "end": 1318,
+        "text": "interstitial fibrosis",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 1344,
+        "end": 1354,
+        "text": "creatinine",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 1405,
+        "end": 1416,
+        "text": "nephropathy",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 1530,
+        "end": 1541,
+        "text": "nephropathy",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 1616,
+        "end": 1627,
+        "text": "nephropathy",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 1768,
+        "end": 1779,
+        "text": "nephropathy",
+        "labels": ["DISEASE"]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 16,
+    "created_at": "2025-02-24T11:46:21.274351Z",
+    "updated_at": "2025-02-24T11:46:21.274351Z",
+    "lead_time": 159.992
+  },
+  {
+    "text": "Memory facilitation and stimulation of endogenous nerve growth factor synthesis by the acetylcholine releaser PG-9. The effects of PG-9 (3alpha-tropyl 2-(p-bromophenyl)propionate), the acetylcholine releaser, on memory processes and nerve growth factor (NGF) synthesis were evaluated. In the mouse passive-avoidance test, PG-9 (10-30 mg/kg, i.p.), administered 20 min before the training session, prevented amnesia induced by both the non selective antimuscarinic drug scopolamine and the M1-selective antagonist S-(-)-ET-126. In the same experimental conditions, PG-9 (5-20 microg per mouse, i.c.v.) was also able to prevent antimuscarine-induced amnesia, demonstrating a central localization of the activity. At the highest effective doses, PG-9 did not produce any collateral symptoms as revealed by the Irwin test, and it did not modify spontaneous motility and inspection activity, as revealed by the hole-board test. PG-9 was also able to increase the amount of NGF secreted in vitro by astrocytes in a dose-dependent manner. The maximal NGF contents obtained by PG-9 were 17.6-fold of the control value. During culture, no morphological changes were found at effective concentrations of PG-9. The current work indicates the ability of PG-9 to induce beneficial effects on cognitive processes and stimulate activity of NGF synthesis in astroglial cells. Therefore, PG-9 could represent a potential useful drug able to improve the function of impaired cognitive processes.",
+    "id": 129,
+    "label": [
+      {
+        "start": 87,
+        "end": 100,
+        "text": "acetylcholine",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 110,
+        "end": 114,
+        "text": "PG-9",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 131,
+        "end": 135,
+        "text": "PG-9",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 137,
+        "end": 178,
+        "text": "3alpha-tropyl 2-(p-bromophenyl)propionate",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 185,
+        "end": 198,
+        "text": "acetylcholine",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 322,
+        "end": 326,
+        "text": "PG-9",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 407,
+        "end": 414,
+        "text": "amnesia",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 469,
+        "end": 480,
+        "text": "scopolamine",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 513,
+        "end": 525,
+        "text": "S-(-)-ET-126",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 564,
+        "end": 568,
+        "text": "PG-9",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 648,
+        "end": 655,
+        "text": "amnesia",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 743,
+        "end": 747,
+        "text": "PG-9",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 923,
+        "end": 927,
+        "text": "PG-9",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 1242,
+        "end": 1246,
+        "text": "PG-9",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 1194,
+        "end": 1198,
+        "text": "PG-9",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 1069,
+        "end": 1073,
+        "text": "PG-9",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 1371,
+        "end": 1375,
+        "text": "PG-9",
+        "labels": ["CHEMICAL"]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 64,
+    "created_at": "2025-02-24T15:49:30.650055Z",
+    "updated_at": "2025-02-24T15:49:30.650055Z",
+    "lead_time": 194.13
+  },
+  {
+    "text": "Recurarization in the recovery room. A case of recurarization in the recovery room is reported. Accumulation of atracurium in the intravenous line led to recurarization after flushing the line in the recovery room. A respiratory arrest with severe desaturation and bradycardia occurred. Circumstances leading to this event and the mechanisms enabling a neuromuscular blockade to occur, following the administration of a small dose of relaxant, are discussed.",
+    "id": 131,
+    "label": [
+      {
+        "start": 112,
+        "end": 122,
+        "text": "atracurium",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 217,
+        "end": 235,
+        "text": "respiratory arrest",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 248,
+        "end": 260,
+        "text": "desaturation",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 265,
+        "end": 276,
+        "text": "bradycardia",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 353,
+        "end": 375,
+        "text": "neuromuscular blockade",
+        "labels": ["DISEASE"]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 94,
+    "created_at": "2025-02-24T19:24:16.407393Z",
+    "updated_at": "2025-02-24T19:24:16.407393Z",
+    "lead_time": 50.868
+  },
+  {
+    "text": "Recurrent use of newer oral contraceptives and the risk of venous thromboembolism. The epidemiological studies that assessed the risk of venous thromboembolism (VTE) associated with newer oral contraceptives (OC) did not distinguish between patterns of OC use, namely first-time users, repeaters and switchers. Data from a Transnational case-control study were used to assess the risk of VTE for the latter patterns of use, while accounting for duration of use. Over the period 1993-1996, 551 cases of VTE were identified in Germany and the UK along with 2066 controls. Totals of 128 cases and 650 controls were analysed for repeat use and 135 cases and 622 controls for switching patterns. The adjusted rate ratio of VTE for repeat users of third generation OC was 0.6 (95% CI:0.3-1.2) relative to repeat users of second generation pills, whereas it was 1.3 (95% CI:0.7-2.4) for switchers from second to third generation pills relative to switchers from third to second generation pills. We conclude that second and third generation agents are associated with equivalent risks of VTE when the same agent is used repeatedly after interruption periods or when users are switched between the two generations of pills. These analyses suggest that the higher risk observed for the newer OC in other studies may be the result of inadequate comparisons of pill users with different patterns of pill use.",
+    "id": 132,
+    "label": [
+      {
+        "start": 23,
+        "end": 42,
+        "text": "oral contraceptives",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 59,
+        "end": 81,
+        "text": "venous thromboembolism",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 137,
+        "end": 159,
+        "text": "venous thromboembolism",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 161,
+        "end": 164,
+        "text": "VTE",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 188,
+        "end": 207,
+        "text": "oral contraceptives",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 209,
+        "end": 211,
+        "text": "OC",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 253,
+        "end": 255,
+        "text": "OC",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 388,
+        "end": 391,
+        "text": "VTE",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 502,
+        "end": 505,
+        "text": "VTE",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 718,
+        "end": 721,
+        "text": "VTE",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 759,
+        "end": 761,
+        "text": "OC",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 1081,
+        "end": 1084,
+        "text": "VTE",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 1283,
+        "end": 1285,
+        "text": "OC",
+        "labels": ["CHEMICAL"]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 21,
+    "created_at": "2025-02-24T12:02:03.642038Z",
+    "updated_at": "2025-02-24T12:02:03.642038Z",
+    "lead_time": 82.878
+  }
+]
