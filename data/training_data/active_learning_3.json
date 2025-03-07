@@ -1,0 +1,7197 @@
+[
+  {
+    "text": "Organophosphate-induced convulsions and prevention of neuropathological damages. Such organophosphorus (OP) compounds as diisopropylfluorophosphate (DFP), sarin and soman are potent inhibitors of acetylcholinesterases (AChEs) and butyrylcholinesterases (BChEs). The acute toxicity of OPs is the result of their irreversible binding with AChEs in the central nervous system (CNS), which elevates acetylcholine (ACh) levels. The protective action of subcutaneously (SC) administered antidotes or their combinations in DFP (2.0 mg\/kg BW) intoxication was studied in 9-10-weeks-old Han-Wistar male rats. The rats received AChE reactivator pralidoxime-2-chloride (2PAM) (30.0 mg\/kg BW), anticonvulsant diazepam (2.0 mg\/kg BW), A(1)-adenosine receptor agonist N(6)-cyclopentyl adenosine (CPA) (2.0 mg\/kg BW), NMDA-receptor antagonist dizocilpine maleate (+-MK801 hydrogen maleate) (2.0 mg\/kg BW) or their combinations with cholinolytic drug atropine sulfate (50.0 mg\/kg BW) immediately or 30 min after the single SC injection of DFP. The control rats received atropine sulfate, but also saline and olive oil instead of other antidotes and DFP, respectively. All rats were terminated either 24 h or 3 weeks after the DFP injection. The rats treated with DFP-atropine showed severe typical OP-induced toxicity signs. When CPA, diazepam or 2PAM was given immediately after DFP-atropine, these treatments prevented, delayed or shortened the occurrence of serious signs of poisoning. Atropine-MK801 did not offer any additional protection against DFP toxicity. In conclusion, CPA, diazepam and 2PAM in combination with atropine prevented the occurrence of serious signs of poisoning and thus reduced the toxicity of DFP in rat.",
+    "id": 551,
+    "label": [
+      {
+        "start": 0,
+        "end": 15,
+        "text": "Organophosphate",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 24,
+        "end": 35,
+        "text": "convulsions",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 54,
+        "end": 79,
+        "text": "neuropathological damages",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 86,
+        "end": 102,
+        "text": "organophosphorus",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 104,
+        "end": 106,
+        "text": "OP",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 121,
+        "end": 147,
+        "text": "diisopropylfluorophosphate",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 149,
+        "end": 152,
+        "text": "DFP",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 155,
+        "end": 160,
+        "text": "sarin",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 165,
+        "end": 170,
+        "text": "soman",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 272,
+        "end": 280,
+        "text": "toxicity",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 284,
+        "end": 287,
+        "text": "OPs",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 395,
+        "end": 408,
+        "text": "acetylcholine",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 410,
+        "end": 413,
+        "text": "ACh",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 516,
+        "end": 519,
+        "text": "DFP",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 635,
+        "end": 657,
+        "text": "pralidoxime-2-chloride",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 659,
+        "end": 663,
+        "text": "2PAM",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 697,
+        "end": 705,
+        "text": "diazepam",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 727,
+        "end": 736,
+        "text": "adenosine",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 754,
+        "end": 780,
+        "text": "N(6)-cyclopentyl adenosine",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 782,
+        "end": 785,
+        "text": "CPA",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 803,
+        "end": 807,
+        "text": "NMDA",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 828,
+        "end": 847,
+        "text": "dizocilpine maleate",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 935,
+        "end": 951,
+        "text": "atropine sulfate",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1023,
+        "end": 1026,
+        "text": "DFP",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1133,
+        "end": 1136,
+        "text": "DFP",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1210,
+        "end": 1213,
+        "text": "DFP",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1247,
+        "end": 1250,
+        "text": "DFP",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1251,
+        "end": 1259,
+        "text": "atropine",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1282,
+        "end": 1284,
+        "text": "OP",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1293,
+        "end": 1301,
+        "text": "toxicity",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 1314,
+        "end": 1317,
+        "text": "CPA",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1319,
+        "end": 1327,
+        "text": "diazepam",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1331,
+        "end": 1335,
+        "text": "2PAM",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1364,
+        "end": 1367,
+        "text": "DFP",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1368,
+        "end": 1376,
+        "text": "atropine",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1462,
+        "end": 1471,
+        "text": "poisoning",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 1540,
+        "end": 1548,
+        "text": "toxicity",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 1536,
+        "end": 1539,
+        "text": "DFP",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1693,
+        "end": 1701,
+        "text": "toxicity",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 1705,
+        "end": 1708,
+        "text": "DFP",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1473,
+        "end": 1481,
+        "text": "Atropine",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1482,
+        "end": 1487,
+        "text": "MK801",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1565,
+        "end": 1568,
+        "text": "CPA",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1570,
+        "end": 1578,
+        "text": "diazepam",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1583,
+        "end": 1587,
+        "text": "2PAM",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1608,
+        "end": 1616,
+        "text": "atropine",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1662,
+        "end": 1671,
+        "text": "poisoning",
+        "labels": [
+          "Disease"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 151,
+    "created_at": "2025-03-02T16:16:02.896110Z",
+    "updated_at": "2025-03-02T16:16:02.896110Z",
+    "lead_time": 379.83500000000004
+  },
+  {
+    "text": "Warfarin-induced artery calcification is accelerated by growth and vitamin D. The present studies demonstrate that growth and vitamin D treatment enhance the extent of artery calcification in rats given sufficient doses of Warfarin to inhibit gamma-carboxylation of matrix Gla protein, a calcification inhibitor known to be expressed by smooth muscle cells and macrophages in the artery wall. The first series of experiments examined the influence of age and growth status on artery calcification in Warfarin-treated rats. Treatment for 2 weeks with Warfarin caused massive focal calcification of the artery media in 20-day-old rats and less extensive focal calcification in 42-day-old rats. In contrast, no artery calcification could be detected in 10-month-old adult rats even after 4 weeks of Warfarin treatment. To directly examine the importance of growth to Warfarin-induced artery calcification in animals of the same age, 20-day-old rats were fed for 2 weeks either an ad libitum diet or a 6-g\/d restricted diet that maintains weight but prevents growth. Concurrent treatment of both dietary groups with Warfarin produced massive focal calcification of the artery media in the ad libitum-fed rats but no detectable artery calcification in the restricted-diet, growth-inhibited group. Although the explanation for the association between artery calcification and growth status cannot be determined from the present study, there was a relationship between higher serum phosphate and susceptibility to artery calcification, with 30% higher levels of serum phosphate in young, ad libitum-fed rats compared with either of the groups that was resistant to Warfarin-induced artery calcification, ie, the 10-month-old rats and the restricted-diet, growth-inhibited young rats. This observation suggests that increased susceptibility to Warfarin-induced artery calcification could be related to higher serum phosphate levels. The second set of experiments examined the possible synergy between vitamin D and Warfarin in artery calcification. High doses of vitamin D are known to cause calcification of the artery media in as little as 3 to 4 days. High doses of the vitamin K antagonist Warfarin are also known to cause calcification of the artery media, but at treatment times of 2 weeks or longer yet not at 1 week. In the current study, we investigated the synergy between these 2 treatments and found that concurrent Warfarin administration dramatically increased the extent of calcification in the media of vitamin D-treated rats at 3 and 4 days. There was a close parallel between the effect of vitamin D dose on artery calcification and the effect of vitamin D dose on the elevation of serum calcium, which suggests that vitamin D may induce artery calcification through its effect on serum calcium. Because Warfarin treatment had no effect on the elevation in serum calcium produced by vitamin D, the synergy between Warfarin and vitamin D is probably best explained by the hypothesis that Warfarin inhibits the activity of matrix Gla protein as a calcification inhibitor. High levels of matrix Gla protein are found at sites of artery calcification in rats treated with vitamin D plus Warfarin, and chemical analysis showed that the protein that accumulated was indeed not gamma-carboxylated. These observations indicate that although the gamma-carboxyglutamate residues of matrix Gla protein are apparently required for its function as a calcification inhibitor, they are not required for its accumulation at calcification sites.",
+    "id": 552,
+    "label": [
+      {
+        "start": 0,
+        "end": 8,
+        "text": "Warfarin",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 17,
+        "end": 37,
+        "text": "artery calcification",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 67,
+        "end": 76,
+        "text": "vitamin D",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 126,
+        "end": 135,
+        "text": "vitamin D",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 168,
+        "end": 188,
+        "text": "artery calcification",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 223,
+        "end": 231,
+        "text": "Warfarin",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 288,
+        "end": 301,
+        "text": "calcification",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 476,
+        "end": 496,
+        "text": "artery calcification",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 500,
+        "end": 508,
+        "text": "Warfarin",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 550,
+        "end": 558,
+        "text": "Warfarin",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 580,
+        "end": 607,
+        "text": "calcification of the artery",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 658,
+        "end": 671,
+        "text": "calcification",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 708,
+        "end": 728,
+        "text": "artery calcification",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 796,
+        "end": 804,
+        "text": "Warfarin",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 864,
+        "end": 872,
+        "text": "Warfarin",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 881,
+        "end": 901,
+        "text": "artery calcification",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 1112,
+        "end": 1120,
+        "text": "Warfarin",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1144,
+        "end": 1171,
+        "text": "calcification of the artery",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 1223,
+        "end": 1243,
+        "text": "artery calcification",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 1475,
+        "end": 1484,
+        "text": "phosphate",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1345,
+        "end": 1365,
+        "text": "artery calcification",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 1507,
+        "end": 1527,
+        "text": "artery calcification",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 1561,
+        "end": 1570,
+        "text": "phosphate",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1658,
+        "end": 1666,
+        "text": "Warfarin",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 1675,
+        "end": 1695,
+        "text": "artery calcification",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 1836,
+        "end": 1844,
+        "text": "Warfarin",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1853,
+        "end": 1873,
+        "text": "artery calcification",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 1907,
+        "end": 1916,
+        "text": "phosphate",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1993,
+        "end": 2002,
+        "text": "vitamin D",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 2007,
+        "end": 2015,
+        "text": "Warfarin",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 2019,
+        "end": 2039,
+        "text": "artery calcification",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 2055,
+        "end": 2064,
+        "text": "vitamin D",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 2084,
+        "end": 2111,
+        "text": "calcification of the artery",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 2165,
+        "end": 2174,
+        "text": "vitamin K",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 2186,
+        "end": 2194,
+        "text": "Warfarin",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 2219,
+        "end": 2246,
+        "text": "calcification of the artery",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 2420,
+        "end": 2428,
+        "text": "Warfarin",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 2481,
+        "end": 2494,
+        "text": "calcification",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 2511,
+        "end": 2520,
+        "text": "vitamin D",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 2600,
+        "end": 2609,
+        "text": "vitamin D",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 2618,
+        "end": 2638,
+        "text": "artery calcification",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 2657,
+        "end": 2666,
+        "text": "vitamin D",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 2698,
+        "end": 2705,
+        "text": "calcium",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 2727,
+        "end": 2736,
+        "text": "vitamin D",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 2797,
+        "end": 2804,
+        "text": "calcium",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 2814,
+        "end": 2822,
+        "text": "Warfarin",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 2873,
+        "end": 2880,
+        "text": "calcium",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 2893,
+        "end": 2902,
+        "text": "vitamin D",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 2924,
+        "end": 2932,
+        "text": "Warfarin",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 2937,
+        "end": 2946,
+        "text": "vitamin D",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 2997,
+        "end": 3005,
+        "text": "Warfarin",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 3055,
+        "end": 3068,
+        "text": "calcification",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 3136,
+        "end": 3156,
+        "text": "artery calcification",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 3178,
+        "end": 3187,
+        "text": "vitamin D",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 3193,
+        "end": 3201,
+        "text": "Warfarin",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 3281,
+        "end": 3299,
+        "text": "gamma-carboxylated",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 3347,
+        "end": 3369,
+        "text": "gamma-carboxyglutamate",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 3447,
+        "end": 3460,
+        "text": "calcification",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 3518,
+        "end": 3531,
+        "text": "calcification",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 2748,
+        "end": 2768,
+        "text": "artery calcification",
+        "labels": [
+          "Disease"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 152,
+    "created_at": "2025-03-02T16:32:57.886893Z",
+    "updated_at": "2025-03-02T16:32:57.886893Z",
+    "lead_time": 1014.717
+  },
+  {
+    "text": "Changes of sodium and ATP affinities of the cardiac (Na,K)-ATPase during and after nitric oxide deficient hypertension. In the cardiovascular system, NO is involved in the regulation of a variety of functions. Inhibition of NO synthesis induces sustained hypertension. In several models of hypertension, elevation of intracellular sodium level was documented in cardiac tissue. To assess the molecular basis of disturbances in transmembraneous transport of Na+, we studied the response of cardiac (Na,K)-ATPase to NO-deficient hypertension induced in rats by NO-synthase inhibition with 40 mg\/kg\/day N(G)-nitro-L-arginine methyl ester (L-NAME) for 4 four weeks. After 4-week administration of L-NAME, the systolic blood pressure (SBP) increased by 36%. Two weeks after terminating the treatment, the SBP recovered to control value. When activating the (Na,K)-ATPase with its substrate ATP, no changes in Km and Vmax values were observed in NO-deficient rats. During activation with Na+, the Vmax remained unchanged, however the K(Na) increased by 50%, indicating a profound decrease in the affinity of the Na+-binding site in NO-deficient rats. After recovery from hypertension, the activity of (Na,K)-ATPase increased, due to higher affinity of the ATP-binding site, as revealed from the lowered Km value for ATP. The K(Na) value for Na+ returned to control value. Inhibition of NO-synthase induced a reversible hypertension accompanied by depressed Na+-extrusion from cardiac cells as a consequence of deteriorated Na+-binding properties of the (Na,K)-ATPase. After recovery of blood pressure to control values, the extrusion of Na+ from cardiac cells was normalized, as revealed by restoration of the (Na,K)-ATPase activity.",
+    "id": 553,
+    "label": [
+      {
+        "start": 11,
+        "end": 17,
+        "text": "sodium",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 22,
+        "end": 25,
+        "text": "ATP",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 53,
+        "end": 55,
+        "text": "Na",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 56,
+        "end": 57,
+        "text": "K",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 83,
+        "end": 95,
+        "text": "nitric oxide",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 106,
+        "end": 118,
+        "text": "hypertension",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 150,
+        "end": 152,
+        "text": "NO",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 224,
+        "end": 226,
+        "text": "NO",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 255,
+        "end": 267,
+        "text": "hypertension",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 290,
+        "end": 302,
+        "text": "hypertension",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 331,
+        "end": 337,
+        "text": "sodium",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 457,
+        "end": 459,
+        "text": "Na",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 498,
+        "end": 500,
+        "text": "Na",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 501,
+        "end": 502,
+        "text": "K",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 514,
+        "end": 516,
+        "text": "NO",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 527,
+        "end": 539,
+        "text": "hypertension",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 559,
+        "end": 561,
+        "text": "NO",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 600,
+        "end": 634,
+        "text": "N(G)-nitro-L-arginine methyl ester",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 636,
+        "end": 642,
+        "text": "L-NAME",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 693,
+        "end": 699,
+        "text": "L-NAME",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 853,
+        "end": 855,
+        "text": "Na",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 856,
+        "end": 857,
+        "text": "K",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 885,
+        "end": 888,
+        "text": "ATP",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 940,
+        "end": 942,
+        "text": "NO",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 982,
+        "end": 984,
+        "text": "Na",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1028,
+        "end": 1029,
+        "text": "K",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1030,
+        "end": 1032,
+        "text": "Na",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1106,
+        "end": 1108,
+        "text": "Na",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1126,
+        "end": 1128,
+        "text": "NO",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1196,
+        "end": 1198,
+        "text": "Na",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1199,
+        "end": 1200,
+        "text": "K",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1165,
+        "end": 1177,
+        "text": "hypertension",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 1250,
+        "end": 1253,
+        "text": "ATP",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1310,
+        "end": 1313,
+        "text": "ATP",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1319,
+        "end": 1320,
+        "text": "K",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1321,
+        "end": 1323,
+        "text": "Na",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1335,
+        "end": 1337,
+        "text": "Na",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1380,
+        "end": 1382,
+        "text": "NO",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1413,
+        "end": 1425,
+        "text": "hypertension",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 1441,
+        "end": 1450,
+        "text": "depressed",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 1451,
+        "end": 1453,
+        "text": "Na",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1517,
+        "end": 1519,
+        "text": "Na",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1548,
+        "end": 1550,
+        "text": "Na",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1551,
+        "end": 1552,
+        "text": "K",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1631,
+        "end": 1633,
+        "text": "Na",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1705,
+        "end": 1707,
+        "text": "Na",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1708,
+        "end": 1709,
+        "text": "K",
+        "labels": [
+          "Chemical"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 153,
+    "created_at": "2025-03-02T16:38:46.974373Z",
+    "updated_at": "2025-03-02T16:38:46.974373Z",
+    "lead_time": 348.833
+  },
+  {
+    "text": "NO-induced migraine attack: strong increase in plasma calcitonin gene-related peptide (CGRP) concentration and negative correlation with platelet serotonin release. The aim of the present study was to investigate changes in the plasma calcitonin gene-related peptide (CGRP) concentration and platelet serotonin (5-hydroxytriptamine, 5-HT) content during the immediate headache and the delayed genuine migraine attack provoked by nitroglycerin. Fifteen female migraineurs (without aura) and eight controls participated in the study. Sublingual nitroglycerin (0.5 mg) was administered. Blood was collected from the antecubital vein four times: 60 min before and after the nitroglycerin application, and 60 and 120 min after the beginning of the migraine attack (mean 344 and 404 min; 12 subjects). In those subjects who had no migraine attack (11 subjects) a similar time schedule was used. Plasma CGRP concentration increased significantly (P<0.01) during the migraine attack and returned to baseline after the cessation of the migraine. In addition, both change and peak, showed significant positive correlations with migraine headache intensity (P<0.001). However, plasma CGRP concentrations failed to change during immediate headache and in the subjects with no migraine attack. Basal CGRP concentration was significantly higher and platelet 5-HT content tended to be lower in subjects who experienced a migraine attack. Platelet serotonin content decreased significantly (P<0.01) after nitroglycerin in subjects with no migraine attack but no consistent change was observed in patients with migraine attack. In conclusion, the fact that plasma CGRP concentration correlates with the timing and severity of a migraine headache suggests a direct relationship between CGRP and migraine. In contrast, serotonin release from platelets does not provoke migraine, it may even counteract the headache and the concomitant CGRP release in this model.",
+    "id": 554,
+    "label": [
+      {
+        "start": 0,
+        "end": 2,
+        "text": "NO",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 11,
+        "end": 19,
+        "text": "migraine",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 54,
+        "end": 85,
+        "text": "calcitonin gene-related peptide",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 87,
+        "end": 91,
+        "text": "CGRP",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 146,
+        "end": 155,
+        "text": "serotonin",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 235,
+        "end": 266,
+        "text": "calcitonin gene-related peptide",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 268,
+        "end": 272,
+        "text": "CGRP",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 301,
+        "end": 310,
+        "text": "serotonin",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 312,
+        "end": 331,
+        "text": "5-hydroxytriptamine",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 333,
+        "end": 337,
+        "text": "5-HT",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 368,
+        "end": 376,
+        "text": "headache",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 401,
+        "end": 409,
+        "text": "migraine",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 429,
+        "end": 442,
+        "text": "nitroglycerin",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 459,
+        "end": 485,
+        "text": "migraineurs (without aura)",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 543,
+        "end": 556,
+        "text": "nitroglycerin",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 670,
+        "end": 683,
+        "text": "nitroglycerin",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 743,
+        "end": 751,
+        "text": "migraine",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 825,
+        "end": 833,
+        "text": "migraine",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 896,
+        "end": 900,
+        "text": "CGRP",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 959,
+        "end": 967,
+        "text": "migraine",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 1027,
+        "end": 1035,
+        "text": "migraine",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 1118,
+        "end": 1126,
+        "text": "migraine",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 1127,
+        "end": 1135,
+        "text": "headache",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 1173,
+        "end": 1177,
+        "text": "CGRP",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1227,
+        "end": 1235,
+        "text": "headache",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 1264,
+        "end": 1272,
+        "text": "migraine",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 1287,
+        "end": 1291,
+        "text": "CGRP",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1406,
+        "end": 1414,
+        "text": "migraine",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 1344,
+        "end": 1348,
+        "text": "5-HT",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1432,
+        "end": 1441,
+        "text": "serotonin",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1489,
+        "end": 1502,
+        "text": "nitroglycerin",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1523,
+        "end": 1531,
+        "text": "migraine",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 1594,
+        "end": 1602,
+        "text": "migraine",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 1647,
+        "end": 1651,
+        "text": "CGRP",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1711,
+        "end": 1719,
+        "text": "migraine",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 1720,
+        "end": 1728,
+        "text": "headache",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 1768,
+        "end": 1772,
+        "text": "CGRP",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1777,
+        "end": 1785,
+        "text": "migraine",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 1800,
+        "end": 1809,
+        "text": "serotonin",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1850,
+        "end": 1858,
+        "text": "migraine",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 1887,
+        "end": 1895,
+        "text": "headache",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 1916,
+        "end": 1920,
+        "text": "CGRP",
+        "labels": [
+          "Chemical"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 154,
+    "created_at": "2025-03-02T16:43:44.780518Z",
+    "updated_at": "2025-03-02T16:43:44.780518Z",
+    "lead_time": 297.544
+  },
+  {
+    "text": "End-stage renal disease (ESRD) after orthotopic liver transplantation (OLTX) using calcineurin-based immunotherapy: risk of development and treatment. BACKGROUND: The calcineurin inhibitors cyclosporine and tacrolimus are both known to be nephrotoxic. Their use in orthotopic liver transplantation (OLTX) has dramatically improved success rates. Recently, however, we have had an increase of patients who are presenting after OLTX with end-stage renal disease (ESRD). This retrospective study examines the incidence and treatment of ESRD and chronic renal failure (CRF) in OLTX patients. METHODS: Patients receiving an OLTX only from June 1985 through December of 1994 who survived 6 months postoperatively were studied (n=834). Our prospectively collected database was the source of information. Patients were divided into three groups: Controls, no CRF or ESRD, n=748; CRF, sustained serum creatinine >2.5 mg\/dl, n=41; and ESRD, n=45. Groups were compared for preoperative laboratory variables, diagnosis, postoperative variables, survival, type of ESRD therapy, and survival from onset of ESRD. RESULTS: At 13 years after OLTX, the incidence of severe renal dysfunction was 18.1% (CRF 8.6% and ESRD 9.5%). Compared with control patients, CRF and ESRD patients had higher preoperative serum creatinine levels, a greater percentage of patients with hepatorenal syndrome, higher percentage requirement for dialysis in the first 3 months postoperatively, and a higher 1-year serum creatinine. Multivariate stepwise logistic regression analysis using preoperative and postoperative variables identified that an increase of serum creatinine compared with average at 1 year, 3 months, and 4 weeks postoperatively were independent risk factors for the development of CRF or ESRD with odds ratios of 2.6, 2.2, and 1.6, respectively. Overall survival from the time of OLTX was not significantly different among groups, but by year 13, the survival of the patients who had ESRD was only 28.2% compared with 54.6% in the control group. Patients developing ESRD had a 6-year survival after onset of ESRD of 27% for the patients receiving hemodialysis versus 71.4% for the patients developing ESRD who subsequently received kidney transplants. CONCLUSIONS: Patients who are more than 10 years post-OLTX have CRF and ESRD at a high rate. The development of ESRD decreases survival, particularly in those patients treated with dialysis only. Patients who develop ESRD have a higher preoperative and 1-year serum creatinine and are more likely to have hepatorenal syndrome. However, an increase of serum creatinine at various times postoperatively is more predictive of the development of CRF or ESRD. New strategies for long-term immunosuppression may be needed to decrease this complication.",
+    "id": 555,
+    "label": [
+      {
+        "start": 0,
+        "end": 23,
+        "text": "End-stage renal disease",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 25,
+        "end": 29,
+        "text": "ESRD",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 190,
+        "end": 202,
+        "text": "cyclosporine",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 207,
+        "end": 217,
+        "text": "tacrolimus",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 239,
+        "end": 250,
+        "text": "nephrotoxic",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 436,
+        "end": 459,
+        "text": "end-stage renal disease",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 461,
+        "end": 465,
+        "text": "ESRD",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 533,
+        "end": 537,
+        "text": "ESRD",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 542,
+        "end": 563,
+        "text": "chronic renal failure",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 565,
+        "end": 568,
+        "text": "CRF",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 851,
+        "end": 854,
+        "text": "CRF",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 858,
+        "end": 862,
+        "text": "ESRD",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 871,
+        "end": 874,
+        "text": "CRF",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 892,
+        "end": 902,
+        "text": "creatinine",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 925,
+        "end": 929,
+        "text": "ESRD",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 1051,
+        "end": 1055,
+        "text": "ESRD",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 1092,
+        "end": 1096,
+        "text": "ESRD",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 1155,
+        "end": 1172,
+        "text": "renal dysfunction",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 1184,
+        "end": 1187,
+        "text": "CRF",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 1197,
+        "end": 1201,
+        "text": "ESRD",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 1241,
+        "end": 1244,
+        "text": "CRF",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 1249,
+        "end": 1253,
+        "text": "ESRD",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 1293,
+        "end": 1303,
+        "text": "creatinine",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1350,
+        "end": 1370,
+        "text": "hepatorenal syndrome",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 1480,
+        "end": 1490,
+        "text": "creatinine",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1627,
+        "end": 1637,
+        "text": "creatinine",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1762,
+        "end": 1765,
+        "text": "CRF",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 1769,
+        "end": 1773,
+        "text": "ESRD",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 1965,
+        "end": 1969,
+        "text": "ESRD",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 2047,
+        "end": 2051,
+        "text": "ESRD",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 2089,
+        "end": 2093,
+        "text": "ESRD",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 2182,
+        "end": 2186,
+        "text": "ESRD",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 2345,
+        "end": 2349,
+        "text": "ESRD",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 2297,
+        "end": 2300,
+        "text": "CRF",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 2305,
+        "end": 2309,
+        "text": "ESRD",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 2450,
+        "end": 2454,
+        "text": "ESRD",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 2499,
+        "end": 2509,
+        "text": "creatinine",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 2538,
+        "end": 2558,
+        "text": "hepatorenal syndrome",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 2590,
+        "end": 2600,
+        "text": "creatinine",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 2675,
+        "end": 2678,
+        "text": "CRF",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 2682,
+        "end": 2686,
+        "text": "ESRD",
+        "labels": [
+          "Disease"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 155,
+    "created_at": "2025-03-02T16:53:47.392580Z",
+    "updated_at": "2025-03-02T16:53:47.392580Z",
+    "lead_time": 602.36
+  },
+  {
+    "text": "Hemolysis of human erythrocytes induced by tamoxifen is related to disruption of membrane structure. Tamoxifen (TAM), the antiestrogenic drug most widely prescribed in the chemotherapy of breast cancer, induces changes in normal discoid shape of erythrocytes and hemolytic anemia. This work evaluates the effects of TAM on isolated human erythrocytes, attempting to identify the underlying mechanisms on TAM-induced hemolytic anemia and the involvement of biomembranes in its cytostatic action mechanisms. TAM induces hemolysis of erythrocytes as a function of concentration. The extension of hemolysis is variable with erythrocyte samples, but 12.5 microM TAM induces total hemolysis of all tested suspensions. Despite inducing extensive erythrocyte lysis, TAM does not shift the osmotic fragility curves of erythrocytes. The hemolytic effect of TAM is prevented by low concentrations of alpha-tocopherol (alpha-T) and alpha-tocopherol acetate (alpha-TAc) (inactivated functional hydroxyl) indicating that TAM-induced hemolysis is not related to oxidative membrane damage. This was further evidenced by absence of oxygen consumption and hemoglobin oxidation both determined in parallel with TAM-induced hemolysis. Furthermore, it was observed that TAM inhibits the peroxidation of human erythrocytes induced by AAPH, thus ruling out TAM-induced cell oxidative stress. Hemolysis caused by TAM was not preceded by the leakage of K(+) from the cells, also excluding a colloid-osmotic type mechanism of hemolysis, according to the effects on osmotic fragility curves. However, TAM induces release of peripheral proteins of membrane-cytoskeleton and cytosol proteins essentially bound to band 3. Either alpha-T or alpha-TAc increases membrane packing and prevents TAM partition into model membranes. These effects suggest that the protection from hemolysis by tocopherols is related to a decreased TAM incorporation in condensed membranes and the structural damage of the erythrocyte membrane is consequently avoided. Therefore, TAM-induced hemolysis results from a structural perturbation of red cell membrane, leading to changes in the framework of the erythrocyte membrane and its cytoskeleton caused by its high partition in the membrane. These defects explain the abnormal erythrocyte shape and decreased mechanical stability promoted by TAM, resulting in hemolytic anemia. Additionally, since membrane leakage is a final stage of cytotoxicity, the disruption of the structural characteristics of biomembranes by TAM may contribute to the multiple mechanisms of its anticancer action.",
+    "id": 556,
+    "label": [
+      {
+        "start": 0,
+        "end": 9,
+        "text": "Hemolysis",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 101,
+        "end": 110,
+        "text": "Tamoxifen",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 43,
+        "end": 52,
+        "text": "tamoxifen",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 112,
+        "end": 115,
+        "text": "TAM",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 188,
+        "end": 201,
+        "text": "breast cancer",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 263,
+        "end": 279,
+        "text": "hemolytic anemia",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 316,
+        "end": 319,
+        "text": "TAM",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 404,
+        "end": 407,
+        "text": "TAM",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 416,
+        "end": 432,
+        "text": "hemolytic anemia",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 506,
+        "end": 509,
+        "text": "TAM",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 518,
+        "end": 527,
+        "text": "hemolysis",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 593,
+        "end": 602,
+        "text": "hemolysis",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 657,
+        "end": 660,
+        "text": "TAM",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 758,
+        "end": 761,
+        "text": "TAM",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 675,
+        "end": 684,
+        "text": "hemolysis",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 827,
+        "end": 836,
+        "text": "hemolytic",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 847,
+        "end": 850,
+        "text": "TAM",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 889,
+        "end": 905,
+        "text": "alpha-tocopherol",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 907,
+        "end": 914,
+        "text": "alpha-T",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 920,
+        "end": 944,
+        "text": "alpha-tocopherol acetate",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 946,
+        "end": 955,
+        "text": "alpha-TAc",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 981,
+        "end": 989,
+        "text": "hydroxyl",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1007,
+        "end": 1010,
+        "text": "TAM",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1019,
+        "end": 1028,
+        "text": "hemolysis",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 1115,
+        "end": 1121,
+        "text": "oxygen",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1192,
+        "end": 1195,
+        "text": "TAM",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1204,
+        "end": 1213,
+        "text": "hemolysis",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 1249,
+        "end": 1252,
+        "text": "TAM",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1312,
+        "end": 1316,
+        "text": "AAPH",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1334,
+        "end": 1337,
+        "text": "TAM",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1369,
+        "end": 1378,
+        "text": "Hemolysis",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 1389,
+        "end": 1392,
+        "text": "TAM",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1428,
+        "end": 1429,
+        "text": "K",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1500,
+        "end": 1509,
+        "text": "hemolysis",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 1574,
+        "end": 1577,
+        "text": "TAM",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1699,
+        "end": 1706,
+        "text": "alpha-T",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1710,
+        "end": 1719,
+        "text": "alpha-TAc",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1760,
+        "end": 1763,
+        "text": "TAM",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1843,
+        "end": 1852,
+        "text": "hemolysis",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 1856,
+        "end": 1867,
+        "text": "tocopherols",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1894,
+        "end": 1897,
+        "text": "TAM",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 2025,
+        "end": 2028,
+        "text": "TAM",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 2037,
+        "end": 2046,
+        "text": "hemolysis",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 2339,
+        "end": 2342,
+        "text": "TAM",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 2357,
+        "end": 2373,
+        "text": "hemolytic anemia",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 2514,
+        "end": 2517,
+        "text": "TAM",
+        "labels": [
+          "Chemical"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 156,
+    "created_at": "2025-03-02T16:59:38.870283Z",
+    "updated_at": "2025-03-02T16:59:38.870283Z",
+    "lead_time": 351.223
+  },
+  {
+    "text": "Crossover comparison of efficacy and preference for rizatriptan 10 mg versus ergotamine\/caffeine in migraine. Rizatriptan is a selective 5-HT(1B\/1D) receptor agonist with rapid oral absorption and early onset of action in the acute treatment of migraine. This randomized double- blind crossover outpatient study assessed the preference for 1 rizatriptan 10 mg tablet to 2 ergotamine 1 mg\/caffeine 100 mg tablets in 439 patients treating a single migraine attack with each therapy. Of patients expressing a preference (89.1%), more than twice as many preferred rizatriptan to ergotamine\/caffeine (69.9 vs. 30.1%, p < or = 0.001). Faster relief of headache was the most important reason for preference, cited by 67.3% of patients preferring rizatriptan and 54.2% of patients who preferred ergotamine\/caffeine. The co-primary endpoint of being pain free at 2 h was also in favor of rizatriptan. Forty-nine percent of patients were pain free 2 h after rizatriptan, compared with 24.3% treated with ergotamine\/caffeine (p < or = 0.001), rizatriptan being superior within 1 h of treatment. Headache relief at 2 h was 75.9% for rizatriptan and 47.3% for ergotamine\/caffeine (p < or = 0.001), with rizatriptan being superior to ergotamine\/caffeine within 30 min of dosing. Almost 36% of patients taking rizatriptan were pain free at 2 h and had no recurrence or need for additional medication within 24 h, compared to 20% of patients on ergotamine\/caffeine (p < or = 0.001). Rizatriptan was also superior to ergotamine\/caffeine in the proportions of patients with no nausea, vomiting, phonophobia or photophobia and for patients with normal function 2 h after drug intake (p < or = 0.001). More patients were (completely, very or somewhat) satisfied 2 h after treatment with rizatriptan (69.8%) than at 2 h after treatment with ergotamine\/caffeine (38.6%, p < or = 0.001). Recurrence rates were 31.4% with rizatriptan and 15.3% with ergotamine\/caffeine. Both active treatments were well tolerated. The most common adverse events (incidence > or = 5% in one group) after rizatriptan and ergotamine\/caffeine, respectively, were dizziness (6.7 and 5.3%), nausea (4.2 and 8.5%) and somnolence (5.5 and 2.3%).",
+    "id": 557,
+    "label": [
+      {
+        "start": 52,
+        "end": 63,
+        "text": "rizatriptan",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 77,
+        "end": 87,
+        "text": "ergotamine",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 88,
+        "end": 96,
+        "text": "caffeine",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 110,
+        "end": 121,
+        "text": "Rizatriptan",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 137,
+        "end": 141,
+        "text": "5-HT",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 245,
+        "end": 253,
+        "text": "migraine",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 100,
+        "end": 108,
+        "text": "migraine",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 342,
+        "end": 353,
+        "text": "rizatriptan",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 372,
+        "end": 382,
+        "text": "ergotamine",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 388,
+        "end": 396,
+        "text": "caffeine",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 446,
+        "end": 454,
+        "text": "migraine",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 560,
+        "end": 571,
+        "text": "rizatriptan",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 575,
+        "end": 585,
+        "text": "ergotamine",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 586,
+        "end": 594,
+        "text": "caffeine",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 739,
+        "end": 750,
+        "text": "rizatriptan",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 787,
+        "end": 797,
+        "text": "ergotamine",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 798,
+        "end": 806,
+        "text": "caffeine",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 879,
+        "end": 890,
+        "text": "rizatriptan",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 948,
+        "end": 959,
+        "text": "rizatriptan",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 994,
+        "end": 1004,
+        "text": "ergotamine",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1005,
+        "end": 1013,
+        "text": "caffeine",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1032,
+        "end": 1043,
+        "text": "rizatriptan",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1084,
+        "end": 1092,
+        "text": "Headache",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 1121,
+        "end": 1132,
+        "text": "rizatriptan",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1147,
+        "end": 1157,
+        "text": "ergotamine",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1158,
+        "end": 1166,
+        "text": "caffeine",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1190,
+        "end": 1201,
+        "text": "rizatriptan",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1220,
+        "end": 1230,
+        "text": "ergotamine",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1231,
+        "end": 1239,
+        "text": "caffeine",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1295,
+        "end": 1306,
+        "text": "rizatriptan",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1312,
+        "end": 1316,
+        "text": "pain",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 1429,
+        "end": 1439,
+        "text": "ergotamine",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1440,
+        "end": 1448,
+        "text": "caffeine",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1467,
+        "end": 1478,
+        "text": "Rizatriptan",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1500,
+        "end": 1510,
+        "text": "ergotamine",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1511,
+        "end": 1519,
+        "text": "caffeine",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1559,
+        "end": 1565,
+        "text": "nausea",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 1567,
+        "end": 1575,
+        "text": "vomiting",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 1577,
+        "end": 1588,
+        "text": "phonophobia",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 1592,
+        "end": 1603,
+        "text": "photophobia",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 841,
+        "end": 845,
+        "text": "pain",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 1767,
+        "end": 1778,
+        "text": "rizatriptan",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1820,
+        "end": 1830,
+        "text": "ergotamine",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1831,
+        "end": 1839,
+        "text": "caffeine",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1898,
+        "end": 1909,
+        "text": "rizatriptan",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1925,
+        "end": 1935,
+        "text": "ergotamine",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1936,
+        "end": 1944,
+        "text": "caffeine",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 2062,
+        "end": 2073,
+        "text": "rizatriptan",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 2078,
+        "end": 2088,
+        "text": "ergotamine",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 2089,
+        "end": 2097,
+        "text": "caffeine",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 2118,
+        "end": 2127,
+        "text": "dizziness",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 2144,
+        "end": 2150,
+        "text": "nausea",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 2170,
+        "end": 2180,
+        "text": "somnolence",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 646,
+        "end": 654,
+        "text": "headache",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 928,
+        "end": 932,
+        "text": "pain",
+        "labels": [
+          "Disease"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 157,
+    "created_at": "2025-03-02T17:05:40.768784Z",
+    "updated_at": "2025-03-02T17:05:40.768784Z",
+    "lead_time": 361.625
+  },
+  {
+    "text": "Epidemic of liver disease caused by hydrochlorofluorocarbons used as ozone-sparing substitutes of chlorofluorocarbons. BACKGROUND: Hydrochlorofluorocarbons (HCFCs) are used increasingly in industry as substitutes for ozone-depleting chlorofluorocarbons (CFCs). Limited studies in animals indicate potential hepatotoxicity of some of these compounds. We investigated an epidemic of liver disease in nine industrial workers who had had repeated accidental exposure to a mixture of 1,1-dichloro-2,2,2-trifluoroethane (HCFC 123) and 1-chloro-1,2,2,2-tetrafluoroethane (HCFC 124). All nine exposed workers were affected to various degrees. Both compounds are metabolised in the same way as 1-bromo-1-chloro-2,2,2-trifluoroethane (halothane) to form reactive trifluoroacetyl halide intermediates, which have been implicated in the hepatotoxicity of halothane. We aimed to test whether HCFCs 123 and 124 can result in serious liver disease. METHODS: For one severely affected worker liver biopsy and immunohistochemical stainings for the presence of trifluoroacetyl protein adducts were done. The serum of six affected workers and five controls was tested for autoantibodies that react with human liver cytochrome-P450 2E1 (P450 2E1) and P58 protein disulphide isomerase isoform (P58). FINDINGS: The liver biopsy sample showed hepatocellular necrosis which was prominent in perivenular zone three and extended focally from portal tracts to portal tracts and centrilobular areas (bridging necrosis). Trifluoroacetyl-adducted proteins were detected in surviving hepatocytes. Autoantibodies against P450 2E1 or P58, previously associated with halothane hepatitis, were detected in the serum of five affected workers. INTERPRETATION: Repeated exposure of human beings to HCFCs 123 and 124 can result in serious liver injury in a large proportion of the exposed population. Although the exact mechanism of hepatotoxicity of these agents is not known, the results suggest that trifluoroacetyl-altered liver proteins are involved. In view of the potentially widespread use of these compounds, there is an urgent need to develop safer alternatives.",
+    "id": 558,
+    "label": [
+      {
+        "start": 12,
+        "end": 25,
+        "text": "liver disease",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 36,
+        "end": 60,
+        "text": "hydrochlorofluorocarbons",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 69,
+        "end": 74,
+        "text": "ozone",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 98,
+        "end": 117,
+        "text": "chlorofluorocarbons",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 131,
+        "end": 155,
+        "text": "Hydrochlorofluorocarbons",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 157,
+        "end": 162,
+        "text": "HCFCs",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 217,
+        "end": 222,
+        "text": "ozone",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 233,
+        "end": 252,
+        "text": "chlorofluorocarbons",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 254,
+        "end": 258,
+        "text": "CFCs",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 307,
+        "end": 321,
+        "text": "hepatotoxicity",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 381,
+        "end": 394,
+        "text": "liver disease",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 479,
+        "end": 513,
+        "text": "1,1-dichloro-2,2,2-trifluoroethane",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 538,
+        "end": 563,
+        "text": "1,2,2,2-tetrafluoroethane",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 565,
+        "end": 573,
+        "text": "HCFC 124",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 515,
+        "end": 523,
+        "text": "HCFC 123",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 685,
+        "end": 723,
+        "text": "1-bromo-1-chloro-2,2,2-trifluoroethane",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 725,
+        "end": 734,
+        "text": "halothane",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 753,
+        "end": 768,
+        "text": "trifluoroacetyl",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 825,
+        "end": 839,
+        "text": "hepatotoxicity",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 843,
+        "end": 852,
+        "text": "halothane",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 879,
+        "end": 896,
+        "text": "HCFCs 123 and 124",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 919,
+        "end": 932,
+        "text": "liver disease",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 1043,
+        "end": 1058,
+        "text": "trifluoroacetyl",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1335,
+        "end": 1343,
+        "text": "necrosis",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 1481,
+        "end": 1489,
+        "text": "necrosis",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 1492,
+        "end": 1507,
+        "text": "Trifluoroacetyl",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1633,
+        "end": 1652,
+        "text": "halothane hepatitis",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 1760,
+        "end": 1777,
+        "text": "HCFCs 123 and 124",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1800,
+        "end": 1812,
+        "text": "liver injury",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 1894,
+        "end": 1908,
+        "text": "hepatotoxicity",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 1964,
+        "end": 1979,
+        "text": "trifluoroacetyl",
+        "labels": [
+          "Chemical"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 158,
+    "created_at": "2025-03-02T17:24:59.280752Z",
+    "updated_at": "2025-03-02T17:24:59.280752Z",
+    "lead_time": 1158.253
+  },
+  {
+    "text": "Omitting fentanyl reduces nausea and vomiting, without increasing pain, after sevoflurane for day surgery. BACKGROUND AND OBJECTIVE: Despite advantages of induction and maintenance of anaesthesia with sevoflurane, postoperative nausea and vomiting occurs frequently. Fentanyl is a commonly used supplement that may contribute to this, although it may also improve analgesia. METHODS: This double-blind study examined the incidence and severity of postoperative nausea and vomiting and pain in the first 24 h after sevoflurane anaesthesia in 216 adult day surgery patients. Patients were randomly allocated to either receive or not receive 1 1 fentanyl, while a third group received dexamethasone in addition to fentanyl. RESULTS: Omission of fentanyl did not reduce the overall incidence of postoperative nausea and vomiting, but did reduce the incidence of vomiting and\/or moderate to severe nausea prior to discharge from 20% and 17% with fentanyl and fentanyl-dexamethasone, respectively, to 5% (P = 0.013). Antiemetic requirements were reduced from 24% and 31% to 7% (P = 0.0012). Dexamethasone had no significant effect on the incidence or severity of postoperative nausea and vomiting. Combining the two fentanyl groups revealed further significant benefits from the avoidance of opioids, reducing postoperative nausea and vomiting and nausea prior to discharge from 35% and 33% to 22% and 19% (P = 0.049 and P = 0.035), respectively, while nausea in the first 24 h was decreased from 42% to 27% (P = 0.034). Pain severity and analgesic requirements were unaffected by the omission of fentanyl. Fentanyl did reduce minor intraoperative movement but had no sevoflurane-sparing effect and increased respiratory depression, hypotension and bradycardia. CONCLUSION: As fentanyl exacerbated postoperative nausea and vomiting without an improvement in postoperative pain and also had adverse cardiorespiratory effects, it appears to be an unnecessary and possibly detrimental supplement to sevoflurane in day surgery.",
+    "id": 559,
+    "label": [
+      {
+        "start": 9,
+        "end": 17,
+        "text": "fentanyl",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 26,
+        "end": 32,
+        "text": "nausea",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 37,
+        "end": 45,
+        "text": "vomiting",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 66,
+        "end": 70,
+        "text": "pain",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 78,
+        "end": 89,
+        "text": "sevoflurane",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 201,
+        "end": 212,
+        "text": "sevoflurane",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 214,
+        "end": 247,
+        "text": "postoperative nausea and vomiting",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 267,
+        "end": 275,
+        "text": "Fentanyl",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 447,
+        "end": 480,
+        "text": "postoperative nausea and vomiting",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 485,
+        "end": 489,
+        "text": "pain",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 514,
+        "end": 525,
+        "text": "sevoflurane",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 643,
+        "end": 651,
+        "text": "fentanyl",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 711,
+        "end": 719,
+        "text": "fentanyl",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 742,
+        "end": 750,
+        "text": "fentanyl",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 682,
+        "end": 695,
+        "text": "dexamethasone",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 791,
+        "end": 824,
+        "text": "postoperative nausea and vomiting",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 858,
+        "end": 866,
+        "text": "vomiting",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 893,
+        "end": 899,
+        "text": "nausea",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 941,
+        "end": 949,
+        "text": "fentanyl",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 954,
+        "end": 962,
+        "text": "fentanyl",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 963,
+        "end": 976,
+        "text": "dexamethasone",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1085,
+        "end": 1098,
+        "text": "Dexamethasone",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1157,
+        "end": 1190,
+        "text": "postoperative nausea and vomiting",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 1210,
+        "end": 1218,
+        "text": "fentanyl",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1304,
+        "end": 1337,
+        "text": "postoperative nausea and vomiting",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 1342,
+        "end": 1348,
+        "text": "nausea",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 1447,
+        "end": 1453,
+        "text": "nausea",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 1591,
+        "end": 1599,
+        "text": "fentanyl",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1601,
+        "end": 1609,
+        "text": "Fentanyl",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1515,
+        "end": 1519,
+        "text": "Pain",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 1662,
+        "end": 1673,
+        "text": "sevoflurane",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1703,
+        "end": 1725,
+        "text": "respiratory depression",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 1727,
+        "end": 1738,
+        "text": "hypotension",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 1743,
+        "end": 1754,
+        "text": "bradycardia",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 1771,
+        "end": 1779,
+        "text": "fentanyl",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1792,
+        "end": 1825,
+        "text": "postoperative nausea and vomiting",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 1852,
+        "end": 1870,
+        "text": "postoperative pain",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 1990,
+        "end": 2001,
+        "text": "sevoflurane",
+        "labels": [
+          "Chemical"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 159,
+    "created_at": "2025-03-02T17:30:09.107260Z",
+    "updated_at": "2025-03-02T17:30:09.107260Z",
+    "lead_time": 309.562
+  },
+  {
+    "text": "Interactive effects of variations in [Na]o and [Ca]o on rat atrial spontaneous frequency. The effects of varying the extracellular concentrations of Na and Ca ([Na]o and [Ca]o) on both, the spontaneous beating and the negative chronotropic action of verapamil, were studied in the isolated rat atria. Basal frequency (BF) evaluated by surface electrogram was 223 +\/- 4 beats\/min. in control Krebs-Ringer containing 137 mM Na and 1.35 mM Ca (N). It decreased by 16 +\/- 3% by lowering [Na]o to 78 mM (LNa), 23 +\/- 2% by lowering simultaneously [Na]o to 78 mM and [Ca]o to 0.675 mM (LNa+LCa) and 31 +\/- 5% by lowering [Na]o to 78 mM plus increasing [Ca]o to 3.6 mM (LNa+HCa). At normal [Na]o, decrease (0.675 mM) or increase (3.6 mM) of [Ca]o did not modify BF; a reduction of ten times (0.135 mM of normal [Ca]o was effective to reduce BF by 40 +\/- 13%. All negative chronotropic effects were BF-dependent. Dose-dependent bradycardia induced by verapamil was potentiated by LNa, LCa, and HCa. Independent but not additive effects of Na and Ca are shown by decreases in the values of [verapamil]o needed to reduce BF by 30% (IC30) with the following order of inhibitory potency: LNa > LCa > HCa > N, resulting LNa+HCa similar to LNa. The [verapamil]o that arrested atrial beating (AC) was also potentiated with the order LNa = LNa+LCa = LNa+HCa = LCa > HCa = N. The results indicate that rat atrial spontaneous beating is more dependent on [Na]o than on [Ca]o in a range of +\/- 50% of their normal concentration. Also the enhancement of verapamil effects on atrial beating was more pronounced at LNa than at LCa.(ABSTRACT TRUNCATED AT 250 WORDS)",
+    "id": 560,
+    "label": [
+      {
+        "start": 38,
+        "end": 40,
+        "text": "Na",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 48,
+        "end": 50,
+        "text": "Ca",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 149,
+        "end": 151,
+        "text": "Na",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 156,
+        "end": 158,
+        "text": "Ca",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 161,
+        "end": 163,
+        "text": "Na",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 171,
+        "end": 173,
+        "text": "Ca",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 250,
+        "end": 259,
+        "text": "verapamil",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 437,
+        "end": 439,
+        "text": "Ca",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 422,
+        "end": 424,
+        "text": "Na",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 543,
+        "end": 545,
+        "text": "Na",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 562,
+        "end": 564,
+        "text": "Ca",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 616,
+        "end": 618,
+        "text": "Na",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 647,
+        "end": 649,
+        "text": "Ca",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 684,
+        "end": 686,
+        "text": "Na",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 735,
+        "end": 737,
+        "text": "Ca",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 805,
+        "end": 807,
+        "text": "Ca",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1534,
+        "end": 1543,
+        "text": "verapamil",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1236,
+        "end": 1245,
+        "text": "verapamil",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1082,
+        "end": 1091,
+        "text": "verapamil",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 920,
+        "end": 931,
+        "text": "bradycardia",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 943,
+        "end": 952,
+        "text": "verapamil",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1031,
+        "end": 1033,
+        "text": "Na",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1038,
+        "end": 1040,
+        "text": "Ca",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1438,
+        "end": 1440,
+        "text": "Na",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1452,
+        "end": 1454,
+        "text": "Ca",
+        "labels": [
+          "Chemical"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 160,
+    "created_at": "2025-03-02T17:34:12.327108Z",
+    "updated_at": "2025-03-02T17:34:12.327108Z",
+    "lead_time": 242.97
+  },
+  {
+    "text": "Conformationally restricted analogs of BD1008 and an antisense oligodeoxynucleotide targeting sigma1 receptors produce anti-cocaine effects in mice. Cocaine's ability to interact with sigma receptors suggests that these proteins mediate some of its behavioral effects. Therefore, three novel sigma receptor ligands with antagonist activity were evaluated in Swiss Webster mice: BD1018 (3S-1-[2-(3,4-dichlorophenyl)ethyl]-1,4-diazabicyclo[4.3.0]nonane), BD1063 (1-[2-(3,4-dichlorophenyl)ethyl]-4-methylpiperazine), and LR132 (1R,2S-(+)-cis-N-[2-(3,4-dichlorophenyl)ethyl]-2-(1-pyrrolidinyl)cyclohexylamine). Competition binding assays demonstrated that all three compounds have high affinities for sigma1 receptors. The three compounds vary in their affinities for sigma2 receptors and exhibit negligible affinities for dopamine, opioid, GABA(A) and NMDA receptors. In behavioral studies, pre-treatment of mice with BD1018, BD1063, or LR132 significantly attenuated cocaine-induced convulsions and lethality. Moreover, post-treatment with LR132 prevented cocaine-induced lethality in a significant proportion of animals. In contrast to the protection provided by the putative antagonists, the well-characterized sigma receptor agonist di-o-tolylguanidine (DTG) and the novel sigma receptor agonist BD1031 (3R-1-[2-(3,4-dichlorophenyl)ethyl]-1,4-diazabicyclo[4.3.0]nonane) each worsened the behavioral toxicity of cocaine. At doses where alone, they produced no significant effects on locomotion, BD1018, BD1063 and LR132 significantly attenuated the locomotor stimulatory effects of cocaine. To further validate the hypothesis that the anti-cocaine effects of the novel ligands involved antagonism of sigma receptors, an antisense oligodeoxynucleotide against sigma1 receptors was also shown to significantly attenuate the convulsive and locomotor stimulatory effects of cocaine. Together, the data suggests that functional antagonism of sigma receptors is capable of attenuating a number of cocaine-induced behaviors.",
+    "id": 561,
+    "label": [
+      {
+        "start": 39,
+        "end": 45,
+        "text": "BD1008",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 63,
+        "end": 83,
+        "text": "oligodeoxynucleotide",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 124,
+        "end": 131,
+        "text": "cocaine",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 149,
+        "end": 158,
+        "text": "Cocaine's",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 378,
+        "end": 384,
+        "text": "BD1018",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 386,
+        "end": 450,
+        "text": "3S-1-[2-(3,4-dichlorophenyl)ethyl]-1,4-diazabicyclo[4.3.0]nonane",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 453,
+        "end": 459,
+        "text": "BD1063",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 461,
+        "end": 511,
+        "text": "1-[2-(3,4-dichlorophenyl)ethyl]-4-methylpiperazine",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 518,
+        "end": 523,
+        "text": "LR132",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 819,
+        "end": 827,
+        "text": "dopamine",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 837,
+        "end": 841,
+        "text": "GABA",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 849,
+        "end": 853,
+        "text": "NMDA",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 915,
+        "end": 921,
+        "text": "BD1018",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 923,
+        "end": 929,
+        "text": "BD1063",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 934,
+        "end": 939,
+        "text": "LR132",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 965,
+        "end": 972,
+        "text": "cocaine",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1234,
+        "end": 1253,
+        "text": "di-o-tolylguanidine",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1255,
+        "end": 1258,
+        "text": "DTG",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1297,
+        "end": 1303,
+        "text": "BD1031",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1305,
+        "end": 1369,
+        "text": "3R-1-[2-(3,4-dichlorophenyl)ethyl]-1,4-diazabicyclo[4.3.0]nonane",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1400,
+        "end": 1408,
+        "text": "toxicity",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 1412,
+        "end": 1419,
+        "text": "cocaine",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1495,
+        "end": 1501,
+        "text": "BD1018",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1503,
+        "end": 1509,
+        "text": "BD1063",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1514,
+        "end": 1519,
+        "text": "LR132",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1582,
+        "end": 1589,
+        "text": "cocaine",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1640,
+        "end": 1647,
+        "text": "cocaine",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1730,
+        "end": 1750,
+        "text": "oligodeoxynucleotide",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1822,
+        "end": 1832,
+        "text": "convulsive",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 1870,
+        "end": 1877,
+        "text": "cocaine",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1991,
+        "end": 1998,
+        "text": "cocaine",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 981,
+        "end": 992,
+        "text": "convulsions",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 1038,
+        "end": 1043,
+        "text": "LR132",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1054,
+        "end": 1061,
+        "text": "cocaine",
+        "labels": [
+          "Chemical"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 161,
+    "created_at": "2025-03-02T17:39:44.994617Z",
+    "updated_at": "2025-03-02T17:39:44.994617Z",
+    "lead_time": 332.383
+  },
+  {
+    "text": "Learning and memory deficits in ecstasy users and their neural correlates during a face-learning task. It has been consistently shown that ecstasy users display impairments in learning and memory performance. In addition, working memory processing in ecstasy users has been shown to be associated with neural alterations in hippocampal and\/or cortical regions as measured by functional magnetic resonance imaging (fMRI). Using functional imaging and a face-learning task, we investigated neural correlates of encoding and recalling face-name associations in 20 recreational drug users whose predominant drug use was ecstasy and 20 controls. To address the potential confounding effects of the cannabis use of the ecstasy using group, a second analysis included 14 previously tested cannabis users (Nestor, L., Roberts, G., Garavan, H., Hester, R., 2008. Deficits in learning and memory: parahippocampal hyperactivity and frontocortical hypoactivity in cannabis users. Neuroimage 40, 1328-1339). Ecstasy users performed significantly worse in learning and memory compared to controls and cannabis users. A conjunction analysis of the encode and recall phases of the task revealed ecstasy-specific hyperactivity in bilateral frontal regions, left temporal, right parietal, bilateral temporal, and bilateral occipital brain regions. Ecstasy-specific hypoactivity was evident in the right dorsal anterior cingulated cortex (ACC) and left posterior cingulated cortex. In both ecstasy and cannabis groups brain activation was decreased in the right medial frontal gyrus, left parahippocampal gyrus, left dorsal cingulate gyrus, and left caudate. These results elucidated ecstasy-related deficits, only some of which might be attributed to cannabis use. These ecstasy-specific effects may be related to the vulnerability of isocortical and allocortical regions to the neurotoxic effects of ecstasy.",
+    "id": 562,
+    "label": [
+      {
+        "start": 0,
+        "end": 28,
+        "text": "Learning and memory deficits",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 32,
+        "end": 39,
+        "text": "ecstasy",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 139,
+        "end": 146,
+        "text": "ecstasy",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 161,
+        "end": 207,
+        "text": "impairments in learning and memory performance",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 251,
+        "end": 258,
+        "text": "ecstasy",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 616,
+        "end": 623,
+        "text": "ecstasy",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 693,
+        "end": 701,
+        "text": "cannabis",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 713,
+        "end": 720,
+        "text": "ecstasy",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 782,
+        "end": 790,
+        "text": "cannabis",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 854,
+        "end": 885,
+        "text": "Deficits in learning and memory",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 903,
+        "end": 916,
+        "text": "hyperactivity",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 952,
+        "end": 960,
+        "text": "cannabis",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1087,
+        "end": 1095,
+        "text": "cannabis",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1330,
+        "end": 1337,
+        "text": "Ecstasy",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1733,
+        "end": 1741,
+        "text": "cannabis",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1753,
+        "end": 1760,
+        "text": "ecstasy",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1883,
+        "end": 1890,
+        "text": "ecstasy",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 995,
+        "end": 1002,
+        "text": "Ecstasy",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1179,
+        "end": 1186,
+        "text": "ecstasy",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1196,
+        "end": 1209,
+        "text": "hyperactivity",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 1471,
+        "end": 1478,
+        "text": "ecstasy",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1483,
+        "end": 1491,
+        "text": "cannabis",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1665,
+        "end": 1672,
+        "text": "ecstasy",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1861,
+        "end": 1871,
+        "text": "neurotoxic",
+        "labels": [
+          "Disease"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 162,
+    "created_at": "2025-03-02T17:50:43.004316Z",
+    "updated_at": "2025-03-02T17:50:43.004316Z",
+    "lead_time": 519.643
+  },
+  {
+    "text": "Role of xanthine oxidase in dexamethasone-induced hypertension in rats. 1. Glucocorticoid-induced hypertension (GC-HT) in the rat is associated with nitric oxide-redox imbalance. 2. We studied the role of xanthine oxidase (XO), which is implicated in the production of reactive oxygen species, in dexamethasone-induced hypertension (dex-HT). 3. Thirty male Sprague-Dawley rats were divided randomly into four treatment groups: saline, dexamethasone (dex), allopurinol plus saline, and allopurinol plus dex. 4. Systolic blood pressures (SBP) and bodyweights were recorded each alternate day. Thymus weight was used as a marker of glucocorticoid activity, and serum urate to assess XO inhibition. 5. Dex increased SBP (110 +\/- 2-126 +\/- 3 mmHg; P < 0.001) and decreased thymus (P < 0.001) and bodyweights (P\" < 0.01). Allopurinol decreased serum urate from 76 +\/- 5 to 30 +\/- 3 micromol\/L (P < 0.001) in saline and from 84 +\/- 13 to 28 +\/- 2 micromol\/L in dex-treated (P < 0.01) groups. 6. Allopurinol did not prevent dex-HT. This, together with our previous findings that allopurinol failed to prevent adrenocorticotrophic hormone induced hypertension, suggests that XO activity is not a major determinant of GC-HT in the rat.",
+    "id": 563,
+    "label": [
+      {
+        "start": 8,
+        "end": 16,
+        "text": "xanthine",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 28,
+        "end": 41,
+        "text": "dexamethasone",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 50,
+        "end": 62,
+        "text": "hypertension",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 98,
+        "end": 110,
+        "text": "hypertension",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 115,
+        "end": 117,
+        "text": "HT",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 149,
+        "end": 161,
+        "text": "nitric oxide",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 205,
+        "end": 213,
+        "text": "xanthine",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 297,
+        "end": 310,
+        "text": "dexamethasone",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 319,
+        "end": 331,
+        "text": "hypertension",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 333,
+        "end": 336,
+        "text": "dex",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 337,
+        "end": 339,
+        "text": "HT",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 435,
+        "end": 448,
+        "text": "dexamethasone",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 450,
+        "end": 453,
+        "text": "dex",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 456,
+        "end": 467,
+        "text": "allopurinol",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 485,
+        "end": 496,
+        "text": "allopurinol",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 502,
+        "end": 505,
+        "text": "dex",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 664,
+        "end": 669,
+        "text": "urate",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 698,
+        "end": 701,
+        "text": "Dex",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 702,
+        "end": 715,
+        "text": "increased SBP",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 816,
+        "end": 827,
+        "text": "Allopurinol",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 844,
+        "end": 849,
+        "text": "urate",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 954,
+        "end": 957,
+        "text": "dex",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 988,
+        "end": 999,
+        "text": "Allopurinol",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1016,
+        "end": 1019,
+        "text": "dex",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1020,
+        "end": 1022,
+        "text": "HT",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 1071,
+        "end": 1082,
+        "text": "allopurinol",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1138,
+        "end": 1150,
+        "text": "hypertension",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 1211,
+        "end": 1213,
+        "text": "HT",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 758,
+        "end": 802,
+        "text": "decreased thymus (P < 0.001) and bodyweights",
+        "labels": [
+          "Disease"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 163,
+    "created_at": "2025-03-02T17:56:45.797423Z",
+    "updated_at": "2025-03-02T17:56:45.797423Z",
+    "lead_time": 362.54
+  },
+  {
+    "text": "The effect of treatment with gum Arabic on gentamicin nephrotoxicity in rats: a preliminary study. In the present work we assessed the effect of treatment of rats with gum Arabic on acute renal failure induced by gentamicin (GM) nephrotoxicity. Rats were treated with the vehicle (2 mL\/kg of distilled water and 5% w\/v cellulose, 10 days), gum Arabic (2 mL\/kg of a 10% w\/v aqueous suspension of gum Arabic powder, orally for 10 days), or gum Arabic concomitantly with GM (80mg\/kg\/day intramuscularly, during the last six days of the treatment period). Nephrotoxicity was assessed by measuring the concentrations of creatinine and urea in the plasma and reduced glutathione (GSH) in the kidney cortex, and by light microscopic examination of kidney sections. The results indicated that concomitant treatment with gum Arabic and GM significantly increased creatinine and urea by about 183 and 239%, respectively (compared to 432 and 346%, respectively, in rats treated with cellulose and GM), and decreased that of cortical GSH by 21% (compared to 27% in the cellulose plus GM group) The GM-induced proximal tubular necrosis appeared to be slightly less severe in rats given GM together with gum Arabic than in those given GM and cellulose. It could be inferred that gum Arabic treatment has induced a modest amelioration of some of the histological and biochemical indices of GM nephrotoxicity. Further work is warranted on the effect of the treatments on renal functional aspects in models of chronic renal failure, and on the mechanism(s) involved.",
+    "id": 564,
+    "label": [
+      {
+        "start": 29,
+        "end": 39,
+        "text": "gum Arabic",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 43,
+        "end": 53,
+        "text": "gentamicin",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 54,
+        "end": 68,
+        "text": "nephrotoxicity",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 168,
+        "end": 178,
+        "text": "gum Arabic",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 229,
+        "end": 243,
+        "text": "nephrotoxicity",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 213,
+        "end": 223,
+        "text": "gentamicin",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 182,
+        "end": 201,
+        "text": "acute renal failure",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 340,
+        "end": 350,
+        "text": "gum Arabic",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 395,
+        "end": 405,
+        "text": "gum Arabic",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 438,
+        "end": 448,
+        "text": "gum Arabic",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 468,
+        "end": 470,
+        "text": "GM",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 552,
+        "end": 566,
+        "text": "Nephrotoxicity",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 225,
+        "end": 227,
+        "text": "GM",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 615,
+        "end": 625,
+        "text": "creatinine",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 630,
+        "end": 634,
+        "text": "urea",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 661,
+        "end": 672,
+        "text": "glutathione",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 674,
+        "end": 677,
+        "text": "GSH",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 812,
+        "end": 822,
+        "text": "gum Arabic",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 827,
+        "end": 829,
+        "text": "GM",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 854,
+        "end": 864,
+        "text": "creatinine",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 869,
+        "end": 873,
+        "text": "urea",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 986,
+        "end": 988,
+        "text": "GM",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1022,
+        "end": 1025,
+        "text": "GSH",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1072,
+        "end": 1074,
+        "text": "GM",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1086,
+        "end": 1088,
+        "text": "GM",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1106,
+        "end": 1122,
+        "text": "tubular necrosis",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 1173,
+        "end": 1175,
+        "text": "GM",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1221,
+        "end": 1223,
+        "text": "GM",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1190,
+        "end": 1200,
+        "text": "gum Arabic",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1265,
+        "end": 1275,
+        "text": "gum Arabic",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1375,
+        "end": 1377,
+        "text": "GM",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1378,
+        "end": 1392,
+        "text": "nephrotoxicity",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 1493,
+        "end": 1514,
+        "text": "chronic renal failure",
+        "labels": [
+          "Disease"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 164,
+    "created_at": "2025-03-02T18:06:16.805637Z",
+    "updated_at": "2025-03-02T18:06:16.805637Z",
+    "lead_time": 570.743
+  },
+  {
+    "text": "Peritubular capillary basement membrane reduplication in allografts and native kidney disease: a clinicopathologic study of 278 consecutive renal specimens. BACKGROUND: An association has been found between transplant glomerulopathy (TG) and reduplication of peritubular capillary basement membranes (PTCR). Although such an association is of practical and theoretical importance, only one prospective study has tried to confirm it. METHODS: We examined 278 consecutive renal specimens (from 135 transplants and 143 native kidneys) for ultrastructural evidence of PTCR. In addition to renal allografts with TG, we also examined grafts with acute rejection, recurrent glomerulonephritis, chronic allograft nephropathy and stable grafts (\"protocol biopsies\"). Native kidney specimens included a wide range of glomerulopathies as well as cases of thrombotic microangiopathy, malignant hypertension, acute interstitial nephritis, and acute tubular necrosis. RESULTS: We found PTCR in 14 of 15 cases of TG, in 7 transplant biopsy specimens without TG, and in 13 of 143 native kidney biopsy specimens. These 13 included cases of malignant hypertension, thrombotic microangiopathy, lupus nephritis, Henoch-Schonlein nephritis, crescentic glomerulonephritis, and cocaine-related acute renal failure. Mild PTCR in allografts without TG did not predict renal failure or significant proteinuria after follow-up periods of between 3 months and 1 year. CONCLUSIONS: We conclude that in transplants, there is a strong association between well-developed PTCR and TG, while the significance of mild PTCR and its predictive value in the absence of TG is unclear. PTCR also occurs in certain native kidney diseases, though the association is not as strong as that for TG. We suggest that repeated endothelial injury, including immunologic injury, may be the cause of this lesion both in allografts and native kidneys.",
+    "id": 565,
+    "label": [
+      {
+        "start": 79,
+        "end": 93,
+        "text": "kidney disease",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 207,
+        "end": 232,
+        "text": "transplant glomerulopathy",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 234,
+        "end": 236,
+        "text": "TG",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 607,
+        "end": 609,
+        "text": "TG",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 667,
+        "end": 685,
+        "text": "glomerulonephritis",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 687,
+        "end": 716,
+        "text": "chronic allograft nephropathy",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 807,
+        "end": 823,
+        "text": "glomerulopathies",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 844,
+        "end": 870,
+        "text": "thrombotic microangiopathy",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 872,
+        "end": 894,
+        "text": "malignant hypertension",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 902,
+        "end": 924,
+        "text": "interstitial nephritis",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 930,
+        "end": 952,
+        "text": "acute tubular necrosis",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 998,
+        "end": 1000,
+        "text": "TG",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 1043,
+        "end": 1045,
+        "text": "TG",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 1123,
+        "end": 1145,
+        "text": "malignant hypertension",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 1147,
+        "end": 1173,
+        "text": "thrombotic microangiopathy",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 1175,
+        "end": 1190,
+        "text": "lupus nephritis",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 1192,
+        "end": 1218,
+        "text": "Henoch-Schonlein nephritis",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 1231,
+        "end": 1249,
+        "text": "glomerulonephritis",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 1255,
+        "end": 1262,
+        "text": "cocaine",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1271,
+        "end": 1290,
+        "text": "acute renal failure",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 1324,
+        "end": 1326,
+        "text": "TG",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 1343,
+        "end": 1356,
+        "text": "renal failure",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 1372,
+        "end": 1383,
+        "text": "proteinuria",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 1548,
+        "end": 1550,
+        "text": "TG",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 1631,
+        "end": 1633,
+        "text": "TG",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 1681,
+        "end": 1696,
+        "text": "kidney diseases",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 1750,
+        "end": 1752,
+        "text": "TG",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 1779,
+        "end": 1797,
+        "text": "endothelial injury",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 1809,
+        "end": 1827,
+        "text": "immunologic injury",
+        "labels": [
+          "Disease"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 165,
+    "created_at": "2025-03-02T18:10:10.257235Z",
+    "updated_at": "2025-03-02T18:10:10.257235Z",
+    "lead_time": 233.197
+  },
+  {
+    "text": "Comparison of developmental toxicity of selective and non-selective cyclooxygenase-2 inhibitors in CRL:(WI)WUBR Wistar rats--DFU and piroxicam study. BACKGROUND: Cyclooxygenase (COX) inhibitors are one of the most often ingested drugs during pregnancy. Unlike general toxicity data, their prenatal toxic effects were not extensively studied before. The aim of the experiment was to evaluate the developmental toxicity of the non-selective (piroxicam) and selective (DFU; 5,5-dimethyl-3-(3-fluorophenyl)-4-(4-methylsulphonyl) phenyl-2(5H)-furanon) COX-2 inhibitors. METHODS: Drugs were separately, orally once daily dosed to pregnant rats from day 8 to 21 (GD1=plug day). Doses were set at 0.3, 3.0 and 30.0mg\/kg for piroxicam and 0.2, 2.0 and 20.0mg\/kg for DFU. Fetuses were delivered on GD 21 and routinely examined. Comprehensive clinical and developmental measurements were done. The pooled statistical analysis for ventricular septal (VSD) and midline (MD) defects was performed for rat fetuses exposed to piroxicam, selective and non-selective COX-2 inhibitor based on present and historic data. RESULTS: Maternal toxicity, intrauterine growth retardation, and increase of external and skeletal variations were found in rats treated with the highest dose of piroxicam. Decrease of fetal length was the only signs of the DFU developmental toxicity observed in pups exposed to the highest compound dose. Lack of teratogenicity was found in piroxicam and DFU-exposed groups. Prenatal exposure to non-selective COX inhibitors increases the risk of VSD and MD when compared to historic control but not with selective COX-2 inhibitors. CONCLUSION: Both selective and non-selective COX-2 inhibitors were toxic for rats fetuses when administered in the highest dose. Unlike DFU, piroxicam was also highly toxic to the dams. Prenatal exposure to selective COX-2 inhibitors does not increase the risk of ventricular septal and midline defects in rat when compared to non-selective drugs and historic control.",
+    "id": 566,
+    "label": [
+      {
+        "start": 28,
+        "end": 36,
+        "text": "toxicity",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 125,
+        "end": 128,
+        "text": "DFU",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 133,
+        "end": 142,
+        "text": "piroxicam",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 268,
+        "end": 276,
+        "text": "toxicity",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 409,
+        "end": 417,
+        "text": "toxicity",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 440,
+        "end": 449,
+        "text": "piroxicam",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 466,
+        "end": 469,
+        "text": "DFU",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 471,
+        "end": 545,
+        "text": "5,5-dimethyl-3-(3-fluorophenyl)-4-(4-methylsulphonyl) phenyl-2(5H)-furanon",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 716,
+        "end": 725,
+        "text": "piroxicam",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 757,
+        "end": 760,
+        "text": "DFU",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 919,
+        "end": 968,
+        "text": "ventricular septal (VSD) and midline (MD) defects",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 1010,
+        "end": 1019,
+        "text": "piroxicam",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1119,
+        "end": 1127,
+        "text": "toxicity",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 1129,
+        "end": 1160,
+        "text": "intrauterine growth retardation",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 1166,
+        "end": 1210,
+        "text": "increase of external and skeletal variations",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 1263,
+        "end": 1272,
+        "text": "piroxicam",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1325,
+        "end": 1328,
+        "text": "DFU",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1343,
+        "end": 1351,
+        "text": "toxicity",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 1443,
+        "end": 1452,
+        "text": "piroxicam",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1457,
+        "end": 1460,
+        "text": "DFU",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1771,
+        "end": 1774,
+        "text": "DFU",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1776,
+        "end": 1785,
+        "text": "piroxicam",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1899,
+        "end": 1937,
+        "text": "ventricular septal and midline defects",
+        "labels": [
+          "Disease"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 166,
+    "created_at": "2025-03-02T18:13:34.503948Z",
+    "updated_at": "2025-03-02T18:13:34.503948Z",
+    "lead_time": 203.985
+  },
+  {
+    "text": "Antidepressant-induced mania in bipolar patients: identification of risk factors. BACKGROUND: Concerns about possible risks of switching to mania associated with antidepressants continue to interfere with the establishment of an optimal treatment paradigm for bipolar depression. METHOD: The response of 44 patients meeting DSM-IV criteria for bipolar disorder to naturalistic treatment was assessed for at least 6 weeks using the Montgomery-Asberg Depression Rating Scale and the Bech-Rafaelson Mania Rating Scale. Patients who experienced a manic or hypomanic switch were compared with those who did not on several variables including age, sex, diagnosis (DSM-IV bipolar I vs. bipolar II), number of previous manic episodes, type of antidepressant therapy used (electroconvulsive therapy vs. antidepressant drugs and, more particularly, selective serotonin reuptake inhibitors [SSRIs]), use and type of mood stabilizers (lithium vs. anticonvulsants), and temperament of the patient, assessed during a normothymic period using the hyperthymia component of the Semi-structured Affective Temperament Interview. RESULTS: Switches to hypomania or mania occurred in 27% of all patients (N = 12) (and in 24% of the subgroup of patients treated with SSRIs [8\/33]); 16% (N = 7) experienced manic episodes, and 11% (N = 5) experienced hypomanic episodes. Sex, age, diagnosis (bipolar I vs. bipolar II), and additional treatment did not affect the risk of switching. The incidence of mood switches seemed not to differ between patients receiving an anticonvulsant and those receiving no mood stabilizer. In contrast, mood switches were less frequent in patients receiving lithium (15%, 4\/26) than in patients not treated with lithium (44%, 8\/18; p = .04). The number of previous manic episodes did not affect the probability of switching, whereas a high score on the hyperthymia component of the Semistructured Affective Temperament Interview was associated with a greater risk of switching (p = .008). CONCLUSION: The frequency of mood switching associated with acute antidepressant therapy may be reduced by lithium treatment. Particular attention should be paid to patients with a hyperthymic temperament, who have a greater risk of mood switches.",
+    "id": 567,
+    "label": [
+      {
+        "start": 0,
+        "end": 14,
+        "text": "Antidepressant",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 23,
+        "end": 28,
+        "text": "mania",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 32,
+        "end": 39,
+        "text": "bipolar",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 140,
+        "end": 145,
+        "text": "mania",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 162,
+        "end": 177,
+        "text": "antidepressants",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 260,
+        "end": 278,
+        "text": "bipolar depression",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 344,
+        "end": 360,
+        "text": "bipolar disorder",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 543,
+        "end": 548,
+        "text": "manic",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 552,
+        "end": 561,
+        "text": "hypomanic",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 658,
+        "end": 674,
+        "text": "DSM-IV bipolar I",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 679,
+        "end": 689,
+        "text": "bipolar II",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 711,
+        "end": 716,
+        "text": "manic",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 735,
+        "end": 749,
+        "text": "antidepressant",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 794,
+        "end": 808,
+        "text": "antidepressant",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 839,
+        "end": 878,
+        "text": "selective serotonin reuptake inhibitors",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 880,
+        "end": 885,
+        "text": "SSRIs",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 923,
+        "end": 930,
+        "text": "lithium",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1131,
+        "end": 1140,
+        "text": "hypomania",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 1144,
+        "end": 1149,
+        "text": "mania",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 1244,
+        "end": 1249,
+        "text": "SSRIs",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1283,
+        "end": 1288,
+        "text": "manic",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 1327,
+        "end": 1336,
+        "text": "hypomanic",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 1368,
+        "end": 1377,
+        "text": "bipolar I",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 1382,
+        "end": 1392,
+        "text": "bipolar II",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 1663,
+        "end": 1670,
+        "text": "lithium",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1717,
+        "end": 1724,
+        "text": "lithium",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1770,
+        "end": 1775,
+        "text": "manic",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 2101,
+        "end": 2108,
+        "text": "lithium",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 2060,
+        "end": 2074,
+        "text": "antidepressant",
+        "labels": [
+          "Chemical"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 167,
+    "created_at": "2025-03-02T18:16:38.743058Z",
+    "updated_at": "2025-03-02T18:16:38.743058Z",
+    "lead_time": 183.996
+  },
+  {
+    "text": "The glycine transporter-1 inhibitor SSR103800 displays a selective and specific antipsychotic-like profile in normal and transgenic mice. Schizophrenia has been initially associated with dysfunction in dopamine neurotransmission. However, the observation that antagonists of the glutamate N-methyl-D-aspartate (NMDA) receptor produce schizophrenic-like symptoms in humans has led to the idea of a dysfunctioning of the glutamatergic system via its NMDA receptor. As a result, there is a growing interest in the development of pharmacological agents with potential antipsychotic properties that enhance the activity of the glutamatergic system via a modulation of the NMDA receptor. Among them are glycine transporter-1 (GlyT1) inhibitors such as SSR103800, which indirectly enhance NMDA receptor function by increasing the glycine (a co-agonist for the NMDA receptor) levels in the synapse. This study aimed at investigating the potential antipsychotic-like properties of SSR103800, with a particular focus on models of hyperactivity, involving either drug challenge (ie, amphetamine and MK-801) or transgenic mice (ie, NMDA Nr1(neo-\/-) and DAT(-\/-)). Results showed that SSR103800 (10-30 mg\/kg p.o.) blocked hyperactivity induced by the non-competitive NMDA receptor antagonist, MK-801 and partially reversed spontaneous hyperactivity of NMDA Nr1(neo-\/-) mice. In contrast, SSR103800 failed to affect hyperactivity induced by amphetamine or naturally observed in dopamine transporter (DAT(-\/-)) knockout mice (10-30 mg\/kg p.o.). Importantly, both classical (haloperidol) and atypical (olanzapine, clozapine and aripiprazole) antipsychotics were effective in all these models of hyperactivity. However, unlike these latter, SSR103800 did not produce catalepsy (retention on the bar test) up to 30 mg\/kg p.o. Together these findings show that the GlyT1 inhibitor, SSR103800, produces antipsychotic-like effects, which differ from those observed with compounds primarily targeting the dopaminergic system, and has a reduced side-effect potential as compared with these latter drugs.",
+    "id": 568,
+    "label": [
+      {
+        "start": 4,
+        "end": 11,
+        "text": "glycine",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 36,
+        "end": 45,
+        "text": "SSR103800",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 138,
+        "end": 151,
+        "text": "Schizophrenia",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 202,
+        "end": 210,
+        "text": "dopamine",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 279,
+        "end": 288,
+        "text": "glutamate",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 289,
+        "end": 309,
+        "text": "N-methyl-D-aspartate",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 311,
+        "end": 315,
+        "text": "NMDA",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 334,
+        "end": 347,
+        "text": "schizophrenic",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 448,
+        "end": 452,
+        "text": "NMDA",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 667,
+        "end": 671,
+        "text": "NMDA",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 697,
+        "end": 704,
+        "text": "glycine",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 746,
+        "end": 755,
+        "text": "SSR103800",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 782,
+        "end": 786,
+        "text": "NMDA",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 972,
+        "end": 981,
+        "text": "SSR103800",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1020,
+        "end": 1033,
+        "text": "hyperactivity",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 1072,
+        "end": 1083,
+        "text": "amphetamine",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1088,
+        "end": 1094,
+        "text": "MK-801",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1120,
+        "end": 1124,
+        "text": "NMDA",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1172,
+        "end": 1181,
+        "text": "SSR103800",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1209,
+        "end": 1222,
+        "text": "hyperactivity",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 1254,
+        "end": 1258,
+        "text": "NMDA",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1280,
+        "end": 1286,
+        "text": "MK-801",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1322,
+        "end": 1335,
+        "text": "hyperactivity",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 1339,
+        "end": 1343,
+        "text": "NMDA",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1375,
+        "end": 1384,
+        "text": "SSR103800",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1427,
+        "end": 1438,
+        "text": "amphetamine",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1464,
+        "end": 1472,
+        "text": "dopamine",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1559,
+        "end": 1570,
+        "text": "haloperidol",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1586,
+        "end": 1596,
+        "text": "olanzapine",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1598,
+        "end": 1607,
+        "text": "clozapine",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1612,
+        "end": 1624,
+        "text": "aripiprazole",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1679,
+        "end": 1692,
+        "text": "hyperactivity",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 1724,
+        "end": 1733,
+        "text": "SSR103800",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1750,
+        "end": 1759,
+        "text": "catalepsy",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 1863,
+        "end": 1872,
+        "text": "SSR103800",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 823,
+        "end": 830,
+        "text": "glycine",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 853,
+        "end": 857,
+        "text": "NMDA",
+        "labels": [
+          "Chemical"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 168,
+    "created_at": "2025-03-02T18:21:26.926175Z",
+    "updated_at": "2025-03-02T18:21:26.926175Z",
+    "lead_time": 287.934
+  },
+  {
+    "text": "Antinociceptive and antiamnesic properties of the presynaptic cholinergic amplifier PG-9. The antinociceptive effect of 3 alpha-tropyl 2-(p-bromophenyl)propionate [(+\/-)-PG-9] (10-40 mg kg-1 s.c.; 30-60 mg kg-1 p.o.; 10-30 mg kg-1 i.v.; 10-30 micrograms\/mouse i.c.v.) was examined in mice, rats and guinea pigs by use of the hot-plate, abdominal-constriction, tail-flick and paw-pressure tests. (+\/-)-PG-9 antinociception peaked 15 min after injection and then slowly diminished. The antinociception produced by (+\/-)-PG-9 was prevented by the unselective muscarinic antagonist atropine, the M1-selective antagonists pirenzepine and dicyclomine and the acetylcholine depletor hemicholinium-3, but not by the opioid antagonist naloxone, the gamma-aminobutyric acidB antagonist 3-aminopropyl-diethoxy-methyl-phosphinic acid, the H3 agonist R-(alpha)-methylhistamine, the D2 antagonist quinpirole, the 5-hydroxytryptamine4 antagonist 2-methoxy-4-amino-5-chlorobenzoic acid 2-(diethylamino)ethyl ester hydrochloride, the 5-hydroxytryptamin1A antagonist 1-(2-methoxyphenyl)-4-[4-(2-phthalimido)butyl]piperazine hydrobromide and the polyamines depletor reserpine. Based on these data, it can be postulated that (+\/-)-PG-9 exerted an antinociceptive effect mediated by a central potentiation of cholinergic transmission. (+\/-)-PG-9 (10-40 mg kg-1 i.p.) was able to prevent amnesia induced by scopolamine (1 mg kg-1 i.p.) and dicyclomine (2 mg kg-1 i.p.) in the mouse passive-avoidance test. Affinity profiles of (+\/-)-PG-9 for muscarinic receptor subtypes, determined by functional studies (rabbit vas deferens for M1, guinea pig atrium for M2, guinea pig ileum for M3 and immature guinea pig uterus for putative M4), have shown an M4\/M1 selectivity ratio of 10.2 that might be responsible for the antinociception and the anti-amnesic effect induced by (+\/-)-PG-9 through an increase in acetylcholine extracellular levels. In the antinociceptive and antiamnesic dose range, (+\/-)-PG-9 did not impair mouse performance evaluated by the rota-rod test and Animex apparatus.",
+    "id": 569,
+    "label": [
+      {
+        "start": 84,
+        "end": 88,
+        "text": "PG-9",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 120,
+        "end": 162,
+        "text": "3 alpha-tropyl 2-(p-bromophenyl)propionate",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 170,
+        "end": 174,
+        "text": "PG-9",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 401,
+        "end": 405,
+        "text": "PG-9",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 518,
+        "end": 522,
+        "text": "PG-9",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 578,
+        "end": 586,
+        "text": "atropine",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 617,
+        "end": 628,
+        "text": "pirenzepine",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 633,
+        "end": 644,
+        "text": "dicyclomine",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 653,
+        "end": 666,
+        "text": "acetylcholine",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 676,
+        "end": 691,
+        "text": "hemicholinium-3",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 726,
+        "end": 734,
+        "text": "naloxone",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 740,
+        "end": 764,
+        "text": "gamma-aminobutyric acidB",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 776,
+        "end": 821,
+        "text": "3-aminopropyl-diethoxy-methyl-phosphinic acid",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 838,
+        "end": 863,
+        "text": "R-(alpha)-methylhistamine",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 883,
+        "end": 893,
+        "text": "quinpirole",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 899,
+        "end": 919,
+        "text": "5-hydroxytryptamine4",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 931,
+        "end": 997,
+        "text": "2-methoxy-4-amino-5-chlorobenzoic acid 2-(diethylamino)ethyl ester",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1017,
+        "end": 1037,
+        "text": "5-hydroxytryptamin1A",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1049,
+        "end": 1105,
+        "text": "1-(2-methoxyphenyl)-4-[4-(2-phthalimido)butyl]piperazine",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1147,
+        "end": 1156,
+        "text": "reserpine",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1211,
+        "end": 1215,
+        "text": "PG-9",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1320,
+        "end": 1324,
+        "text": "PG-9",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1366,
+        "end": 1373,
+        "text": "amnesia",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 1385,
+        "end": 1396,
+        "text": "scopolamine",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1418,
+        "end": 1429,
+        "text": "dicyclomine",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1511,
+        "end": 1515,
+        "text": "PG-9",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1820,
+        "end": 1827,
+        "text": "amnesic",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 1852,
+        "end": 1856,
+        "text": "PG-9",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1973,
+        "end": 1977,
+        "text": "PG-9",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1880,
+        "end": 1893,
+        "text": "acetylcholine",
+        "labels": [
+          "Chemical"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 169,
+    "created_at": "2025-03-02T18:29:50.012214Z",
+    "updated_at": "2025-03-02T18:29:50.012214Z",
+    "lead_time": 502.841
+  },
+  {
+    "text": "Mutations associated with lamivudine-resistance in therapy-na  ve hepatitis B virus (HBV) infected patients with and without HIV co-infection: implications for antiretroviral therapy in HBV and HIV co-infected South African patients. This was an exploratory study to investigate lamivudine-resistant hepatitis B virus (HBV) strains in selected lamivudine-na  ve HBV carriers with and without human immunodeficiency virus (HIV) co-infection in South African patients. Thirty-five lamivudine-na  ve HBV infected patients with or without HIV co-infection were studied: 15 chronic HBV mono-infected patients and 20 HBV-HIV co-infected patients. The latter group was further sub-divided into 13 occult HBV (HBsAg-negative) and 7 overt HBV (HBsAg- positive) patients. HBsAg, anti-HBs, anti-HBc, and anti-HIV 1\/2 were determined as part of routine diagnosis using Axsym assays (Abbott Laboratories, North Chicago, IL). Serum samples were PCR amplified with HBV reverse transcriptase (RT) primers, followed by direct sequencing across the tyrosine-methionine-aspartate-aspartate (YMDD) motif of the major catalytic region in the C domain of the HBV RT enzyme. HBV viral load was performed with Amplicor HBV Monitor test v2.0 (Roche Diagnostics, Penzberg, Germany). HBV lamivudine-resistant strains were detected in 3 of 15 mono-infected chronic hepatitis B patients and 10 of 20 HBV-HIV co-infected patients. To the best of our knowledge, this constitutes the first report of HBV lamivudine-resistant strains in therapy-na  ve HBV-HIV co-infected patients. The HBV viral loads for mono-infected and co-infected patients ranged from 3.32 x 10(2) to 3.82 x 10(7) and <200 to 4.40 x 10(3) copies\/ml, respectively. It remains to be seen whether such pre-existing antiviral mutations could result in widespread emergence of HBV resistant strains when lamivudine-containing highly active antiretroviral (ARV) treatment (HAART) regimens become widely applied in South Africa, as this is likely to have potential implications in the management of HBV-HIV co-infected patients.",
+    "id": 570,
+    "label": [
+      {
+        "start": 26,
+        "end": 36,
+        "text": "lamivudine",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 66,
+        "end": 98,
+        "text": "hepatitis B virus (HBV) infected",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 59,
+        "end": 61,
+        "text": "na",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 125,
+        "end": 141,
+        "text": "HIV co-infection",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 186,
+        "end": 209,
+        "text": "HBV and HIV co-infected",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 279,
+        "end": 289,
+        "text": "lamivudine",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 300,
+        "end": 311,
+        "text": "hepatitis B",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 344,
+        "end": 354,
+        "text": "lamivudine",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 355,
+        "end": 357,
+        "text": "na",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 392,
+        "end": 426,
+        "text": "human immunodeficiency virus (HIV)",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 479,
+        "end": 489,
+        "text": "lamivudine",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 490,
+        "end": 492,
+        "text": "na",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 497,
+        "end": 509,
+        "text": "HBV infected",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 535,
+        "end": 551,
+        "text": "HIV co-infection",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 577,
+        "end": 594,
+        "text": "HBV mono-infected",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 611,
+        "end": 630,
+        "text": "HBV-HIV co-infected",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 702,
+        "end": 707,
+        "text": "HBsAg",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 735,
+        "end": 740,
+        "text": "HBsAg",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 762,
+        "end": 767,
+        "text": "HBsAg",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1031,
+        "end": 1039,
+        "text": "tyrosine",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1040,
+        "end": 1050,
+        "text": "methionine",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1051,
+        "end": 1060,
+        "text": "aspartate",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1061,
+        "end": 1070,
+        "text": "aspartate",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1261,
+        "end": 1271,
+        "text": "lamivudine",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1337,
+        "end": 1348,
+        "text": "hepatitis B",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 1371,
+        "end": 1390,
+        "text": "HBV-HIV co-infected",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 1472,
+        "end": 1482,
+        "text": "lamivudine",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1519,
+        "end": 1538,
+        "text": "HBV-HIV co-infected",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 1512,
+        "end": 1514,
+        "text": "na",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1838,
+        "end": 1848,
+        "text": "lamivudine",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 2031,
+        "end": 2050,
+        "text": "HBV-HIV co-infected",
+        "labels": [
+          "Disease"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 170,
+    "created_at": "2025-03-02T18:34:05.201723Z",
+    "updated_at": "2025-03-02T18:34:05.201723Z",
+    "lead_time": 254.938
+  },
+  {
+    "text": "A selective dopamine D4 receptor antagonist, NRA0160: a preclinical neuropharmacological profile. NRA0160, 5 - [2- ( 4- ( 3 - fluorobenzylidene) piperidin-1-yl) ethyl] - 4 -(4-fluorophenyl) thiazole-2-carboxamide, has a high affinity for human cloned dopamine D4.2, D4.4 and D4.7 receptors, with Ki values of 0.5, 0.9 and 2.7 nM, respectively. NRA0160 is over 20,000fold more potent at the dopamine D4.2 receptor compared with the human cloned dopamine D2L receptor. NRA0160 has negligible affinity for the human cloned dopamine D3 receptor (Ki=39 nM), rat serotonin (5-HT)2A receptors (Ki=180 nM) and rat alpha1 adrenoceptor (Ki=237 nM). NRA0160 and clozapine antagonized locomotor hyperactivity induced by methamphetamine (MAP) in mice. NRA0160 and clozapine antagonized MAP-induced stereotyped behavior in mice, although their effects did not exceed 50% inhibition, even at the highest dose given. NRA0160 and clozapine significantly induced catalepsy in rats, although their effects did not exceed 50% induction even at the highest dose given. NRA0160 and clozapine significantly reversed the disruption of prepulse inhibition (PPI) in rats produced by apomorphine. NRA0160 and clozapine significantly shortened the phencyclidine (PCP)-induced prolonged swimming latency in rats in a water maze task. These findings suggest that NRA0160 may have unique antipsychotic activities without the liability of motor side effects typical of classical antipsychotics.",
+    "id": 571,
+    "label": [
+      {
+        "start": 12,
+        "end": 20,
+        "text": "dopamine",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 45,
+        "end": 52,
+        "text": "NRA0160",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 98,
+        "end": 105,
+        "text": "NRA0160",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 107,
+        "end": 212,
+        "text": "5 - [2- ( 4- ( 3 - fluorobenzylidene) piperidin-1-yl) ethyl] - 4 -(4-fluorophenyl) thiazole-2-carboxamide",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 251,
+        "end": 259,
+        "text": "dopamine",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 344,
+        "end": 351,
+        "text": "NRA0160",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 390,
+        "end": 398,
+        "text": "dopamine",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 444,
+        "end": 452,
+        "text": "dopamine",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 467,
+        "end": 474,
+        "text": "NRA0160",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 520,
+        "end": 528,
+        "text": "dopamine",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 557,
+        "end": 566,
+        "text": "serotonin",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 568,
+        "end": 572,
+        "text": "5-HT",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 639,
+        "end": 646,
+        "text": "NRA0160",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 651,
+        "end": 660,
+        "text": "clozapine",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 708,
+        "end": 723,
+        "text": "methamphetamine",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 725,
+        "end": 728,
+        "text": "MAP",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 739,
+        "end": 746,
+        "text": "NRA0160",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 751,
+        "end": 760,
+        "text": "clozapine",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 773,
+        "end": 776,
+        "text": "MAP",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 683,
+        "end": 696,
+        "text": "hyperactivity",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 901,
+        "end": 908,
+        "text": "NRA0160",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 913,
+        "end": 922,
+        "text": "clozapine",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 945,
+        "end": 954,
+        "text": "catalepsy",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 1048,
+        "end": 1055,
+        "text": "NRA0160",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1060,
+        "end": 1069,
+        "text": "clozapine",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1157,
+        "end": 1168,
+        "text": "apomorphine",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1333,
+        "end": 1340,
+        "text": "NRA0160",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1170,
+        "end": 1177,
+        "text": "NRA0160",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1182,
+        "end": 1191,
+        "text": "clozapine",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1220,
+        "end": 1233,
+        "text": "phencyclidine",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1235,
+        "end": 1238,
+        "text": "PCP",
+        "labels": [
+          "Chemical"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 171,
+    "created_at": "2025-03-02T18:39:10.538335Z",
+    "updated_at": "2025-03-02T18:39:10.538335Z",
+    "lead_time": 305.093
+  },
+  {
+    "text": "High incidence of primary pulmonary hypertension associated with appetite suppressants in Belgium. Primary pulmonary hypertension is a rare, progressive and incurable disease, which has been associated with the intake of appetite suppressant drugs. The importance of this association was evaluated in Belgium while this country still had no restriction on the prescription of appetite suppressants. Thirty-five patients with primary pulmonary hypertension and 85 matched controls were recruited over 32 months (1992-1994) in Belgium. Exposure to appetite-suppressants was assessed on the basis of hospital records and standardized interview. Twenty-three of the patients had previously taken appetite suppressants, mainly fenfluramines, as compared with only 5 of the controls (66 versus 6%, p<0.0001). Five patients died before the interview, all of them had taken appetite suppressants. In 8 patients the diagnosis of primary pulmonary hypertension was uncertain, 5 of them had taken appetite suppressants. The patients who had been exposed to appetite suppressants tended to be on average more severely ill, and to have a shorter median delay between onset of symptoms and diagnosis. A policy of unrestricted prescription of appetite suppressants may lead to a high incidence of associated primary pulmonary hypertension. Intake of appetite suppressants may accelerate the progression of the disease.",
+    "id": 572,
+    "label": [
+      {
+        "start": 18,
+        "end": 48,
+        "text": "primary pulmonary hypertension",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 65,
+        "end": 86,
+        "text": "appetite suppressants",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 99,
+        "end": 129,
+        "text": "Primary pulmonary hypertension",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 221,
+        "end": 241,
+        "text": "appetite suppressant",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 376,
+        "end": 397,
+        "text": "appetite suppressants",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 425,
+        "end": 455,
+        "text": "primary pulmonary hypertension",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 546,
+        "end": 567,
+        "text": "appetite-suppressants",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 692,
+        "end": 713,
+        "text": "appetite suppressants",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 722,
+        "end": 735,
+        "text": "fenfluramines",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 920,
+        "end": 950,
+        "text": "primary pulmonary hypertension",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 986,
+        "end": 1007,
+        "text": "appetite suppressants",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1046,
+        "end": 1067,
+        "text": "appetite suppressants",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1228,
+        "end": 1249,
+        "text": "appetite suppressants",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1293,
+        "end": 1323,
+        "text": "primary pulmonary hypertension",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 1335,
+        "end": 1356,
+        "text": "appetite suppressants",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 866,
+        "end": 887,
+        "text": "appetite suppressants",
+        "labels": [
+          "Chemical"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 172,
+    "created_at": "2025-03-02T18:42:55.661504Z",
+    "updated_at": "2025-03-02T18:42:55.661504Z",
+    "lead_time": 224.856
+  },
+  {
+    "text": "Effects of an inhibitor of angiotensin converting enzyme (Captopril) on pulmonary and renal insufficiency due to intravascular coagulation in the rat. Induction of intravascular coagulation and inhibition of fibrinolysis by injection of thrombin and tranexamic acid (AMCA) in the rat gives rise to pulmonary and renal insufficiency resembling that occurring after trauma or sepsis in man. Injection of Captopril (1 mg\/kg), an inhibitor of angiotensin converting enzyme (ACE), reduced both pulmonary and renal insufficiency in this rat model. The lung weights were lower and PaO2 was improved in rats given this enzyme-blocking agent. The contents of albumin in the lungs were not changed, indicating that Captopril did not influence the extravasation of protein. Renal damage as reflected by an increase in serum urea and in kidney weight was prevented by Captopril. The amount of fibrin in the kidneys was also considerably lower than in animals which received thrombin and AMCA alone. It is suggested that the effects of Captopril on the lungs may be attributable to a vasodilatory effect due to a reduction in the circulating level of Angiotension II and an increase in prostacyclin (secondary to an increase in bradykinin). Captopril may, by the same mechanism, reduce the increase in glomerular filtration that is known to occur after an injection of thrombin, thereby diminishing the aggregation of fibrin monomers in the glomeruli, with the result that less fibrin will be deposited and thus less kidney damage will be produced.",
+    "id": 573,
+    "label": [
+      {
+        "start": 27,
+        "end": 38,
+        "text": "angiotensin",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 58,
+        "end": 67,
+        "text": "Captopril",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 72,
+        "end": 105,
+        "text": "pulmonary and renal insufficiency",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 113,
+        "end": 138,
+        "text": "intravascular coagulation",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 164,
+        "end": 189,
+        "text": "intravascular coagulation",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 250,
+        "end": 265,
+        "text": "tranexamic acid",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 267,
+        "end": 271,
+        "text": "AMCA",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 298,
+        "end": 331,
+        "text": "pulmonary and renal insufficiency",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 364,
+        "end": 370,
+        "text": "trauma",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 374,
+        "end": 380,
+        "text": "sepsis",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 402,
+        "end": 411,
+        "text": "Captopril",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 439,
+        "end": 450,
+        "text": "angiotensin",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 489,
+        "end": 522,
+        "text": "pulmonary and renal insufficiency",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 705,
+        "end": 714,
+        "text": "Captopril",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 856,
+        "end": 865,
+        "text": "Captopril",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 763,
+        "end": 775,
+        "text": "Renal damage",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 813,
+        "end": 817,
+        "text": "urea",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 975,
+        "end": 979,
+        "text": "AMCA",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1023,
+        "end": 1032,
+        "text": "Captopril",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1138,
+        "end": 1153,
+        "text": "Angiotension II",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1173,
+        "end": 1185,
+        "text": "prostacyclin",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1215,
+        "end": 1225,
+        "text": "bradykinin",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1228,
+        "end": 1237,
+        "text": "Captopril",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1504,
+        "end": 1517,
+        "text": "kidney damage",
+        "labels": [
+          "Disease"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 173,
+    "created_at": "2025-03-02T18:45:12.943864Z",
+    "updated_at": "2025-03-02T18:45:12.943864Z",
+    "lead_time": 136.722
+  },
+  {
+    "text": "Ginsenoside Rg1 restores the impairment of learning induced by chronic morphine administration in rats. Rg1, as a ginsenoside extracted from Panax ginseng, could ameliorate spatial learning impairment. Previous studies have demonstrated that Rg1 might be a useful agent for the prevention and treatment of the adverse effects of morphine. The aim of this study was to investigate the effect of Rg1 on learning impairment by chronic morphine administration and the mechanism responsible for this effect. Male rats were subcutaneously injected with morphine (10 mg\/kg) twice a day at 12 hour intervals for 10 days, and Rg1 (30 mg\/kg) was intraperitoneally injected 2 hours after the second injection of morphine once a day for 10 days. Spatial learning capacity was assessed in the Morris water maze. The results showed that rats treated with Morphine\/Rg1 decreased escape latency and increased the time spent in platform quadrant and entering frequency. By implantation of electrodes and electrophysiological recording in vivo, the results showed that Rg1 restored the long-term potentiation (LTP) impaired by morphine in both freely moving and anaesthetised rats. The electrophysiological recording in vitro showed that Rg1 restored the LTP in slices from the rats treated with morphine, but not changed LTP in the slices from normal saline- or morphine\/Rg1-treated rats; this restoration could be inhibited by N-methyl-D-aspartate (NMDA) receptor antagonist MK801. We conclude that Rg1 may significantly improve the spatial learning capacity impaired by chonic morphine administration and restore the morphine-inhibited LTP. This effect is NMDA receptor dependent.",
+    "id": 574,
+    "label": [
+      {
+        "start": 0,
+        "end": 15,
+        "text": "Ginsenoside Rg1",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 29,
+        "end": 51,
+        "text": "impairment of learning",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 71,
+        "end": 79,
+        "text": "morphine",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 104,
+        "end": 107,
+        "text": "Rg1",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 114,
+        "end": 125,
+        "text": "ginsenoside",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 181,
+        "end": 200,
+        "text": "learning impairment",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 242,
+        "end": 245,
+        "text": "Rg1",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 329,
+        "end": 337,
+        "text": "morphine",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 394,
+        "end": 397,
+        "text": "Rg1",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 432,
+        "end": 440,
+        "text": "morphine",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 547,
+        "end": 555,
+        "text": "morphine",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 617,
+        "end": 620,
+        "text": "Rg1",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 701,
+        "end": 709,
+        "text": "morphine",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 841,
+        "end": 849,
+        "text": "Morphine",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 850,
+        "end": 853,
+        "text": "Rg1",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 401,
+        "end": 420,
+        "text": "learning impairment",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 1051,
+        "end": 1054,
+        "text": "Rg1",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1109,
+        "end": 1117,
+        "text": "morphine",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1220,
+        "end": 1223,
+        "text": "Rg1",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1278,
+        "end": 1286,
+        "text": "morphine",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1345,
+        "end": 1353,
+        "text": "morphine",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1354,
+        "end": 1357,
+        "text": "Rg1",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1411,
+        "end": 1431,
+        "text": "N-methyl-D-aspartate",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1433,
+        "end": 1437,
+        "text": "NMDA",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1459,
+        "end": 1464,
+        "text": "MK801",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1483,
+        "end": 1486,
+        "text": "Rg1",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1562,
+        "end": 1570,
+        "text": "morphine",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1641,
+        "end": 1645,
+        "text": "NMDA",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1602,
+        "end": 1610,
+        "text": "morphine",
+        "labels": [
+          "Chemical"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 174,
+    "created_at": "2025-03-02T18:47:30.130871Z",
+    "updated_at": "2025-03-02T18:47:30.130871Z",
+    "lead_time": 136.869
+  },
+  {
+    "text": "The relationship between hippocampal acetylcholine release and cholinergic convulsant sensitivity in withdrawal seizure-prone and withdrawal seizure-resistant selected mouse lines. BACKGROUND: The septo-hippocampal cholinergic pathway has been implicated in epileptogenesis, and genetic factors influence the response to cholinergic agents, but limited data are available on cholinergic involvement in alcohol withdrawal severity. Thus, the relationship between cholinergic activity and responsiveness and alcohol withdrawal was investigated in a genetic animal model of ethanol withdrawal severity. METHODS: Cholinergic convulsant sensitivity was examined in alcohol-na  ve Withdrawal Seizure-Prone (WSP) and-Resistant (WSR) mice. Animals were administered nicotine, carbachol, or neostigmine via timed tail vein infusion, and the latencies to onset of tremor and clonus were recorded and converted to threshold dose. We also used microdialysis to measure basal and potassium-stimulated acetylcholine (ACh) release in the CA1 region of the hippocampus. Potassium was applied by reverse dialysis twice, separated by 75 min. Hippocampal ACh also was measured during testing for handling-induced convulsions. RESULTS: Sensitivity to several convulsion endpoints induced by nicotine, carbachol, and neostigmine were significantly greater in WSR versus WSP mice. In microdialysis experiments, the lines did not differ in basal release of ACh, and 50 mM KCl increased ACh output in both lines of mice. However, the increase in release of ACh produced by the first application of KCl was 2-fold higher in WSP versus WSR mice. When hippocampal ACh was measured during testing for handling-induced convulsions, extracellular ACh was significantly elevated (192%) in WSP mice, but was nonsignificantly elevated (59%) in WSR mice. CONCLUSIONS: These results suggest that differences in cholinergic activity and postsynaptic sensitivity to cholinergic convulsants may be associated with ethanol withdrawal severity and implicate cholinergic mechanisms in alcohol withdrawal. Specifically, WSP mice may have lower sensitivity to cholinergic convulsants compared with WSR because of postsynaptic receptor desensitization brought on by higher activity of cholinergic neurons.",
+    "id": 575,
+    "label": [
+      {
+        "start": 37,
+        "end": 50,
+        "text": "acetylcholine",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 112,
+        "end": 119,
+        "text": "seizure",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 141,
+        "end": 148,
+        "text": "seizure",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 506,
+        "end": 513,
+        "text": "alcohol",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 571,
+        "end": 578,
+        "text": "ethanol",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 660,
+        "end": 667,
+        "text": "alcohol",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 402,
+        "end": 409,
+        "text": "alcohol",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 686,
+        "end": 693,
+        "text": "Seizure",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 758,
+        "end": 766,
+        "text": "nicotine",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 768,
+        "end": 777,
+        "text": "carbachol",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 782,
+        "end": 793,
+        "text": "neostigmine",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 854,
+        "end": 860,
+        "text": "tremor",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 967,
+        "end": 976,
+        "text": "potassium",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 988,
+        "end": 1001,
+        "text": "acetylcholine",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1003,
+        "end": 1006,
+        "text": "ACh",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1054,
+        "end": 1063,
+        "text": "Potassium",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1136,
+        "end": 1139,
+        "text": "ACh",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1194,
+        "end": 1205,
+        "text": "convulsions",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 1239,
+        "end": 1249,
+        "text": "convulsion",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 1271,
+        "end": 1279,
+        "text": "nicotine",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1281,
+        "end": 1290,
+        "text": "carbachol",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1296,
+        "end": 1307,
+        "text": "neostigmine",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1434,
+        "end": 1437,
+        "text": "ACh",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1449,
+        "end": 1452,
+        "text": "KCl",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1463,
+        "end": 1466,
+        "text": "ACh",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1533,
+        "end": 1536,
+        "text": "ACh",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1574,
+        "end": 1577,
+        "text": "KCl",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1637,
+        "end": 1640,
+        "text": "ACh",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1717,
+        "end": 1720,
+        "text": "ACh",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1690,
+        "end": 1701,
+        "text": "convulsions",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 1941,
+        "end": 1952,
+        "text": "convulsants",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 1976,
+        "end": 1983,
+        "text": "ethanol",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 2044,
+        "end": 2051,
+        "text": "alcohol",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 2129,
+        "end": 2140,
+        "text": "convulsants",
+        "labels": [
+          "Disease"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 175,
+    "created_at": "2025-03-02T18:51:53.050239Z",
+    "updated_at": "2025-03-02T18:51:53.050239Z",
+    "lead_time": 262.625
+  }
+]

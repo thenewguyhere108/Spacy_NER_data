@@ -1,0 +1,3397 @@
+[
+  {
+    "text": "Liver disease caused by propylthiouracil. This report presents the clinical, laboratory, and light and electron microscopic observations on a patient with chronic active (aggressive) hepatitis caused by the administration of propylthiouracil. This is an addition to the list of drugs that must be considered in the evaluation of chronic liver disease.",
+    "id": 501,
+    "label": [
+      {
+        "start": 0,
+        "end": 13,
+        "text": "Liver disease",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 24,
+        "end": 40,
+        "text": "propylthiouracil",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 155,
+        "end": 192,
+        "text": "chronic active (aggressive) hepatitis",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 225,
+        "end": 241,
+        "text": "propylthiouracil",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 329,
+        "end": 350,
+        "text": "chronic liver disease",
+        "labels": [
+          "Disease"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 101,
+    "created_at": "2025-02-27T01:13:16.311607Z",
+    "updated_at": "2025-02-27T01:13:16.311607Z",
+    "lead_time": 51.468
+  },
+  {
+    "text": "Severe and long lasting cholestasis after high-dose co-trimoxazole treatment for Pneumocystis pneumonia in HIV-infected patients--a report of two cases. Pneumocystis pneumonia (PCP), a common opportunistic infection in HIV-infected individuals, is generally treated with high doses of co-trimoxazole. However, treatment is often limited by adverse effects. Here, we report two cases of severely immunocompromised HIV-infected patients who developed severe intrahepatic cholestasis, and in one patient lesions mimicking liver abscess formation on radiologic exams, during co-trimoxazole treatment for PCP. Whereas patient 1 showed lesions of up to 1 cm readily detectable on magnetic resonance imaging under prolonged co-trimoxazole treatment, therapy of patient 2 was switched early.",
+    "id": 502,
+    "label": [
+      {
+        "start": 24,
+        "end": 35,
+        "text": "cholestasis",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 52,
+        "end": 66,
+        "text": "co-trimoxazole",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 81,
+        "end": 103,
+        "text": "Pneumocystis pneumonia",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 107,
+        "end": 119,
+        "text": "HIV-infected",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 153,
+        "end": 175,
+        "text": "Pneumocystis pneumonia",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 177,
+        "end": 180,
+        "text": "PCP",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 192,
+        "end": 215,
+        "text": "opportunistic infection",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 219,
+        "end": 231,
+        "text": "HIV-infected",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 413,
+        "end": 425,
+        "text": "HIV-infected",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 285,
+        "end": 299,
+        "text": "co-trimoxazole",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 456,
+        "end": 480,
+        "text": "intrahepatic cholestasis",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 519,
+        "end": 532,
+        "text": "liver abscess",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 571,
+        "end": 585,
+        "text": "co-trimoxazole",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 600,
+        "end": 603,
+        "text": "PCP",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 717,
+        "end": 731,
+        "text": "co-trimoxazole",
+        "labels": [
+          "Chemical"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 102,
+    "created_at": "2025-02-27T01:15:57.025160Z",
+    "updated_at": "2025-02-27T01:15:57.025160Z",
+    "lead_time": 160.457
+  },
+  {
+    "text": "Pulmonary shunt and cardiovascular responses to CPAP during nitroprusside-induced hypotension. The effects of continuous positive airway pressure (CPAP) on cardiovascular dynamics and pulmonary shunt (QS\/QT) were investigated in 12 dogs before and during sodium nitroprusside infusion that decreased mean arterial blood pressure 40-50 per cent. Before nitroprusside infusion, 5 cm H2O CPAP significantly, P less than .05, decreased arterial blood pressure, but did not significantly alter heart rate, cardiac output, systemic vascular resistance, or QS\/QT. Ten cm H2O CPAP before nitroprusside infusion produced a further decrease in arterial blood pressure and significantly increased heart rate and decreased cardiac output and QS\/QT. Nitroprusside caused significant decreases in arterial blood pressure and systemic vascular resistance and increases in heart rate, but did not change cardiac output or QS\/QT. Five cm H2O CPAP during nitroprusside did not further alter any of the above-mentioned variables. However, 10 cm H2O CPAP decreased arterial blood pressure, cardiac output, and QS\/QT. These data indicate that nitroprusside infusion rates that decrease mean arterial blood pressure by 40-50 per cent do not change cardiac output or QS\/QT. During nitroprusside infusion low levels of CPAP do not markedly alter cardiovascular dynamics, but high levels of CPAP (10 cm H2O), while decreasing QS\/QT, produce marked decreases in arterial blood pressure and cardiac output.",
+    "id": 503,
+    "label": [
+      {
+        "start": 60,
+        "end": 73,
+        "text": "nitroprusside",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 82,
+        "end": 93,
+        "text": "hypotension",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 255,
+        "end": 275,
+        "text": "sodium nitroprusside",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 352,
+        "end": 365,
+        "text": "nitroprusside",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 580,
+        "end": 593,
+        "text": "nitroprusside",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 381,
+        "end": 384,
+        "text": "H2O",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 564,
+        "end": 567,
+        "text": "H2O",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 737,
+        "end": 750,
+        "text": "Nitroprusside",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 622,
+        "end": 648,
+        "text": "decrease in arterial blood",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 770,
+        "end": 806,
+        "text": "decreases in arterial blood pressure",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 422,
+        "end": 455,
+        "text": "decreased arterial blood pressure",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 701,
+        "end": 725,
+        "text": "decreased cardiac output",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 290,
+        "end": 328,
+        "text": "decreased mean arterial blood pressure",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 921,
+        "end": 924,
+        "text": "H2O",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 937,
+        "end": 950,
+        "text": "nitroprusside",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1026,
+        "end": 1029,
+        "text": "H2O",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1122,
+        "end": 1135,
+        "text": "nitroprusside",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1258,
+        "end": 1271,
+        "text": "nitroprusside",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1378,
+        "end": 1381,
+        "text": "H2O",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1423,
+        "end": 1459,
+        "text": "decreases in arterial blood pressure",
+        "labels": [
+          "Disease"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 103,
+    "created_at": "2025-02-27T01:20:10.089037Z",
+    "updated_at": "2025-02-27T01:20:10.089037Z",
+    "lead_time": 252.822
+  },
+  {
+    "text": "Influence of smoking on developing cochlea. Does smoking during pregnancy affect the amplitudes of transient evoked otoacoustic emissions in newborns? OBJECTIVE: Maternal tobacco smoking has negative effects on fetal growth. The influence of smoking during pregnancy on the developing cochlea has not been estimated, although smoking has been positively associated with hearing loss in adults. The objective of this study was to determine the effects of maternal smoking on transient evoked otoacoustic emissions (TEOAEs) of healthy neonates. METHODS: This study was undertaken as part of neonatal screening for hearing impairment and involved both ears of 200 newborns. Newborns whose mothers reported smoking during pregnancy (n=200 ears) were compared to a control group of newborns (n=200 ears), whose mothers were non-smokers. Exposure to tobacco was characterized as low (<5 cigarettes per day, n=88 ears), moderate (5< or =cigarettes per day<10, n=76) or high (> or =10 cigarettes per day, n=36). RESULTS: In exposed neonates, TEOAEs mean response (across frequency) and mean amplitude at 4000Hz was significantly lower than in non-exposed neonates. Comparisons between exposed newborns' subgroups revealed no significant differences. However, by comparing each subgroup to control group, we found statistically significant decreases of TEOAEs amplitudes at 4000Hz for all three groups. Mean TEOAEs responses of highly exposed newborns were also significantly lower in comparison to our control group. CONCLUSION: In utero, exposure to tobacco smoking seems to have a small impact on outer hair cells. These effects seem to be equally true for all exposed newborns, regardless of the degree of exposure. Further studies are needed in order to establish a potential negative effect of maternal smoking on the neonate's hearing acuity.",
+    "id": 504,
+    "label": [
+      {
+        "start": 370,
+        "end": 382,
+        "text": "hearing loss",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 612,
+        "end": 630,
+        "text": "hearing impairment",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 1331,
+        "end": 1361,
+        "text": "decreases of TEOAEs amplitudes",
+        "labels": [
+          "Disease"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 104,
+    "created_at": "2025-02-27T01:25:47.807447Z",
+    "updated_at": "2025-02-27T01:25:47.807447Z",
+    "lead_time": 337.403
+  },
+  {
+    "text": "Antibacterial medication use during pregnancy and risk of birth defects: National Birth Defects Prevention Study. OBJECTIVE: To estimate the association between antibacterial medications and selected birth defects. DESIGN, SETTING, AND PARTICIPANTS: Population-based, multisite, case-control study of women who had pregnancies affected by 1 of more than 30 eligible major birth defects identified via birth defect surveillance programs in 10 states (n = 13 155) and control women randomly selected from the same geographical regions (n = 4941). MAIN EXPOSURE: Reported maternal use of antibacterials (1 month before pregnancy through the end of the first trimester). MAIN OUTCOME MEASURE: Odds ratios (ORs) measuring the association between antibacterial use and selected birth defects adjusted for potential confounders. RESULTS: The reported use of antibacterials increased during pregnancy, peaking during the third month. Sulfonamides were associated with anencephaly (adjusted OR [AOR] = 3.4; 95% confidence interval [CI], 1.3-8.8), hypoplastic left heart syndrome (AOR = 3.2; 95% CI, 1.3-7.6), coarctation of the aorta (AOR = 2.7; 95% CI, 1.3-5.6), choanal atresia (AOR = 8.0; 95% CI, 2.7-23.5), transverse limb deficiency (AOR = 2.5; 95% CI, 1.0-5.9), and diaphragmatic hernia (AOR = 2.4; 95% CI, 1.1-5.4). Nitrofurantoins were associated with anophthalmia or microphthalmos (AOR = 3.7; 95% CI, 1.1-12.2), hypoplastic left heart syndrome (AOR = 4.2; 95% CI, 1.9-9.1), atrial septal defects (AOR = 1.9; 95% CI, 1.1-3.4), and cleft lip with cleft palate (AOR = 2.1; 95% CI, 1.2-3.9). Other antibacterial agents that showed associations included erythromycins (2 defects), penicillins (1 defect), cephalosporins (1 defect), and quinolones (1 defect). CONCLUSIONS: Reassuringly, penicillins, erythromycins, and cephalosporins, although used commonly by pregnant women, were not associated with many birth defects. Sulfonamides and nitrofurantoins were associated with several birth defects, indicating a need for additional scrutiny.",
+    "id": 505,
+    "label": [
+      {
+        "start": 58,
+        "end": 72,
+        "text": "birth defects:",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 82,
+        "end": 95,
+        "text": "Birth Defects",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 200,
+        "end": 213,
+        "text": "birth defects",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 372,
+        "end": 385,
+        "text": "birth defects",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 401,
+        "end": 413,
+        "text": "birth defect",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 772,
+        "end": 785,
+        "text": "birth defects",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 926,
+        "end": 938,
+        "text": "Sulfonamides",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 960,
+        "end": 971,
+        "text": "anencephaly",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 1038,
+        "end": 1069,
+        "text": "hypoplastic left heart syndrome",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 1100,
+        "end": 1124,
+        "text": "coarctation of the aorta",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 1155,
+        "end": 1170,
+        "text": "choanal atresia",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 1202,
+        "end": 1228,
+        "text": "transverse limb deficiency",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 1263,
+        "end": 1283,
+        "text": "diaphragmatic hernia",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 1314,
+        "end": 1329,
+        "text": "Nitrofurantoins",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1351,
+        "end": 1363,
+        "text": "anophthalmia",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 1367,
+        "end": 1381,
+        "text": "microphthalmos",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 1413,
+        "end": 1444,
+        "text": "hypoplastic left heart syndrome",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 1475,
+        "end": 1496,
+        "text": "atrial septal defects",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 1531,
+        "end": 1540,
+        "text": "cleft lip",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 1546,
+        "end": 1558,
+        "text": "cleft palate",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 1650,
+        "end": 1663,
+        "text": "erythromycins",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1677,
+        "end": 1688,
+        "text": "penicillins",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1701,
+        "end": 1715,
+        "text": "cephalosporins",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1732,
+        "end": 1742,
+        "text": "quinolones",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1782,
+        "end": 1793,
+        "text": "penicillins",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1795,
+        "end": 1808,
+        "text": "erythromycins",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1814,
+        "end": 1828,
+        "text": "cephalosporins",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1902,
+        "end": 1915,
+        "text": "birth defects",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 1917,
+        "end": 1929,
+        "text": "Sulfonamides",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1934,
+        "end": 1949,
+        "text": "nitrofurantoins",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1979,
+        "end": 1992,
+        "text": "birth defects",
+        "labels": [
+          "Disease"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 105,
+    "created_at": "2025-02-27T01:28:14.865711Z",
+    "updated_at": "2025-02-27T01:28:14.865711Z",
+    "lead_time": 146.804
+  },
+  {
+    "text": "Reduction of heparan sulphate-associated anionic sites in the glomerular basement membrane of rats with streptozotocin-induced diabetic nephropathy. Heparan sulphate-associated anionic sites in the glomerular basement membrane were studied in rats 8 months after induction of diabetes by streptozotocin and in age- adn sex-matched control rats, employing the cationic dye cuprolinic blue. Morphometric analysis at the ultrastructural level was performed using a computerized image processor. The heparan sulphate specificity of the cuprolinic blue staining was demonstrated by glycosaminoglycan-degrading enzymes, showing that pretreatment of the sections with heparitinase abolished all staining, whereas chondroitinase ABC had no effect. The majority of anionic sites (74% in diabetic and 81% in control rats) were found within the lamina rara externa of the glomerular basement membrane. A minority of anionic sites were scattered throughout the lamina densa and lamina rara interna, and were significantly smaller than those in the lamina rara externa of the glomerular basement membrane (p<0.001 and p<0.01 for diabetic and control rats, respectively). Diabetic rats progressively developed albuminuria reaching 40.3 (32.2-62.0) mg\/24 h after 8 months in contrast to the control animals (0.8 (0.2-0.9) mg\/24 h, p<0.002). At the same time, the number of heparan sulphate anionic sites and the total anionic site surface (number of anionic sites x mean anionic site surface) in the lamina rara externa of the glomerular basement membrane was reduced by 19% (p<0.021) and by 26% (p<0.02), respectively. Number and total anionic site surface in the remaining part of the glomerular basement membrane (lamina densa and lamina rara interna) were not significantly changed. We conclude that in streptozotocin-diabetic rats with an increased urinary albumin excretion, a reduced heparan sulphate charge barrier\/density is found at the lamina rara externa of the glomerular basement membrane.",
+    "id": 506,
+    "label": [
+      {
+        "start": 13,
+        "end": 29,
+        "text": "heparan sulphate",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 104,
+        "end": 118,
+        "text": "streptozotocin",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 127,
+        "end": 147,
+        "text": "diabetic nephropathy",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 149,
+        "end": 165,
+        "text": "Heparan sulphate",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 276,
+        "end": 284,
+        "text": "diabetes",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 288,
+        "end": 302,
+        "text": "streptozotocin",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 372,
+        "end": 387,
+        "text": "cuprolinic blue",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 496,
+        "end": 512,
+        "text": "heparan sulphate",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 532,
+        "end": 547,
+        "text": "cuprolinic blue",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 577,
+        "end": 594,
+        "text": "glycosaminoglycan",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 778,
+        "end": 786,
+        "text": "diabetic",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 1158,
+        "end": 1166,
+        "text": "Diabetic",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 1116,
+        "end": 1124,
+        "text": "diabetic",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 1196,
+        "end": 1207,
+        "text": "albuminuria",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 1358,
+        "end": 1374,
+        "text": "heparan sulphate",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1792,
+        "end": 1806,
+        "text": "streptozotocin",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1807,
+        "end": 1815,
+        "text": "diabetic",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 1876,
+        "end": 1892,
+        "text": "heparan sulphate",
+        "labels": [
+          "Chemical"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 106,
+    "created_at": "2025-02-27T01:32:41.742828Z",
+    "updated_at": "2025-02-27T01:32:41.742828Z",
+    "lead_time": 266.614
+  },
+  {
+    "text": "Acute confusion induced by a high-dose infusion of 5-fluorouracil and folinic acid. A 61-year-old man was treated with combination chemotherapy incorporating cisplatinum, etoposide, high-dose 5-fluorouracil (2,250 mg\/m2\/24 hours) and folinic acid for an inoperable gastric adenocarcinoma. He developed acute neurologic symptoms of mental confusion, disorientation and irritability, and then lapsed into a deep coma, lasting for approximately 40 hours during the first dose (day 2) of 5-fluorouracil and folinic acid infusion. This complication reappeared on day 25 during the second dose of 5-fluorouracil and folinic acid, which were then the only drugs given. Because folinic acid was unlikely to be associated with this condition, neurotoxicity due to high-dose 5-fluorouracil was highly suspected. The pathogenesis of 5-fluorouracil neurotoxicity may be due to a Krebs cycle blockade by fluoroacetate and fluorocitrate, thiamine deficiency, or dihydrouracil dehydrogenase deficiency. High-dose 5-fluorouracil\/folinic acid infusion therapy has recently become a popular regimen for various cancers. It is necessary that both oncologists and neurologists be fully aware of this unusual complication.",
+    "id": 507,
+    "label": [
+      {
+        "start": 51,
+        "end": 65,
+        "text": "5-fluorouracil",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 70,
+        "end": 83,
+        "text": "folinic acid.",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 158,
+        "end": 169,
+        "text": "cisplatinum",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 171,
+        "end": 180,
+        "text": "etoposide",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 192,
+        "end": 206,
+        "text": "5-fluorouracil",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 234,
+        "end": 246,
+        "text": "folinic acid",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 265,
+        "end": 287,
+        "text": "gastric adenocarcinoma",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 6,
+        "end": 15,
+        "text": "confusion",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 338,
+        "end": 347,
+        "text": "confusion",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 349,
+        "end": 363,
+        "text": "disorientation",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 368,
+        "end": 381,
+        "text": "irritability,",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 410,
+        "end": 414,
+        "text": "coma",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 484,
+        "end": 498,
+        "text": "5-fluorouracil",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 503,
+        "end": 515,
+        "text": "folinic acid",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 591,
+        "end": 605,
+        "text": "5-fluorouracil",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 610,
+        "end": 622,
+        "text": "folinic acid",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 670,
+        "end": 682,
+        "text": "folinic acid",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 734,
+        "end": 747,
+        "text": "neurotoxicity",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 765,
+        "end": 779,
+        "text": "5-fluorouracil",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 822,
+        "end": 836,
+        "text": "5-fluorouracil",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 837,
+        "end": 850,
+        "text": "neurotoxicity",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 891,
+        "end": 904,
+        "text": "fluoroacetate",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 909,
+        "end": 922,
+        "text": "fluorocitrate",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 924,
+        "end": 932,
+        "text": "thiamine",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 948,
+        "end": 961,
+        "text": "dihydrouracil",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 998,
+        "end": 1012,
+        "text": "5-fluorouracil",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1013,
+        "end": 1025,
+        "text": "folinic acid",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1093,
+        "end": 1100,
+        "text": "cancers",
+        "labels": [
+          "Disease"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 107,
+    "created_at": "2025-02-27T01:35:21.270387Z",
+    "updated_at": "2025-02-27T01:35:21.270387Z",
+    "lead_time": 159.275
+  },
+  {
+    "text": "Desipramine-induced delirium at \"subtherapeutic\" concentrations: a case report. An elderly patient treated with low dose Desipramine developed a delirium while her plasma level was in the \"subtherapeutic\" range. Delirium, which may be induced by tricyclic drug therapy in the elderly, can be caused by tricyclics with low anticholinergic potency. Therapeutic ranges for antidepressants that have been derived from general adult population studies may not be appropriate for the elderly. Further studies of specifically elderly patients are now required to establish safer and more appropriate guidelines for drug therapy.",
+    "id": 508,
+    "label": [
+      {
+        "start": 0,
+        "end": 11,
+        "text": "Desipramine",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 20,
+        "end": 28,
+        "text": "delirium",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 121,
+        "end": 132,
+        "text": "Desipramine",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 145,
+        "end": 153,
+        "text": "delirium",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 212,
+        "end": 220,
+        "text": "Delirium",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 370,
+        "end": 385,
+        "text": "antidepressants",
+        "labels": [
+          "Chemical"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 108,
+    "created_at": "2025-02-27T01:36:19.623178Z",
+    "updated_at": "2025-02-27T01:36:19.623178Z",
+    "lead_time": 58.101
+  },
+  {
+    "text": "Erythema multiforme and hypersensitivity myocarditis caused by ampicillin. OBJECTIVE: To report a case of erythema multiforme and hypersensitivity myocarditis caused by ampicillin. CASE SUMMARY: A 13-year-old boy was treated with ampicillin and gentamicin because of suspected septicemia. Medications were discontinued when erythema multiforme and congestive heart failure caused by myocarditis occurred. The patient was treated with methylprednisolone and gradually improved. Macrophage-migration inhibition (MIF) test with ampicillin was positive. DISCUSSION: After most infections causing erythema multiforme and myocarditis were ruled out, a drug-induced allergic reaction was suspected. Positive MIF test for ampicillin showed sensitization of the patient's lymphocytes to ampicillin. CONCLUSIONS: Hypersensitivity myocarditis is a rare and dangerous manifestation of allergy to penicillins.",
+    "id": 509,
+    "label": [
+      {
+        "start": 0,
+        "end": 19,
+        "text": "Erythema multiforme",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 24,
+        "end": 52,
+        "text": "hypersensitivity myocarditis",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 63,
+        "end": 73,
+        "text": "ampicillin",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 106,
+        "end": 125,
+        "text": "erythema multiforme",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 130,
+        "end": 158,
+        "text": "hypersensitivity myocarditis",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 169,
+        "end": 179,
+        "text": "ampicillin",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 230,
+        "end": 240,
+        "text": "ampicillin",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 245,
+        "end": 255,
+        "text": "gentamicin",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 277,
+        "end": 287,
+        "text": "septicemia",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 324,
+        "end": 343,
+        "text": "erythema multiforme",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 348,
+        "end": 372,
+        "text": "congestive heart failure",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 383,
+        "end": 394,
+        "text": "myocarditis",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 434,
+        "end": 452,
+        "text": "methylprednisolone",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 525,
+        "end": 535,
+        "text": "ampicillin",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 592,
+        "end": 600,
+        "text": "erythema",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 616,
+        "end": 627,
+        "text": "myocarditis",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 651,
+        "end": 676,
+        "text": "induced allergic reaction",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 714,
+        "end": 724,
+        "text": "ampicillin",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 778,
+        "end": 788,
+        "text": "ampicillin",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 803,
+        "end": 831,
+        "text": "Hypersensitivity myocarditis",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 873,
+        "end": 880,
+        "text": "allergy",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 884,
+        "end": 895,
+        "text": "penicillins",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 573,
+        "end": 583,
+        "text": "infections",
+        "labels": [
+          "Disease"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 109,
+    "created_at": "2025-02-27T01:39:39.744940Z",
+    "updated_at": "2025-02-27T01:39:39.744940Z",
+    "lead_time": 199.863
+  },
+  {
+    "text": "Comparative cognitive and subjective side effects of immediate-release oxycodone in healthy middle-aged and older adults. This study measured the objective and subjective neurocognitive effects of a single 10-mg dose of immediate-release oxycodone in healthy, older (> 65 years), and middle-aged (35 to 55 years) adults who were not suffering from chronic or significant daily pain. Seventy-one participants completed 2 separate study days and were blind to medication condition (placebo, 10-mg oxycodone). Plasma oxycodone concentration peaked between 60 and 90 minutes postdose (P < .01) and pupil size, an indication of physiological effects of the medication, peaked at approximately 90 to 120 minutes postdose (P < .01). Significant declines in simple and sustained attention, working memory, and verbal memory were observed at 1 hour postdose compared to baseline for both age groups with a trend toward return to baseline by 5 hours postdose. For almost all cognitive measures, there were no medication by age-interaction effects, which indicates that the 2 age groups exhibited similar responses to the medication challenge. This study suggests that for healthy older adults who are not suffering from chronic pain, neurocognitive and pharmacodynamic changes in response to a 10-mg dose of immediate-release oxycodone are similar to those observed for middle-aged adults. PERSPECTIVE: Study findings indicate that the metabolism, neurocognitive effects, and physical side effects of oral oxycodone are similar for healthy middle-aged and older adults. Therefore, clinicians should not avoid prescribing oral opioids to older adults based on the belief that older adults are at higher risk for side effects than younger adults.",
+    "id": 510,
+    "label": [
+      {
+        "start": 71,
+        "end": 80,
+        "text": "oxycodone",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 238,
+        "end": 247,
+        "text": "oxycodone",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 495,
+        "end": 504,
+        "text": "oxycodone",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1496,
+        "end": 1505,
+        "text": "oxycodone",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1316,
+        "end": 1325,
+        "text": "oxycodone",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 514,
+        "end": 523,
+        "text": "oxycodone",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1210,
+        "end": 1222,
+        "text": "chronic pain",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 377,
+        "end": 381,
+        "text": "pain",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 738,
+        "end": 815,
+        "text": "declines in simple and sustained attention, working memory, and verbal memory",
+        "labels": [
+          "Disease"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 110,
+    "created_at": "2025-02-27T01:41:05.065786Z",
+    "updated_at": "2025-02-27T01:41:05.065786Z",
+    "lead_time": 85.063
+  },
+  {
+    "text": "Treatment of Crohn's disease with fusidic acid: an antibiotic with immunosuppressive properties similar to cyclosporin. Fusidic acid is an antibiotic with T-cell specific immunosuppressive effects similar to those of cyclosporin. Because of the need for the development of new treatments for Crohn's disease, a pilot study was undertaken to estimate the pharmacodynamics and tolerability of fusidic acid treatment in chronic active, therapy-resistant patients. Eight Crohn's disease patients were included. Fusidic acid was administered orally in a dose of 500 mg t.d.s. and the treatment was planned to last 8 weeks. The disease activity was primarily measured by a modified individual grading score. Five of 8 patients (63%) improved during fusidic acid treatment: 3 at two weeks and 2 after four weeks. There were no serious clinical side effects, but dose reduction was required in two patients because of nausea. Biochemically, an increase in alkaline phosphatases was noted in 5 of 8 cases (63%), and the greatest increases were seen in those who had elevated levels prior to treatment. All reversed to pre-treatment levels after cessation of treatment. The results of this pilot study suggest that fusidic acid may be of benefit in selected chronic active Crohn's disease patients in whom conventional treatment is ineffective. Because there seems to exist a scientific rationale for the use of fusidic acid at the cytokine level in inflammatory bowel disease, we suggest that the role of this treatment should be further investigated.",
+    "id": 511,
+    "label": [
+      {
+        "start": 13,
+        "end": 28,
+        "text": "Crohn's disease",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 34,
+        "end": 46,
+        "text": "fusidic acid",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 107,
+        "end": 118,
+        "text": "cyclosporin",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 120,
+        "end": 132,
+        "text": "Fusidic acid",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 217,
+        "end": 228,
+        "text": "cyclosporin",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 292,
+        "end": 307,
+        "text": "Crohn's disease",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 391,
+        "end": 403,
+        "text": "fusidic acid",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 467,
+        "end": 482,
+        "text": "Crohn's disease",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 507,
+        "end": 519,
+        "text": "Fusidic acid",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 743,
+        "end": 755,
+        "text": "fusidic acid",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 910,
+        "end": 916,
+        "text": "nausea",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 1205,
+        "end": 1217,
+        "text": "fusidic acid",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1263,
+        "end": 1278,
+        "text": "Crohn's disease",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 1402,
+        "end": 1414,
+        "text": "fusidic acid",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1440,
+        "end": 1466,
+        "text": "inflammatory bowel disease",
+        "labels": [
+          "Disease"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 111,
+    "created_at": "2025-02-27T01:44:06.224914Z",
+    "updated_at": "2025-02-27T01:44:06.224914Z",
+    "lead_time": 180.91
+  },
+  {
+    "text": "Immediate allergic reactions to amoxicillin. A large group of patients with suspected allergic reactions to beta-lactam antibiotics was evaluated. A detailed clinical history, together with skin tests, RAST (radioallergosorbent test), and controlled challenge tests, was used to establish whether patients allergic to beta-lactam antibiotics had selective immediate allergic responses to amoxicillin (AX) or were cross-reacting with other penicillin derivatives. Skin tests were performed with benzylpenicilloyl-poly-L-lysine (BPO-PLL), benzylpenicilloate, benzylpenicillin (PG), ampicillin (AMP), and AX. RAST for BPO-PLL and AX-PLL was done. When both skin test and RAST for BPO were negative, single-blind, placebo-controlled challenge tests were done to ensure tolerance of PG or sensitivity to AX. A total of 177 patients were diagnosed as allergic to beta-lactam antibiotics. We selected the 54 (30.5%) cases of immediate AX allergy with good tolerance of PG. Anaphylaxis was seen in 37 patients (69%), the other 17 (31%) having urticaria and\/or angioedema. All the patients were skin test negative to BPO; 49 of 51 (96%) were also negative to MDM, and 44 of 46 (96%) to PG. Skin tests with AX were positive in 34 (63%) patients. RAST was positive for AX in 22 patients (41%) and to BPO in just 5 (9%). None of the sera with negative RAST for AX were positive to BPO. Challenge tests with AX were performed in 23 subjects (43%) to establish the diagnosis of immediate allergic reaction to AX, and in 15 cases (28%) both skin test and RAST for AX were negative. PG was well tolerated by all 54 patients. We describe the largest group of AX-allergic patients who have tolerated PG reported so far. Diagnosis of these patients can be achieved only if specific AX-related reagents are employed. Further studies are necessary to determine the exact extent of this problem and to improve the efficacy of diagnostic methods.",
+    "id": 512,
+    "label": [
+      {
+        "start": 32,
+        "end": 43,
+        "text": "amoxicillin",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 86,
+        "end": 104,
+        "text": "allergic reactions",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 10,
+        "end": 28,
+        "text": "allergic reactions",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 318,
+        "end": 329,
+        "text": "beta-lactam",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 366,
+        "end": 374,
+        "text": "allergic",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 388,
+        "end": 399,
+        "text": "amoxicillin",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 401,
+        "end": 403,
+        "text": "AX",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 439,
+        "end": 449,
+        "text": "penicillin",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 494,
+        "end": 525,
+        "text": "benzylpenicilloyl-poly-L-lysine",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 527,
+        "end": 534,
+        "text": "BPO-PLL",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 537,
+        "end": 555,
+        "text": "benzylpenicilloate",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 557,
+        "end": 573,
+        "text": "benzylpenicillin",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 575,
+        "end": 577,
+        "text": "PG",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 580,
+        "end": 590,
+        "text": "ampicillin",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 592,
+        "end": 595,
+        "text": "AMP",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 602,
+        "end": 604,
+        "text": "AX",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 615,
+        "end": 622,
+        "text": "BPO-PLL",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 627,
+        "end": 629,
+        "text": "AX",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 677,
+        "end": 680,
+        "text": "BPO",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 778,
+        "end": 780,
+        "text": "PG",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 799,
+        "end": 801,
+        "text": "AX",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 845,
+        "end": 853,
+        "text": "allergic",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 857,
+        "end": 868,
+        "text": "beta-lactam",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 928,
+        "end": 930,
+        "text": "AX",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 962,
+        "end": 964,
+        "text": "PG",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 931,
+        "end": 938,
+        "text": "allergy",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 966,
+        "end": 977,
+        "text": "Anaphylaxis",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 1035,
+        "end": 1044,
+        "text": "urticaria",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 1052,
+        "end": 1062,
+        "text": "angioedema",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 1108,
+        "end": 1111,
+        "text": "BPO",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1150,
+        "end": 1153,
+        "text": "MDM",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1177,
+        "end": 1179,
+        "text": "PG",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1197,
+        "end": 1199,
+        "text": "AX",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1289,
+        "end": 1292,
+        "text": "BPO",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1349,
+        "end": 1351,
+        "text": "AX",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1395,
+        "end": 1397,
+        "text": "AX",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1495,
+        "end": 1497,
+        "text": "AX",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1549,
+        "end": 1551,
+        "text": "AX",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1567,
+        "end": 1569,
+        "text": "PG",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1642,
+        "end": 1644,
+        "text": "AX",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1682,
+        "end": 1684,
+        "text": "PG",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1763,
+        "end": 1765,
+        "text": "AX",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1645,
+        "end": 1653,
+        "text": "allergic",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 1474,
+        "end": 1491,
+        "text": "allergic reaction",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 1369,
+        "end": 1372,
+        "text": "BPO",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1258,
+        "end": 1260,
+        "text": "AX",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 108,
+        "end": 119,
+        "text": "beta-lactam",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 306,
+        "end": 314,
+        "text": "allergic",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 1685,
+        "end": 1693,
+        "text": "reported",
+        "labels": [
+          "Disease"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 112,
+    "created_at": "2025-02-27T01:51:40.532990Z",
+    "updated_at": "2025-02-27T01:51:40.532990Z",
+    "lead_time": 454.061
+  },
+  {
+    "text": "Suxamethonium infusion rate and observed fasciculations. A dose-response study. Suxamethonium chloride (Sch) was administered i.v. to 36 adult males at six rates: 0.25 mg s-1 to 20 mg s-1. The infusion was discontinued either when there was no muscular response to tetanic stimulation of the ulnar nerve or when Sch 120 mg was exceeded. Six additional patients received a 30-mg i.v. bolus dose. Fasciculations in six areas of the body were scored from 0 to 3 and summated as a total fasciculation score. The times to first fasciculation, twitch suppression and tetanus suppression were inversely related to the infusion rates. Fasciculations in the six areas and the total fasciculation score were related directly to the rate of infusion. Total fasciculation scores in the 30-mg bolus group and the 5-mg s-1 and 20-mg s-1 infusion groups were not significantly different.",
+    "id": 513,
+    "label": [
+      {
+        "start": 0,
+        "end": 13,
+        "text": "Suxamethonium",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 41,
+        "end": 55,
+        "text": "fasciculations",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 80,
+        "end": 102,
+        "text": "Suxamethonium chloride",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 104,
+        "end": 107,
+        "text": "Sch",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 312,
+        "end": 315,
+        "text": "Sch",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 265,
+        "end": 272,
+        "text": "tetanic",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 395,
+        "end": 409,
+        "text": "Fasciculations",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 483,
+        "end": 496,
+        "text": "fasciculation",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 523,
+        "end": 536,
+        "text": "fasciculation",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 538,
+        "end": 544,
+        "text": "twitch",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 561,
+        "end": 568,
+        "text": "tetanus",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 627,
+        "end": 641,
+        "text": "Fasciculations",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 673,
+        "end": 686,
+        "text": "fasciculation",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 746,
+        "end": 759,
+        "text": "fasciculation",
+        "labels": [
+          "Disease"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 113,
+    "created_at": "2025-02-27T01:53:05.561019Z",
+    "updated_at": "2025-02-27T01:53:05.561019Z",
+    "lead_time": 84.753
+  },
+  {
+    "text": "Effect of green tea and vitamin E combination in isoproterenol induced myocardial infarction in rats. The present study was aimed to investigate the combined effects of green tea and vitamin E on heart weight, body weight, serum marker enzymes, lipid peroxidation, endogenous antioxidants and membrane bound ATPases in isoproterenol (ISO)-induced myocardial infarction in rats. Adult male albino rats, treated with ISO (200 mg\/kg, s.c.) for 2 days at an interval of 24 h caused a significant (P<0.05) elevation of heart weight, serum marker enzymes, lipid peroxidation and Ca+2 ATPase level whereas there was a significant (P<0.05) decrease in body weight, endogenous antioxidants, Na+\/ K+ ATPase and Mg+2 ATPase levels. Administration of green tea (100 mg\/kg\/day, p.o.) and vitamin E (100 mg\/kg\/day, p.o.) together for 30 consecutive days and challenged with ISO on the day 29th and 30th, showed a significant (P<0.05) decrease in heart weight, serum marker enzymes, lipid peroxidation, Ca+2 ATPase and a significant increase in the body weight, endogenous antioxidants, Na+\/K+ ATPase and Mg+2 ATPase when compared with ISO treated group and green tea or vitamin E alone treated groups. These findings indicate the synergistic protective effect of green tea and vitamin E during ISO induced myocardial infarction in rats.",
+    "id": 514,
+    "label": [
+      {
+        "start": 10,
+        "end": 19,
+        "text": "green tea",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 24,
+        "end": 33,
+        "text": "vitamin E",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 49,
+        "end": 62,
+        "text": "isoproterenol",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 71,
+        "end": 92,
+        "text": "myocardial infarction",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 169,
+        "end": 178,
+        "text": "green tea",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 183,
+        "end": 192,
+        "text": "vitamin E",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 319,
+        "end": 332,
+        "text": "isoproterenol",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 334,
+        "end": 337,
+        "text": "ISO",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 347,
+        "end": 368,
+        "text": "myocardial infarction",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 415,
+        "end": 418,
+        "text": "ISO",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 682,
+        "end": 684,
+        "text": "Na",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 687,
+        "end": 688,
+        "text": "K",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 573,
+        "end": 575,
+        "text": "Ca",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 701,
+        "end": 703,
+        "text": "Mg",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 739,
+        "end": 748,
+        "text": "green tea",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 775,
+        "end": 784,
+        "text": "vitamin E",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 860,
+        "end": 863,
+        "text": "ISO",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 988,
+        "end": 990,
+        "text": "Ca",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1072,
+        "end": 1074,
+        "text": "Na",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1076,
+        "end": 1077,
+        "text": "K",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1090,
+        "end": 1092,
+        "text": "Mg",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1121,
+        "end": 1124,
+        "text": "ISO",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1249,
+        "end": 1258,
+        "text": "green tea",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1263,
+        "end": 1270,
+        "text": "vitamin",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1280,
+        "end": 1283,
+        "text": "ISO",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1292,
+        "end": 1313,
+        "text": "myocardial infarction",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 1143,
+        "end": 1152,
+        "text": "green tea",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1156,
+        "end": 1165,
+        "text": "vitamin E",
+        "labels": [
+          "Chemical"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 114,
+    "created_at": "2025-02-27T01:55:50.538991Z",
+    "updated_at": "2025-02-27T01:55:50.538991Z",
+    "lead_time": 164.72
+  },
+  {
+    "text": "Neuroplasticity of the adult primate auditory cortex following cochlear hearing loss. Tonotopic organization is an essential feature of the primary auditory area (A1) of primate cortex. In A1 of macaque monkeys, low frequencies are represented rostrolaterally and high frequencies are represented caudomedially. The purpose of this study was to determine if changes occur in this tonotopic organization following cochlear hearing loss. Under anesthesia, the superior temporal gyrus of adult macaque monkeys was exposed, and the tonotopic organization of A1 was mapped using conventional microelectrode recording techniques. Following recovery, the monkeys were selectively deafened for high frequencies using kanamycin and furosemide. The actual frequencies deafened were determined by the loss of tone-burst elicited auditory brainstem responses. Three months after deafening, A1 was remapped. Postmortem cytoarchitectural features identifying A1 were correlated with the electrophysiologic data. The results indicate that the deprived area of A1 undergoes extensive reorganization and becomes responsive to intact cochlear frequencies. The region of cortex that represents the low frequencies was not obviously affected by the cochlear hearing loss.",
+    "id": 515,
+    "label": [
+      {
+        "start": 72,
+        "end": 84,
+        "text": "hearing loss",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 422,
+        "end": 434,
+        "text": "hearing loss",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 709,
+        "end": 718,
+        "text": "kanamycin",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 723,
+        "end": 733,
+        "text": "furosemide",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1238,
+        "end": 1250,
+        "text": "hearing loss",
+        "labels": [
+          "Disease"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 115,
+    "created_at": "2025-02-27T01:56:44.511404Z",
+    "updated_at": "2025-02-27T01:56:44.511404Z",
+    "lead_time": 53.711
+  },
+  {
+    "text": "Irreversible damage to the medullary interstitium in experimental analgesic nephropathy in F344 rats. Renal papillary necrosis (RPN) and a decreased urinary concentrating ability developed during continuous long-term treatment with aspirin and paracetamol in female Fischer 344 rats. Renal structure and concentrating ability were examined after a recovery period of up to 18 weeks, when no analgesics were given, to investigate whether the analgesic-induced changes were reversible. There was no evidence of repair to the damaged medullary interstitial matrix, or proliferation of remaining undamaged type 1 medullary interstitial cells after the recovery period following analgesic treatment. The recovery of urinary concentrating ability was related to the length of analgesic treatment and the extent of the resulting inner medullary structural damage. During the early stages of analgesic treatment, the changes in urinary concentrating ability were reversible, but after prolonged analgesic treatment, maximum urinary concentrating ability failed to recover. This study shows that prolonged analgesic treatment in Fischer 344 rats causes progressive and irreversible damage to the interstitial matrix and type 1 interstitial cells leading to RPN. The associated urinary concentrating defect is reversible only during the early stages of structural damage to the inner medulla.",
+    "id": 516,
+    "label": [
+      {
+        "start": 76,
+        "end": 87,
+        "text": "nephropathy",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 102,
+        "end": 126,
+        "text": "Renal papillary necrosis",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 128,
+        "end": 131,
+        "text": "RPN",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 232,
+        "end": 239,
+        "text": "aspirin",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 244,
+        "end": 255,
+        "text": "paracetamol",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1248,
+        "end": 1251,
+        "text": "RPN",
+        "labels": [
+          "Disease"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 116,
+    "created_at": "2025-02-27T01:57:17.595633Z",
+    "updated_at": "2025-02-27T01:57:17.595633Z",
+    "lead_time": 32.831
+  },
+  {
+    "text": "GLEPP1 receptor tyrosine phosphatase (Ptpro) in rat PAN nephrosis. A marker of acute podocyte injury. Glomerular epithelial protein 1 (GLEPP1) is a podocyte receptor membrane protein tyrosine phosphatase located on the apical cell membrane of visceral glomerular epithelial cell and foot processes. This receptor plays a role in regulating the structure and function of podocyte foot process. To better understand the utility of GLEPP1 as a marker of glomerular injury, the amount and distribution of GLEPP1 protein and mRNA were examined by immunohistochemistry, Western blot and RNase protection assay in a model of podocyte injury in the rat. Puromycin aminonucleoside nephrosis was induced by single intraperitoneal injection of puromycin aminonucleoside (PAN, 20 mg\/100g BW). Tissues were analyzed at 0, 5, 7, 11, 21, 45, 80 and 126 days after PAN injection so as to include both the acute phase of proteinuria associated with foot process effacement (days 5-11) and the chronic phase of proteinuria associated with glomerulosclerosis (days 45-126). At day 5, GLEPP1 protein and mRNA were reduced from the normal range (265.2 +\/- 79.6 x 10(6) moles\/glomerulus and 100%) to 15% of normal (41.8 +\/- 4.8 x 10(6) moles\/glomerulus, p < 0.005). This occurred in association with an increase in urinary protein content from 1.8 +\/- 1 to 99.0 +\/- 61 mg\/day (p < 0.001). In contrast, podocalyxin did not change significantly at this time. By day 11, GLEPP1 protein and mRNA had begun to return towards baseline. By day 45-126, at a time when glomerular scarring was present, GLEPP1 was absent from glomerulosclerotic areas although the total glomerular content of GLEPP1 was not different from normal. We conclude that GLEPP1 expression, unlike podocalyxin, reflects podocyte injury induced by PAN. GLEPP1 expression may be a useful marker of podocyte injury.",
+    "id": 517,
+    "label": [
+      {
+        "start": 16,
+        "end": 24,
+        "text": "tyrosine",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 52,
+        "end": 55,
+        "text": "PAN",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 56,
+        "end": 65,
+        "text": "nephrosis",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 183,
+        "end": 191,
+        "text": "tyrosine",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 451,
+        "end": 468,
+        "text": "glomerular injury",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 646,
+        "end": 671,
+        "text": "Puromycin aminonucleoside",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 672,
+        "end": 681,
+        "text": "nephrosis",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 733,
+        "end": 758,
+        "text": "puromycin aminonucleoside",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 760,
+        "end": 763,
+        "text": "PAN",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 849,
+        "end": 852,
+        "text": "PAN",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 993,
+        "end": 1004,
+        "text": "proteinuria",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 1021,
+        "end": 1039,
+        "text": "glomerulosclerosis",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 904,
+        "end": 915,
+        "text": "proteinuria",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 1790,
+        "end": 1793,
+        "text": "PAN",
+        "labels": [
+          "Chemical"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 117,
+    "created_at": "2025-02-27T01:59:37.991797Z",
+    "updated_at": "2025-02-27T01:59:37.991797Z",
+    "lead_time": 140.147
+  },
+  {
+    "text": "Effect of direct intracoronary administration of methylergonovine in patients with and without variant angina. The effects of intracoronary administration of methylergonovine were studied in 21 patients with variant angina and 22 patients with atypical chest pain and in others without angina pectoris (control group). Methylergonovine was administered continuously at a rate of 10 micrograms\/min up to 50 micrograms. In all patients with variant angina, coronary spasm was provoked at a mean dose of 28 +\/- 13 micrograms (mean +\/- SD). In the control group neither ischemic ST change nor localized spasm occurred. The basal tone of the right coronary artery was significantly lower than that of the left coronary artery. The percentage of vasoconstriction of the right coronary artery was significantly higher than that of the left coronary artery. These results suggest that spasm provocation tests, which use an intracoronary injection of a relatively low dose of methylergonovine, have a high sensitivity in variant angina and the vasoreactivity of the right coronary artery may be greater than that of the other coronary arteries.",
+    "id": 518,
+    "label": [
+      {
+        "start": 49,
+        "end": 65,
+        "text": "methylergonovine",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 95,
+        "end": 109,
+        "text": "variant angina",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 158,
+        "end": 174,
+        "text": "methylergonovine",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 208,
+        "end": 222,
+        "text": "variant angina",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 253,
+        "end": 263,
+        "text": "chest pain",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 286,
+        "end": 301,
+        "text": "angina pectoris",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 319,
+        "end": 335,
+        "text": "Methylergonovine",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 439,
+        "end": 453,
+        "text": "variant angina",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 455,
+        "end": 469,
+        "text": "coronary spasm",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 599,
+        "end": 604,
+        "text": "spasm",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 877,
+        "end": 882,
+        "text": "spasm",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 967,
+        "end": 983,
+        "text": "methylergonovine",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 1012,
+        "end": 1026,
+        "text": "variant angina",
+        "labels": [
+          "Disease"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 118,
+    "created_at": "2025-02-27T02:01:30.772744Z",
+    "updated_at": "2025-02-27T02:01:30.773743Z",
+    "lead_time": 112.504
+  },
+  {
+    "text": "Treatment of psoriasis with azathioprine. Azathioprine treatment benefited 19 (66%) out of 29 patients suffering from severe psoriasis. Haematological complications were not troublesome and results of biochemical liver function tests remained normal. Minimal cholestasis was seen in two cases and portal fibrosis of a reversible degree in eight. Liver biopsies should be undertaken at regular intervals if azathioprine therapy is continued so that structural liver damage may be detected at an early and reversible stage.",
+    "id": 519,
+    "label": [
+      {
+        "start": 13,
+        "end": 22,
+        "text": "psoriasis",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 28,
+        "end": 40,
+        "text": "azathioprine",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 42,
+        "end": 54,
+        "text": "Azathioprine",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 134,
+        "end": 135,
+        "text": ".",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 125,
+        "end": 134,
+        "text": "psoriasis",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 259,
+        "end": 270,
+        "text": "cholestasis",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 304,
+        "end": 312,
+        "text": "fibrosis",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 406,
+        "end": 418,
+        "text": "azathioprine",
+        "labels": [
+          "Chemical"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 119,
+    "created_at": "2025-02-27T02:04:19.743211Z",
+    "updated_at": "2025-02-27T02:04:19.743211Z",
+    "lead_time": 168.725
+  },
+  {
+    "text": "Cocaine-induced mood disorder: prevalence rates and psychiatric symptoms in an outpatient cocaine-dependent sample. This paper attempts to examine and compare prevalence rates and symptom patterns of DSM substance-induced and other mood disorders. 243 cocaine-dependent outpatients with cocaine-induced mood disorder (CIMD), other mood disorders, or no mood disorder were compared on measures of psychiatric symptoms. The prevalence rate for CIMD was 12% at baseline. Introduction of the DSM-IV diagnosis of CIMD did not substantially affect rates of the other depressive disorders. Patients with CIMD had symptom severity levels between those of patients with and without a mood disorder. These findings suggest some validity for the new DSM-IV diagnosis of CIMD, but also suggest that it requires further specification and replication.",
+    "id": 520,
+    "label": [
+      {
+        "start": 0,
+        "end": 7,
+        "text": "Cocaine",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 16,
+        "end": 29,
+        "text": "mood disorder",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 52,
+        "end": 63,
+        "text": "psychiatric",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 90,
+        "end": 97,
+        "text": "cocaine",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 232,
+        "end": 246,
+        "text": "mood disorders",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 252,
+        "end": 259,
+        "text": "cocaine",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 287,
+        "end": 294,
+        "text": "cocaine",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 318,
+        "end": 322,
+        "text": "CIMD",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 303,
+        "end": 316,
+        "text": "mood disorder",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 331,
+        "end": 345,
+        "text": "mood disorders",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 353,
+        "end": 366,
+        "text": "mood disorder",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 396,
+        "end": 407,
+        "text": "psychiatric",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 442,
+        "end": 446,
+        "text": "CIMD",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 508,
+        "end": 512,
+        "text": "CIMD",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 597,
+        "end": 601,
+        "text": "CIMD",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 561,
+        "end": 581,
+        "text": "depressive disorders",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 759,
+        "end": 763,
+        "text": "CIMD",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 675,
+        "end": 688,
+        "text": "mood disorder",
+        "labels": [
+          "Disease"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 120,
+    "created_at": "2025-02-27T02:07:26.504947Z",
+    "updated_at": "2025-02-27T02:07:26.504947Z",
+    "lead_time": 160.09
+  },
+  {
+    "text": "Antithymocyte globulin in the treatment of D-penicillamine-induced aplastic anemia. A patient who received antithymocyte globulin therapy for aplastic anemia due to D-penicillamine therapy is described. Bone marrow recovery and peripheral blood recovery were complete 1 month and 3 months, respectively, after treatment, and blood transfusion or other therapies were not necessary in a follow-up period of more than 2 years. Use of antithymocyte globulin may be the optimal treatment of D-penicillamine-induced aplastic anemia.",
+    "id": 521,
+    "label": [
+      {
+        "start": 0,
+        "end": 22,
+        "text": "Antithymocyte globulin",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 40,
+        "end": 58,
+        "text": "of D-penicillamine",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 67,
+        "end": 82,
+        "text": "aplastic anemia",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 107,
+        "end": 129,
+        "text": "antithymocyte globulin",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 142,
+        "end": 157,
+        "text": "aplastic anemia",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 165,
+        "end": 180,
+        "text": "D-penicillamine",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 432,
+        "end": 454,
+        "text": "antithymocyte globulin",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 487,
+        "end": 502,
+        "text": "D-penicillamine",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 511,
+        "end": 526,
+        "text": "aplastic anemia",
+        "labels": [
+          "Disease"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 121,
+    "created_at": "2025-02-27T02:08:26.944817Z",
+    "updated_at": "2025-02-27T02:08:26.944817Z",
+    "lead_time": 60.184
+  },
+  {
+    "text": "Sequential observations of exencephaly and subsequent morphological changes by mouse exo utero development system: analysis of the mechanism of transformation from exencephaly to anencephaly. Anencephaly has been suggested to develop from exencephaly; however, there is little direct experimental evidence to support this, and the mechanism of transformation remains unclear. We examined this theory using the exo utero development system that allows direct and sequential observations of mid- to late-gestation mouse embryos. We observed the exencephaly induced by 5-azacytidine at embryonic day 13.5 (E13.5), let the embryos develop exo utero until E18.5, and re-observed the same embryos at E18.5. We confirmed several cases of transformation from exencephaly to anencephaly. However, in many cases, the exencephalic brain tissue was preserved with more or less reduction during this period. To analyze the transformation patterns, we classified the exencephaly by size and shape of the exencephalic tissue into several types at E13.5 and E18.5. It was found that the transformation of exencephalic tissue was not simply size-dependent, and all cases of anencephaly at E18.5 resulted from embryos with a large amount of exencephalic tissue at E13.5. Microscopic observation showed the configuration of exencephaly at E13.5, frequent hemorrhaging and detachment of the neural plate from surface ectoderm in the exencephalic head at E15.5, and multiple modes of reduction in the exencephalic tissue at E18.5. From observations of the vasculature, altered distribution patterns of vessels were identified in the exencephalic head. These findings suggest that overgrowth of the exencephalic neural tissue causes the altered distribution patterns of vessels, subsequent peripheral circulatory failure and\/or hemorrhaging in various parts of the exencephalic head, leading to the multiple modes of tissue reduction during transformation from exencephaly to anencephaly.",
+    "id": 522,
+    "label": [
+      {
+        "start": 27,
+        "end": 38,
+        "text": "exencephaly",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 164,
+        "end": 175,
+        "text": "exencephaly",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 179,
+        "end": 190,
+        "text": "anencephaly",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 192,
+        "end": 203,
+        "text": "Anencephaly",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 543,
+        "end": 554,
+        "text": "exencephaly",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 239,
+        "end": 250,
+        "text": "exencephaly",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 566,
+        "end": 579,
+        "text": "5-azacytidine",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 751,
+        "end": 762,
+        "text": "exencephaly",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 766,
+        "end": 777,
+        "text": "anencephaly",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 807,
+        "end": 819,
+        "text": "exencephalic",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 953,
+        "end": 964,
+        "text": "exencephaly",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 990,
+        "end": 1002,
+        "text": "exencephalic",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 1089,
+        "end": 1101,
+        "text": "exencephalic",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 1157,
+        "end": 1168,
+        "text": "anencephaly",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 1223,
+        "end": 1235,
+        "text": "exencephalic",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 1305,
+        "end": 1319,
+        "text": "exencephaly at",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 1336,
+        "end": 1348,
+        "text": "hemorrhaging",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 1413,
+        "end": 1425,
+        "text": "exencephalic",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 1480,
+        "end": 1492,
+        "text": "exencephalic",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 1612,
+        "end": 1624,
+        "text": "exencephalic",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 1677,
+        "end": 1689,
+        "text": "exencephalic",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 1779,
+        "end": 1798,
+        "text": "circulatory failure",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 1806,
+        "end": 1818,
+        "text": "hemorrhaging",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 1843,
+        "end": 1855,
+        "text": "exencephalic",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 1939,
+        "end": 1950,
+        "text": "exencephaly",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 1954,
+        "end": 1965,
+        "text": "anencephaly",
+        "labels": [
+          "Disease"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 122,
+    "created_at": "2025-02-27T02:12:09.034532Z",
+    "updated_at": "2025-02-27T02:12:09.034532Z",
+    "lead_time": 221.832
+  },
+  {
+    "text": "Angiosarcoma of the liver associated with diethylstilbestrol. Angiosarcoma of the liver occurred in a 76-year-old man who had been treated for a well-differentiated adenocarcinoma of the liver with diethylstilbestrol for 13 years. Angiosarcoma was also present within pulmonary and renal arteries. The possibility that the intraarterial lesions might represent independent primary tumors is considered.",
+    "id": 523,
+    "label": [
+      {
+        "start": 0,
+        "end": 25,
+        "text": "Angiosarcoma of the liver",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 42,
+        "end": 60,
+        "text": "diethylstilbestrol",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 62,
+        "end": 87,
+        "text": "Angiosarcoma of the liver",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 165,
+        "end": 192,
+        "text": "adenocarcinoma of the liver",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 198,
+        "end": 216,
+        "text": "diethylstilbestrol",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 231,
+        "end": 243,
+        "text": "Angiosarcoma",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 323,
+        "end": 344,
+        "text": "intraarterial lesions",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 381,
+        "end": 387,
+        "text": "tumors",
+        "labels": [
+          "Disease"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 123,
+    "created_at": "2025-02-27T02:12:53.420484Z",
+    "updated_at": "2025-02-27T02:12:53.420484Z",
+    "lead_time": 44.129
+  },
+  {
+    "text": "Granulomatous hepatitis due to combination of amoxicillin and clavulanic acid. We report the case of a patient with amoxicillin-clavulanic acid-induced hepatitis with histologic multiple granulomas. This type of lesion broadens the spectrum of liver injury due to this drug combination, mainly represented by a benign cholestatic syndrome. The association of granulomas and eosinophilia favor an immunoallergic mechanism. As penicillin derivatives and amoxicillin alone are known to induce such types of lesions, the amoxicillin component, with or without a potentiating effect of clavulanic acid, might have a major role.",
+    "id": 524,
+    "label": [
+      {
+        "start": 0,
+        "end": 23,
+        "text": "Granulomatous hepatitis",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 31,
+        "end": 77,
+        "text": "combination of amoxicillin and clavulanic acid",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 116,
+        "end": 143,
+        "text": "amoxicillin-clavulanic acid",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 152,
+        "end": 161,
+        "text": "hepatitis",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 187,
+        "end": 197,
+        "text": "granulomas",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 244,
+        "end": 256,
+        "text": "liver injury",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 318,
+        "end": 338,
+        "text": "cholestatic syndrome",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 359,
+        "end": 369,
+        "text": "granulomas",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 374,
+        "end": 386,
+        "text": "eosinophilia",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 425,
+        "end": 435,
+        "text": "penicillin",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 452,
+        "end": 463,
+        "text": "amoxicillin",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 517,
+        "end": 528,
+        "text": "amoxicillin",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 581,
+        "end": 596,
+        "text": "clavulanic acid",
+        "labels": [
+          "Chemical"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 124,
+    "created_at": "2025-02-27T02:14:28.921413Z",
+    "updated_at": "2025-02-27T02:14:28.921413Z",
+    "lead_time": 95.257
+  },
+  {
+    "text": "Ranitidine-induced acute interstitial nephritis in a cadaveric renal allograft. Ranitidine frequently is used for preventing peptic ulceration after renal transplantation. This drug occasionally has been associated with acute interstitial nephritis in native kidneys. There are no similar reports with renal transplantation. We report a case of ranitidine-induced acute interstitial nephritis in a recipient of a cadaveric renal allograft presenting with acute allograft dysfunction within 48 hours of exposure to the drug. The biopsy specimen showed pathognomonic features, including eosinophilic infiltration of the interstitial compartment. Allograft function improved rapidly and returned to baseline after stopping the drug.",
+    "id": 525,
+    "label": [
+      {
+        "start": 0,
+        "end": 10,
+        "text": "Ranitidine",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 25,
+        "end": 47,
+        "text": "interstitial nephritis",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 80,
+        "end": 90,
+        "text": "Ranitidine",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 226,
+        "end": 248,
+        "text": "interstitial nephritis",
+        "labels": [
+          "Disease"
+        ]
+      },
+      {
+        "start": 345,
+        "end": 355,
+        "text": "ranitidine",
+        "labels": [
+          "Chemical"
+        ]
+      },
+      {
+        "start": 370,
+        "end": 392,
+        "text": "interstitial nephritis",
+        "labels": [
+          "Disease"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 125,
+    "created_at": "2025-02-27T02:15:24.535346Z",
+    "updated_at": "2025-02-27T02:15:24.535346Z",
+    "lead_time": 55.348
+  }
+]

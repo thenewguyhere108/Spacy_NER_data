@@ -1,0 +1,3157 @@
+[
+  {
+    "text": "Serotonergic antidepressants and urinary incontinence. Many new serotonergic antidepressants have been introduced over the past decade. Although urinary incontinence is listed as one side effect of these drugs in their package inserts there is only one report in the literature. This concerns 2 male patients who experienced incontinence while taking venlafaxine. In the present paper the authors describe 2 female patients who developed incontinence secondary to the selective serotonin reuptake inhibitors paroxetine and sertraline, as well as a third who developed this side effect on venlafaxine. In 2 of the 3 cases the patients were also taking lithium carbonate and beta-blockers, both of which could have contributed to the incontinence. Animal studies suggest that incontinence secondary to serotonergic antidepressants could be mediated by the 5HT4 receptors found on the bladder. Further research is needed to delineate the frequency of this troubling side effect and how best to treat it.",
+    "id": 134,
+    "label": [
+      {
+        "start": 0,
+        "end": 28,
+        "text": "Serotonergic antidepressants",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 33,
+        "end": 53,
+        "text": "urinary incontinence",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 64,
+        "end": 92,
+        "text": "serotonergic antidepressants",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 145,
+        "end": 165,
+        "text": "urinary incontinence",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 325,
+        "end": 337,
+        "text": "incontinence",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 351,
+        "end": 362,
+        "text": "venlafaxine",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 438,
+        "end": 450,
+        "text": "incontinence",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 478,
+        "end": 487,
+        "text": "serotonin",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 508,
+        "end": 518,
+        "text": "paroxetine",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 523,
+        "end": 533,
+        "text": "sertraline",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 588,
+        "end": 599,
+        "text": "venlafaxine",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 651,
+        "end": 668,
+        "text": "lithium carbonate",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 732,
+        "end": 744,
+        "text": "incontinence",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 774,
+        "end": 786,
+        "text": "incontinence",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 800,
+        "end": 828,
+        "text": "serotonergic antidepressants",
+        "labels": ["CHEMICAL"]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 52,
+    "created_at": "2025-02-24T14:59:26.183851Z",
+    "updated_at": "2025-02-24T14:59:26.183851Z",
+    "lead_time": 5902.688
+  },
+  {
+    "text": "The risk of venous thromboembolism in women prescribed cyproterone acetate in combination with ethinyl estradiol: a nested cohort analysis and case-control study. BACKGROUND: Cyproterone acetate combined with ethinyl estradiol (CPA/EE) is licensed in the UK for the treatment of women with acne and hirsutism and is also a treatment option for polycystic ovary syndrome (PCOS). Previous studies have demonstrated an increased risk of venous thromboembolism (VTE) associated with CPA/EE compared with conventional combined oral contraceptives (COCs). We believe the results of those studies may have been affected by residual confounding. METHODS: Using the General Practice Research Database we conducted a cohort analysis and case-control study nested within a population of women aged between 15 and 39 years with acne, hirsutism or PCOS to estimate the risk of VTE associated with CPA/EE. RESULTS: The age-adjusted incidence rate ratio for CPA/EE versus conventional COCs was 2.20 [95% confidence interval (CI) 1.35-3.58]. Using as the reference group women who were not using oral contraception, had no recent pregnancy or menopausal symptoms, the case-control analysis gave an adjusted odds ratio (OR(adj)) of 7.44 (95% CI 3.67-15.08) for CPA/EE use compared with an OR(adj) of 2.58 (95% CI 1.60-4.18) for use of conventional COCs. CONCLUSIONS: We have demonstrated an increased risk of VTE associated with the use of CPA/EE in women with acne, hirsutism or PCOS although residual confounding by indication cannot be excluded.",
+    "id": 144,
+    "label": [
+      {
+        "start": 12,
+        "end": 34,
+        "text": "venous thromboembolism",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 55,
+        "end": 74,
+        "text": "cyproterone acetate",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 95,
+        "end": 112,
+        "text": "ethinyl estradiol",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 175,
+        "end": 194,
+        "text": "Cyproterone acetate",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 209,
+        "end": 226,
+        "text": "ethinyl estradiol",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 228,
+        "end": 231,
+        "text": "CPA",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 232,
+        "end": 234,
+        "text": "EE",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 290,
+        "end": 294,
+        "text": "acne",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 299,
+        "end": 308,
+        "text": "hirsutism",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 344,
+        "end": 369,
+        "text": "polycystic ovary syndrome",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 371,
+        "end": 375,
+        "text": "PCOS",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 434,
+        "end": 456,
+        "text": "venous thromboembolism",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 458,
+        "end": 461,
+        "text": "VTE",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 479,
+        "end": 482,
+        "text": "CPA",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 483,
+        "end": 485,
+        "text": "EE",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 816,
+        "end": 820,
+        "text": "acne",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 822,
+        "end": 831,
+        "text": "hirsutism",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 835,
+        "end": 839,
+        "text": "PCOS",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 864,
+        "end": 867,
+        "text": "VTE",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 884,
+        "end": 887,
+        "text": "CPA",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 888,
+        "end": 890,
+        "text": "EE",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 943,
+        "end": 946,
+        "text": "CPA",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 947,
+        "end": 949,
+        "text": "EE",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 1423,
+        "end": 1426,
+        "text": "CPA",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 1427,
+        "end": 1429,
+        "text": "EE",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 1444,
+        "end": 1448,
+        "text": "acne",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 1450,
+        "end": 1459,
+        "text": "hirsutism",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 1463,
+        "end": 1467,
+        "text": "PCOS",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 1392,
+        "end": 1395,
+        "text": "VTE",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 1248,
+        "end": 1250,
+        "text": "EE",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 1244,
+        "end": 1247,
+        "text": "CPA",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 522,
+        "end": 541,
+        "text": "oral contraceptives",
+        "labels": ["CHEMICAL"]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 83,
+    "created_at": "2025-02-24T18:48:38.683575Z",
+    "updated_at": "2025-02-24T18:48:38.683575Z",
+    "lead_time": 302.197
+  },
+  {
+    "text": "Pseudoacromegaly induced by the long-term use of minoxidil. Acromegaly is an endocrine disorder caused by chronic excessive growth hormone secretion from the anterior pituitary gland. Significant disfiguring changes occur as a result of bone, cartilage, and soft tissue hypertrophy, including the thickening of the skin, coarsening of facial features, and cutis verticis gyrata. Pseudoacromegaly, on the other hand, is the presence of similar acromegaloid features in the absence of elevated growth hormone or insulin-like growth factor levels. We present a patient with pseudoacromegaly that resulted from the long-term use of minoxidil at an unusually high dose. This is the first case report of pseudoacromegaly as a side effect of minoxidil use.",
+    "id": 145,
+    "label": [
+      {
+        "start": 0,
+        "end": 16,
+        "text": "Pseudoacromegaly",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 49,
+        "end": 58,
+        "text": "minoxidil",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 60,
+        "end": 70,
+        "text": "Acromegaly",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 77,
+        "end": 95,
+        "text": "endocrine disorder",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 270,
+        "end": 281,
+        "text": "hypertrophy",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 356,
+        "end": 377,
+        "text": "cutis verticis gyrata",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 379,
+        "end": 395,
+        "text": "Pseudoacromegaly",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 571,
+        "end": 587,
+        "text": "pseudoacromegaly",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 628,
+        "end": 637,
+        "text": "minoxidil",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 735,
+        "end": 744,
+        "text": "minoxidil",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 698,
+        "end": 714,
+        "text": "pseudoacromegaly",
+        "labels": ["DISEASE"]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 37,
+    "created_at": "2025-02-24T12:45:06.407694Z",
+    "updated_at": "2025-02-24T12:45:06.407694Z",
+    "lead_time": 71.572
+  },
+  {
+    "text": "Reversible dilated cardiomyopathy related to amphotericin B therapy. We describe a patient who developed dilated cardiomyopathy and clinical congestive heart failure after 2 months of therapy with amphotericin B (AmB) for disseminated coccidioidomycosis. His echocardiographic abnormalities and heart failure resolved after posaconazole was substituted for AmB. It is important to recognize the rare and potentially reversible toxicity of AmB.",
+    "id": 147,
+    "label": [
+      {
+        "start": 11,
+        "end": 33,
+        "text": "dilated cardiomyopathy",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 45,
+        "end": 59,
+        "text": "amphotericin B",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 105,
+        "end": 127,
+        "text": "dilated cardiomyopathy",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 152,
+        "end": 165,
+        "text": "heart failure",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 197,
+        "end": 211,
+        "text": "amphotericin B",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 213,
+        "end": 216,
+        "text": "AmB",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 324,
+        "end": 336,
+        "text": "posaconazole",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 357,
+        "end": 360,
+        "text": "AmB",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 439,
+        "end": 442,
+        "text": "AmB",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 427,
+        "end": 435,
+        "text": "toxicity",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 295,
+        "end": 308,
+        "text": "heart failure",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 235,
+        "end": 253,
+        "text": "coccidioidomycosis",
+        "labels": ["DISEASE"]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 51,
+    "created_at": "2025-02-24T13:21:02.847022Z",
+    "updated_at": "2025-02-24T13:21:02.847022Z",
+    "lead_time": 81.519
+  },
+  {
+    "text": "The effects of short-term raloxifene therapy on fibrinolysis markers: TAFI, tPA, and PAI-1. BACKGROUND: Markers of fibrinolysis, thrombin-activatable fibrinolysis inhibitor (TAFI), tissue-type plasminogen activator (tPA), and plasminogen activator inhibitor-1 (PAI-1) levels were studied for the evaluation of short-term effects of raloxifene administration in postmenopausal women. METHODS: Thirty-nine postmenopausal women with osteopenia or osteoporosis were included in this prospective, controlled clinical study. Twenty-five women were given raloxifene hydrochloride (60 mg/day) plus calcium (500 mg/day). Age-matched controls (n = 14) were given only calcium. Plasma TAFI, tPA, and PAI-1 antigen levels were measured at baseline and after 3 months of treatment by commercially available ELISA kits. Variations of individuals were assessed by Wilcoxon's test. Relationship between those markers and demographic characteristics were investigated. RESULTS: Three months of raloxifene treatment was associated with a significant decrease in the plasma TAFI antigen concentrations (16% change, P < 0.01), and a significant increase in tPA antigen concentrations (25% change, P < 0.05). A significant correlation was found between baseline TAFI antigen concentrations and the duration of amenorrhea (P < 0.05; r = 0.33). CONCLUSION: We suggest that the increased risk of venous thromboembolism due to raloxifene treatment may be related to increased tPA levels, but not TAFI levels.",
+    "id": 155,
+    "label": [
+      {
+        "start": 977,
+        "end": 987,
+        "text": "raloxifene",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 26,
+        "end": 36,
+        "text": "raloxifene",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 332,
+        "end": 342,
+        "text": "raloxifene",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 430,
+        "end": 440,
+        "text": "osteopenia",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 444,
+        "end": 456,
+        "text": "osteoporosis",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 548,
+        "end": 572,
+        "text": "raloxifene hydrochloride",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 590,
+        "end": 597,
+        "text": "calcium",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 658,
+        "end": 665,
+        "text": "calcium",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 1289,
+        "end": 1299,
+        "text": "amenorrhea",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 1372,
+        "end": 1394,
+        "text": "venous thromboembolism",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 1402,
+        "end": 1412,
+        "text": "raloxifene",
+        "labels": ["CHEMICAL"]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 77,
+    "created_at": "2025-02-24T18:28:01.768675Z",
+    "updated_at": "2025-02-24T18:28:01.768675Z",
+    "lead_time": 83.567
+  },
+  {
+    "text": "Ketoconazole induced torsades de pointes without concomitant use of QT interval-prolonging drug. Ketoconazole is not known to be proarrhythmic without concomitant use of QT interval-prolonging drugs. We report a woman with coronary artery disease who developed a markedly prolonged QT interval and torsades de pointes (TdP) after taking ketoconazole for treatment of fungal infection. Her QT interval returned to normal upon withdrawal of ketoconazole. Genetic study did not find any mutation in her genes that encode cardiac IKr channel proteins. We postulate that by virtue of its direct blocking action on IKr, ketoconazole alone may prolong QT interval and induce TdP. This calls for attention when ketoconazole is administered to patients with risk factors for acquired long QT syndrome.",
+    "id": 156,
+    "label": [
+      {
+        "start": 0,
+        "end": 12,
+        "text": "Ketoconazole",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 21,
+        "end": 40,
+        "text": "torsades de pointes",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 97,
+        "end": 109,
+        "text": "Ketoconazole",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 223,
+        "end": 246,
+        "text": "coronary artery disease",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 298,
+        "end": 317,
+        "text": "torsades de pointes",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 319,
+        "end": 322,
+        "text": "TdP",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 337,
+        "end": 349,
+        "text": "ketoconazole",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 367,
+        "end": 383,
+        "text": "fungal infection",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 439,
+        "end": 451,
+        "text": "ketoconazole",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 614,
+        "end": 626,
+        "text": "ketoconazole",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 668,
+        "end": 671,
+        "text": "TdP",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 703,
+        "end": 715,
+        "text": "ketoconazole",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 272,
+        "end": 293,
+        "text": "prolonged QT interval",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 775,
+        "end": 791,
+        "text": "long QT syndrome",
+        "labels": ["DISEASE"]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 35,
+    "created_at": "2025-02-24T12:39:33.807892Z",
+    "updated_at": "2025-02-24T12:39:33.807892Z",
+    "lead_time": 120.492
+  },
+  {
+    "text": "High-dose testosterone is associated with atherosclerosis in postmenopausal women. OBJECTIVES: To study the long-term effects of androgen treatment on atherosclerosis in postmenopausal women. METHODS: In a population-based study in 513 naturally postmenopausal women aged 54-67 years, we studied the association between self-reported intramuscularly administered high-dose estrogen-testosterone therapy (estradiol- and testosterone esters) and aortic atherosclerosis. Aortic atherosclerosis was diagnosed by radiographic detection of calcified deposits in the abdominal aorta, which have been shown to reflect intima atherosclerosis. Hormone therapy users were compared with never users. RESULTS: Intramuscular hormone therapy use for 1 year or longer was reported by 25 women. In almost half of these women severe atherosclerosis of the aorta was present (n=11), while in women without hormone use severe atherosclerosis of the aorta was present in less than 20% (OR 3.1; 95% CI, 1.1-8.5, adjusted for age, years since menopause, smoking, and body mass index). The association remained after additional adjustment for diabetes, cholesterol level, systolic blood pressure, or alcohol use. No association was found for hormone use less than 1 year. CONCLUSION: Our results suggest that high-dose testosterone therapy may adversely affect atherosclerosis in postmenopausal women and indicate that androgen replacement in these women may not be harmless.",
+    "id": 159,
+    "label": [
+      {
+        "start": 10,
+        "end": 22,
+        "text": "testosterone",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 42,
+        "end": 57,
+        "text": "atherosclerosis",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 151,
+        "end": 166,
+        "text": "atherosclerosis",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 373,
+        "end": 381,
+        "text": "estrogen",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 382,
+        "end": 394,
+        "text": "testosterone",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 404,
+        "end": 438,
+        "text": "estradiol- and testosterone esters",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 451,
+        "end": 466,
+        "text": "atherosclerosis",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 475,
+        "end": 490,
+        "text": "atherosclerosis",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 617,
+        "end": 632,
+        "text": "atherosclerosis",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 815,
+        "end": 830,
+        "text": "atherosclerosis",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 906,
+        "end": 921,
+        "text": "atherosclerosis",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 1119,
+        "end": 1127,
+        "text": "diabetes",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 1129,
+        "end": 1140,
+        "text": "cholesterol",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 1176,
+        "end": 1183,
+        "text": "alcohol",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 1295,
+        "end": 1307,
+        "text": "testosterone",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 1337,
+        "end": 1352,
+        "text": "atherosclerosis",
+        "labels": ["DISEASE"]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 43,
+    "created_at": "2025-02-24T13:03:59.109952Z",
+    "updated_at": "2025-02-24T13:03:59.109952Z",
+    "lead_time": 100.931
+  },
+  {
+    "text": "Progressive myopathy with up-regulation of MHC-I associated with statin therapy. Statins can cause a necrotizing myopathy and hyperCKaemia which is reversible on cessation of the drug. What is less well known is a phenomenon whereby statins may induce a myopathy, which persists or may progress after stopping the drug. We investigated the muscle pathology in 8 such cases. All had myofibre necrosis but only 3 had an inflammatory infiltrate. In all cases there was diffuse or multifocal up-regulation of MHC-I expression even in non-necrotic fibres. Progressive improvement occurred in 7 cases after commencement of prednisolone and methotrexate, and in one case spontaneously. These observations suggest that statins may initiate an immune-mediated myopathy that persists after withdrawal of the drug and responds to immunosuppressive therapy. The mechanism of this myopathy is uncertain but may involve the induction by statins of an endoplasmic reticulum stress response with associated up-regulation of MHC-I expression and antigen presentation by muscle fibres.",
+    "id": 161,
+    "label": [
+      {
+        "start": 12,
+        "end": 20,
+        "text": "myopathy",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 65,
+        "end": 71,
+        "text": "statin",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 81,
+        "end": 88,
+        "text": "Statins",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 113,
+        "end": 121,
+        "text": "myopathy",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 126,
+        "end": 138,
+        "text": "hyperCKaemia",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 233,
+        "end": 240,
+        "text": "statins",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 254,
+        "end": 262,
+        "text": "myopathy",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 391,
+        "end": 399,
+        "text": "necrosis",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 534,
+        "end": 542,
+        "text": "necrotic",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 617,
+        "end": 629,
+        "text": "prednisolone",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 634,
+        "end": 646,
+        "text": "methotrexate",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 711,
+        "end": 718,
+        "text": "statins",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 751,
+        "end": 759,
+        "text": "myopathy",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 868,
+        "end": 876,
+        "text": "myopathy",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 923,
+        "end": 930,
+        "text": "statins",
+        "labels": ["CHEMICAL"]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 71,
+    "created_at": "2025-02-24T16:04:44.988088Z",
+    "updated_at": "2025-02-24T16:04:44.988088Z",
+    "lead_time": 103.539
+  },
+  {
+    "text": "Clonidine for attention-deficit/hyperactivity disorder: II. ECG changes and adverse events analysis. OBJECTIVE: To examine the safety and tolerability of clonidine used alone or with methylphenidate in children with attention-deficit/hyperactivity disorder (ADHD). METHOD: In a 16-week multicenter, double-blind trial, 122 children with ADHD were randomly assigned to clonidine (n = 31), methylphenidate (n = 29), clonidine and methylphenidate (n = 32), or placebo (n = 30). Doses were flexibly titrated up to 0.6 mg/day for clonidine and 60 mg/day for methylphenidate (both with divided dosing). Groups were compared regarding adverse events and changes from baseline to week 16 in electrocardiograms and vital signs. RESULTS: There were more incidents of bradycardia in subjects treated with clonidine compared with those not treated with clonidine (17.5% versus 3.4%; p =.02), but no other significant group differences regarding electrocardiogram and other cardiovascular outcomes. There were no suggestions of interactions between clonidine and methylphenidate regarding cardiovascular outcomes. Moderate or severe adverse events were more common in subjects on clonidine (79.4% versus 49.2%; p =.0006) but not associated with higher rates of early study withdrawal. Drowsiness was common on clonidine, but generally resolved by 6 to 8 weeks. CONCLUSIONS: Clonidine, used alone or with methylphenidate, appears safe and well tolerated in childhood ADHD. Physicians prescribing clonidine should monitor for bradycardia and advise patients about the high likelihood of initial drowsiness.",
+    "id": 168,
+    "label": [
+      {
+        "start": 0,
+        "end": 9,
+        "text": "Clonidine",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 14,
+        "end": 54,
+        "text": "attention-deficit/hyperactivity disorder",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 154,
+        "end": 163,
+        "text": "clonidine",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 183,
+        "end": 198,
+        "text": "methylphenidate",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 216,
+        "end": 256,
+        "text": "attention-deficit/hyperactivity disorder",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 258,
+        "end": 262,
+        "text": "ADHD",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 337,
+        "end": 341,
+        "text": "ADHD",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 368,
+        "end": 377,
+        "text": "clonidine",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 388,
+        "end": 403,
+        "text": "methylphenidate",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 414,
+        "end": 423,
+        "text": "clonidine",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 428,
+        "end": 443,
+        "text": "methylphenidate",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 553,
+        "end": 568,
+        "text": "methylphenidate",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 525,
+        "end": 534,
+        "text": "clonidine",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 757,
+        "end": 768,
+        "text": "bradycardia",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 794,
+        "end": 803,
+        "text": "clonidine",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 841,
+        "end": 850,
+        "text": "clonidine",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 1036,
+        "end": 1045,
+        "text": "clonidine",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 1050,
+        "end": 1065,
+        "text": "methylphenidate",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 1167,
+        "end": 1176,
+        "text": "clonidine",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 1272,
+        "end": 1282,
+        "text": "Drowsiness",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 1297,
+        "end": 1306,
+        "text": "clonidine",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 1361,
+        "end": 1370,
+        "text": "Clonidine",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 1391,
+        "end": 1406,
+        "text": "methylphenidate",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 1453,
+        "end": 1457,
+        "text": "ADHD",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 1482,
+        "end": 1491,
+        "text": "clonidine",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 1511,
+        "end": 1522,
+        "text": "bradycardia",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 1580,
+        "end": 1590,
+        "text": "drowsiness",
+        "labels": ["DISEASE"]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 93,
+    "created_at": "2025-02-24T19:23:25.229572Z",
+    "updated_at": "2025-02-24T19:23:25.229572Z",
+    "lead_time": 153.276
+  },
+  {
+    "text": "Changes in depressive status associated with topical beta-blockers. Depression and sexual dysfunction have been related to side effects of topical beta-blockers. We performed a preliminary study in order to determine any difference between a non selective beta-blocker (timolol) and a selective beta-blocker (betaxolol) regarding CNS side effects. Eight glaucomatous patients chronically treated with timolol 0.5%/12h, suffering from depression diagnosed through DMS-III-R criteria, were included in the study. During the six-month follow up, depression was quantified through the Beck and Zung-Conde scales every two months. In a double blind cross-over study with control group, the patients under timolol treatment presented higher depression values measured through the Beck and the Zung-Conde scales (p < 0.001 vs control). These results suggest that betaxolol could be less of a depression-inducer than timolol in predisposed patients.",
+    "id": 178,
+    "label": [
+      {
+        "start": 11,
+        "end": 21,
+        "text": "depressive",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 68,
+        "end": 78,
+        "text": "Depression",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 83,
+        "end": 101,
+        "text": "sexual dysfunction",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 270,
+        "end": 277,
+        "text": "timolol",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 309,
+        "end": 318,
+        "text": "betaxolol",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 354,
+        "end": 366,
+        "text": "glaucomatous",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 401,
+        "end": 408,
+        "text": "timolol",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 434,
+        "end": 444,
+        "text": "depression",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 700,
+        "end": 707,
+        "text": "timolol",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 735,
+        "end": 745,
+        "text": "depression",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 856,
+        "end": 865,
+        "text": "betaxolol",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 909,
+        "end": 916,
+        "text": "timolol",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 885,
+        "end": 895,
+        "text": "depression",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 543,
+        "end": 553,
+        "text": "depression",
+        "labels": ["DISEASE"]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 79,
+    "created_at": "2025-02-24T18:33:43.615303Z",
+    "updated_at": "2025-02-24T18:33:43.615303Z",
+    "lead_time": 84.698
+  },
+  {
+    "text": "Evidence for an involvement of D1 and D2 dopamine receptors in mediating nicotine-induced hyperactivity in rats. Previous studies have suggested that repeated exposure of rats to the drug or to the experimental environment is necessary to observe nicotine-induced locomotor stimulation. In the present study the role of habituation to the experimental environment on the stimulant effect of nicotine in rats was examined. In addition, the role of dopamine receptors in mediating nicotine-induced locomotor stimulation was investigated by examining the effects of selective D1 and D2 dopamine receptor antagonists on activity induced by nicotine. Locomotor activity was assessed in male Sprague-Dawley rats tested in photocell cages. Nicotine (1.0 mg/kg) caused a significant increase in locomotor activity in rats that were habituated to the test environment, but had only a weak and delayed stimulant action in rats that were unfamiliar with the test environment. The stimulant action of nicotine was blocked by the central nicotinic antagonist mecamylamine but not by the peripheral nicotinic blocker hexamethonium, indicating that the response is probably mediated by central nicotinic receptors. Nicotine-induced hyperactivity was blocked by the selective D1 antagonist SCH 23390, the selective D2 antagonist raclopride and the D1/D2 antagonist fluphenazine. Pretreatment with the D2 agonist PHNO enhanced nicotine-induced hyperactivity, whereas the D1 agonist SKF 38393 had no effect. The results indicate that acute nicotine injection induces a pronounced hyperactivity in rats habituated to the test environment. The effect appears to be mediated by central nicotine receptors, possibly located on dopaminergic neurons, and also requires the activation of both D1 and D2 dopamine receptors.",
+    "id": 180,
+    "label": [
+      {
+        "start": 41,
+        "end": 49,
+        "text": "dopamine",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 73,
+        "end": 81,
+        "text": "nicotine",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 90,
+        "end": 103,
+        "text": "hyperactivity",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 247,
+        "end": 255,
+        "text": "nicotine",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 391,
+        "end": 399,
+        "text": "nicotine",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 447,
+        "end": 455,
+        "text": "dopamine",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 479,
+        "end": 487,
+        "text": "nicotine",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 583,
+        "end": 591,
+        "text": "dopamine",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 636,
+        "end": 644,
+        "text": "nicotine",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 733,
+        "end": 741,
+        "text": "Nicotine",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 775,
+        "end": 805,
+        "text": "increase in locomotor activity",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 989,
+        "end": 997,
+        "text": "nicotine",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 1046,
+        "end": 1058,
+        "text": "mecamylamine",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 1085,
+        "end": 1094,
+        "text": "nicotinic",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 1025,
+        "end": 1034,
+        "text": "nicotinic",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 1179,
+        "end": 1188,
+        "text": "nicotinic",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 1200,
+        "end": 1208,
+        "text": "Nicotine",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 1217,
+        "end": 1230,
+        "text": "hyperactivity",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 1396,
+        "end": 1400,
+        "text": "PHNO",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 1410,
+        "end": 1418,
+        "text": "nicotine",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 1427,
+        "end": 1440,
+        "text": "hyperactivity",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 1465,
+        "end": 1474,
+        "text": "SKF 38393",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 1522,
+        "end": 1530,
+        "text": "nicotine",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 1562,
+        "end": 1575,
+        "text": "hyperactivity",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 1665,
+        "end": 1673,
+        "text": "nicotine",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 1778,
+        "end": 1786,
+        "text": "dopamine",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 1349,
+        "end": 1361,
+        "text": "fluphenazine",
+        "labels": ["CHEMICAL"]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 100,
+    "created_at": "2025-02-24T19:49:18.433347Z",
+    "updated_at": "2025-02-24T19:49:18.433347Z",
+    "lead_time": 431.723
+  },
+  {
+    "text": "Reduction in injection pain using buffered lidocaine as a local anesthetic before cardiac catheterization. Previous reports have suggested that pain associated with the injection of lidocaine is related to the acidic pH of the solution. To determine if the addition of a buffering solution to adjust the pH of lidocaine into the physiologic range would reduce pain during injection, we performed a blinded randomized study in patients undergoing cardiac catheterization. Twenty patients were asked to quantify the severity of pain after receiving standard lidocaine in one femoral area and buffered lidocaine in the opposite femoral area. The mean pain score for buffered lidocaine was significantly lower than the mean score for standard lidocaine (2.7 +/- 1.9 vs. 3.8 +/- 2.2, P = 0.03). The pH adjustment of standard lidocaine can be accomplished easily in the catheterization laboratory before injection and results in a reduction of the pain occurring during the infiltration of tissues.",
+    "id": 182,
+    "label": [
+      {
+        "start": 23,
+        "end": 27,
+        "text": "pain",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 43,
+        "end": 52,
+        "text": "lidocaine",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 144,
+        "end": 148,
+        "text": "pain",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 182,
+        "end": 191,
+        "text": "lidocaine",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 310,
+        "end": 319,
+        "text": "lidocaine",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 526,
+        "end": 530,
+        "text": "pain",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 360,
+        "end": 364,
+        "text": "pain",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 556,
+        "end": 565,
+        "text": "lidocaine",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 599,
+        "end": 608,
+        "text": "lidocaine",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 820,
+        "end": 829,
+        "text": "lidocaine",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 942,
+        "end": 946,
+        "text": "pain",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 648,
+        "end": 652,
+        "text": "pain",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 672,
+        "end": 681,
+        "text": "lidocaine",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 739,
+        "end": 748,
+        "text": "lidocaine",
+        "labels": ["CHEMICAL"]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 97,
+    "created_at": "2025-02-24T19:33:17.980113Z",
+    "updated_at": "2025-02-24T19:33:17.980113Z",
+    "lead_time": 131.23
+  },
+  {
+    "text": "Pentoxifylline (Trental) does not inhibit dipyridamole-induced coronary hyperemia: implications for dipyridamole-thallium-201 myocardial imaging. Dipyridamole-thallium-201 imaging is often performed in patients unable to exercise because of peripheral vascular disease. Many of these patients are taking pentoxifylline (Trental), a methylxanthine derivative which may improve intermittent claudication. Whether pentoxifylline inhibits dipyridamole-induced coronary hyperemia like other methylxanthines such as theophylline and should be stopped prior to dipyridamole-thallium-201 imaging is unknown. Therefore, we studied the hyperemic response to dipyridamole in seven open-chest anesthetized dogs after pretreatment with either pentoxifylline (0, 7.5, or 15 mg/kg i.v.) or theophylline (3 mg/kg i.v.). Baseline circumflex coronary blood flows did not differ significantly among treatment groups. Dipyridamole significantly increased coronary blood flow before and after 7.5 or 15 mm/kg i.v. pentoxifylline (p less than 0.002). Neither dose of pentoxifylline significantly decreased the dipyridamole-induced hyperemia, while peak coronary blood flow was significantly lower after theophylline (p less than 0.01). We conclude that pentoxyifylline does not inhibit dipyridamole-induced coronary hyperemia even at high doses.",
+    "id": 184,
+    "label": [
+      {
+        "start": 0,
+        "end": 14,
+        "text": "Pentoxifylline",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 16,
+        "end": 23,
+        "text": "Trental",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 72,
+        "end": 81,
+        "text": "hyperemia",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 100,
+        "end": 112,
+        "text": "dipyridamole",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 113,
+        "end": 121,
+        "text": "thallium",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 146,
+        "end": 158,
+        "text": "Dipyridamole",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 159,
+        "end": 167,
+        "text": "thallium",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 42,
+        "end": 54,
+        "text": "dipyridamole",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 241,
+        "end": 268,
+        "text": "peripheral vascular disease",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 304,
+        "end": 318,
+        "text": "pentoxifylline",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 320,
+        "end": 327,
+        "text": "Trental",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 332,
+        "end": 346,
+        "text": "methylxanthine",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 376,
+        "end": 401,
+        "text": "intermittent claudication",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 411,
+        "end": 425,
+        "text": "pentoxifylline",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 435,
+        "end": 447,
+        "text": "dipyridamole",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 465,
+        "end": 474,
+        "text": "hyperemia",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 486,
+        "end": 501,
+        "text": "methylxanthines",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 510,
+        "end": 522,
+        "text": "theophylline",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 554,
+        "end": 566,
+        "text": "dipyridamole",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 567,
+        "end": 575,
+        "text": "thallium",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 648,
+        "end": 660,
+        "text": "dipyridamole",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 730,
+        "end": 744,
+        "text": "pentoxifylline",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 775,
+        "end": 787,
+        "text": "theophylline",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 898,
+        "end": 910,
+        "text": "Dipyridamole",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 1045,
+        "end": 1059,
+        "text": "pentoxifylline",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 993,
+        "end": 1007,
+        "text": "pentoxifylline",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 1088,
+        "end": 1100,
+        "text": "dipyridamole",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 1109,
+        "end": 1118,
+        "text": "hyperemia",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 1181,
+        "end": 1193,
+        "text": "theophylline",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 1231,
+        "end": 1246,
+        "text": "pentoxyifylline",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 1264,
+        "end": 1276,
+        "text": "dipyridamole",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 1294,
+        "end": 1303,
+        "text": "hyperemia",
+        "labels": ["DISEASE"]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 57,
+    "created_at": "2025-02-24T15:33:30.223366Z",
+    "updated_at": "2025-02-24T15:33:30.223366Z",
+    "lead_time": 244.428
+  },
+  {
+    "text": "Effects of training on the extent of experimental myocardial infarction in aging rats. The effects of exercise on the severity of isoproterenol-induced myocardial infarction were studied in female albino rats of 20,40,60 and 80 weeks of age. The rats were trained to swim for a specific duration and for a particular period. The occurrence of infarcts were confirmed by histological methods. Elevations in the serum GOT and GPT were maximum in the sedentary-isoproterenols and minimum in the exercise-controls. These changes in the serum transaminases were associated with corresponding depletions in the cardiac GOT and GPT. However, age was seen to interfere with the responses exhibited by the young and old rats. Studies dealing with myocardial infarction are more informative when dealt with age.",
+    "id": 199,
+    "label": [
+      {
+        "start": 50,
+        "end": 71,
+        "text": "myocardial infarction",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 130,
+        "end": 143,
+        "text": "isoproterenol",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 152,
+        "end": 173,
+        "text": "myocardial infarction",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 343,
+        "end": 351,
+        "text": "infarcts",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 458,
+        "end": 472,
+        "text": "isoproterenols",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 738,
+        "end": 759,
+        "text": "myocardial infarction",
+        "labels": ["DISEASE"]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 76,
+    "created_at": "2025-02-24T18:26:37.923993Z",
+    "updated_at": "2025-02-24T18:26:37.923993Z",
+    "lead_time": 138.831
+  },
+  {
+    "text": "Blood pressure response to chronic low-dose intrarenal noradrenaline infusion in conscious rats. Sodium chloride solution (0.9%) or noradrenaline in doses of 4, 12 and 36 micrograms h-1 kg-1 was infused for five consecutive days, either intrarenally (by a new technique) or intravenously into rats with one kidney removed. Intrarenal infusion of noradrenaline caused hypertension at doses which did not do so when infused intravenously. Intrarenal compared with intravenous infusion of noradrenaline caused higher plasma noradrenaline concentrations and a shift of the plasma noradrenaline concentration-blood pressure effect curve towards lower plasma noradrenaline levels. These results suggest that hypertension after chronic intrarenal noradrenaline infusion is produced by relatively higher levels of circulating noradrenaline and by triggering of an additional intrarenal pressor mechanism.",
+    "id": 202,
+    "label": [
+      {
+        "start": 55,
+        "end": 68,
+        "text": "noradrenaline",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 132,
+        "end": 145,
+        "text": "noradrenaline",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 346,
+        "end": 359,
+        "text": "noradrenaline",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 486,
+        "end": 499,
+        "text": "noradrenaline",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 521,
+        "end": 534,
+        "text": "noradrenaline",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 576,
+        "end": 589,
+        "text": "noradrenaline",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 653,
+        "end": 666,
+        "text": "noradrenaline",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 740,
+        "end": 753,
+        "text": "noradrenaline",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 818,
+        "end": 831,
+        "text": "noradrenaline",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 97,
+        "end": 112,
+        "text": "Sodium chloride",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 367,
+        "end": 379,
+        "text": "hypertension",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 702,
+        "end": 714,
+        "text": "hypertension",
+        "labels": ["DISEASE"]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 7,
+    "created_at": "2025-02-24T11:06:35.123782Z",
+    "updated_at": "2025-02-24T11:06:35.123782Z",
+    "lead_time": 72.116
+  },
+  {
+    "text": "Attenuation of the lithium-induced diabetes-insipidus-like syndrome by amiloride in rats. The effect of amiloride on lithium-induced polydipsia and polyuria and on the lithium concentration in the plasma, brain, kidney, thyroid and red blood cells was investigated in rats, chronically treated with LiCl. Amiloride reduced the drinking and urine volume of rats in an acute (6 or 12 h) and a subacute (3 days) experiment. 6 h after the administration of amiloride, a reduction was observed in the lithium content of the renal medulla but not in the other organs studied. At 12 h, all the tissues showed a slight increase in lithium levels. After 3 days of combined treatment, a marked elevation in plasma and tissue lithium levels accompanied a reduction in water intake. In all the experiments, the attenuation of the lithium-induced diabetes-insipidus-like syndrome by amiloride was accompanied by a reduction of the ratio between the lithium concentration in the renal medulla and its levels in the blood and an elevation in the plasma potassium level. It is concluded that acute amiloride administration to lithium-treated patients suffering from polydipsia and polyuria might relieve these patients but prolonged amiloride supplementation would result in elevated lithium levels and might be hazardous.",
+    "id": 206,
+    "label": [
+      {
+        "start": 19,
+        "end": 26,
+        "text": "lithium",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 35,
+        "end": 67,
+        "text": "diabetes-insipidus-like syndrome",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 71,
+        "end": 80,
+        "text": "amiloride",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 104,
+        "end": 113,
+        "text": "amiloride",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 117,
+        "end": 124,
+        "text": "lithium",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 133,
+        "end": 143,
+        "text": "polydipsia",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 148,
+        "end": 156,
+        "text": "polyuria",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 168,
+        "end": 175,
+        "text": "lithium",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 299,
+        "end": 303,
+        "text": "LiCl",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 305,
+        "end": 314,
+        "text": "Amiloride",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 453,
+        "end": 462,
+        "text": "amiloride",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 496,
+        "end": 503,
+        "text": "lithium",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 623,
+        "end": 630,
+        "text": "lithium",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 818,
+        "end": 825,
+        "text": "lithium",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 715,
+        "end": 722,
+        "text": "lithium",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 834,
+        "end": 866,
+        "text": "diabetes-insipidus-like syndrome",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 870,
+        "end": 879,
+        "text": "amiloride",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 936,
+        "end": 943,
+        "text": "lithium",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 1082,
+        "end": 1091,
+        "text": "amiloride",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 1110,
+        "end": 1117,
+        "text": "lithium",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 1150,
+        "end": 1160,
+        "text": "polydipsia",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 1165,
+        "end": 1173,
+        "text": "polyuria",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 1217,
+        "end": 1226,
+        "text": "amiloride",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 1268,
+        "end": 1275,
+        "text": "lithium",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 1038,
+        "end": 1047,
+        "text": "potassium",
+        "labels": ["CHEMICAL"]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 62,
+    "created_at": "2025-02-24T15:45:19.896578Z",
+    "updated_at": "2025-02-24T15:45:19.896578Z",
+    "lead_time": 213.068
+  },
+  {
+    "text": "Dup 753 prevents the development of puromycin aminonucleoside-induced nephrosis. The appearance of nephrotic syndromes such as proteinuria, hypoalbuminemia, hypercholesterolemia and increase in blood nitrogen urea, induced in rats by injection of puromycin aminonucleoside was markedly inhibited by oral administration of Dup 753 (losartan), a novel angiotensin II receptor antagonist, at a dose of 1 or 2 mg/kg per day. The results suggest a possible involvement of the renin-angiotensin system in the development of puromycin aminonucleoside-induced nephrosis.",
+    "id": 208,
+    "label": [
+      {
+        "start": 0,
+        "end": 7,
+        "text": "Dup 753",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 36,
+        "end": 61,
+        "text": "puromycin aminonucleoside",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 70,
+        "end": 79,
+        "text": "nephrosis",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 127,
+        "end": 138,
+        "text": "proteinuria",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 140,
+        "end": 155,
+        "text": "hypoalbuminemia",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 157,
+        "end": 177,
+        "text": "hypercholesterolemia",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 194,
+        "end": 213,
+        "text": "blood nitrogen urea",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 247,
+        "end": 272,
+        "text": "puromycin aminonucleoside",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 322,
+        "end": 329,
+        "text": "Dup 753",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 331,
+        "end": 339,
+        "text": "losartan",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 350,
+        "end": 364,
+        "text": "angiotensin II",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 477,
+        "end": 488,
+        "text": "angiotensin",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 518,
+        "end": 527,
+        "text": "puromycin",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 552,
+        "end": 561,
+        "text": "nephrosis",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 99,
+        "end": 118,
+        "text": "nephrotic syndromes",
+        "labels": ["DISEASE"]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 67,
+    "created_at": "2025-02-24T15:54:28.510536Z",
+    "updated_at": "2025-02-24T15:54:28.510536Z",
+    "lead_time": 121.605
+  },
+  {
+    "text": "A developmental analysis of clonidine's effects on cardiac rate and ultrasound production in infant rats. Under controlled conditions, infant rats emit ultrasonic vocalizations during extreme cold exposure and after administration of the alpha(2) adrenoceptor agonist, clonidine. Previous investigations have determined that, in response to clonidine, ultrasound production increases through the 2nd-week postpartum and decreases thereafter. Given that sympathetic neural dominance exhibits a similar developmental pattern, and given that clonidine induces sympathetic withdrawal and bradycardia, we hypothesized that clonidine's developmental effects on cardiac rate and ultrasound production would mirror each other. Therefore, in the present experiment, the effects of clonidine administration (0.5 mg/kg) on cardiac rate and ultrasound production were examined in 2-, 8-, 15-, and 20-day-old rats. Age-related changes in ultrasound production corresponded with changes in cardiovascular variables, including baseline cardiac rate and clonidine-induced bradycardia. This experiment is discussed with regard to the hypothesis that ultrasound production is the acoustic by-product of a physiological maneuver that compensates for clonidine's detrimental effects on cardiovascular function.",
+    "id": 226,
+    "label": [
+      {
+        "start": 28,
+        "end": 39,
+        "text": "clonidine's",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 269,
+        "end": 278,
+        "text": "clonidine",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 341,
+        "end": 350,
+        "text": "clonidine",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 539,
+        "end": 548,
+        "text": "clonidine",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 584,
+        "end": 595,
+        "text": "bradycardia",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 618,
+        "end": 629,
+        "text": "clonidine's",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 772,
+        "end": 781,
+        "text": "clonidine",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 1038,
+        "end": 1047,
+        "text": "clonidine",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 1056,
+        "end": 1067,
+        "text": "bradycardia",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 1231,
+        "end": 1242,
+        "text": "clonidine's",
+        "labels": ["CHEMICAL"]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 63,
+    "created_at": "2025-02-24T15:46:16.230083Z",
+    "updated_at": "2025-02-24T15:46:16.230083Z",
+    "lead_time": 56.05
+  },
+  {
+    "text": "In vivo protection of dna damage associated apoptotic and necrotic cell deaths during acetaminophen-induced nephrotoxicity, amiodarone-induced lung toxicity and doxorubicin-induced cardiotoxicity by a novel IH636 grape seed proanthocyanidin extract. Grape seed extract, primarily a mixture of proanthocyanidins, has been shown to modulate a wide-range of biological, pharmacological and toxicological effects which are mainly cytoprotective. This study assessed the ability of IH636 grape seed proanthocyanidin extract (GSPE) to prevent acetaminophen (AAP)-induced nephrotoxicity, amiodarone (AMI)-induced lung toxicity, and doxorubicin (DOX)-induced cardiotoxicity in mice. Experimental design consisted of four groups: control (vehicle alone), GSPE alone, drug alone and GSPE+drug. For the cytoprotection study, animals were orally gavaged 100 mg/Kg GSPE for 7-10 days followed by i.p. injections of organ specific three drugs (AAP: 500 mg/Kg for 24 h; AMI: 50 mg/Kg/day for four days; DOX: 20 mg/Kg for 48 h). Parameters of study included analysis of serum chemistry (ALT, BUN and CPK), and orderly fragmentation of genomic DNA (both endonuclease-dependent and independent) in addition to microscopic evaluation of damage and/or protection in corresponding PAS stained tissues. Results indicate that GSPE preexposure prior to AAP, AMI and DOX, provided near complete protection in terms of serum chemistry changes (ALT, BUN and CPK), and significantly reduced DNA fragmentation. Histopathological examination of kidney, heart and lung sections revealed moderate to massive tissue damage with a variety of morphological aberrations by all the three drugs in the absence of GSPE preexposure than in its presence. GSPE+drug exposed tissues exhibited minor residual damage or near total recovery. Additionally, histopathological alterations mirrored both serum chemistry changes and the pattern of DNA fragmentation. Interestingly, all the drugs, such as, AAP, AMI and DOX induced apoptotic death in addition to necrosis in the respective organs which was very effectively blocked by GSPE. Since AAP, AMI and DOX undergo biotransformation and are known to produce damaging radicals in vivo, the protection by GSPE may be linked to both inhibition of metabolism and/or detoxification of cytotoxic radicals. In addition, its' presumed contribution to DNA repair may be another important attribute, which played a role in the chemoprevention process. Additionally, this may have been the first report on AMI-induced apoptotic death in the lung tissue. Taken together, these events undoubtedly establish GSPE's abundant bioavailability, and the power to defend multiple target organs from toxic assaults induced by structurally diverse and functionally different entities in vivo.",
+    "id": 230,
+    "label": [
+      {
+        "start": 58,
+        "end": 66,
+        "text": "necrotic",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 86,
+        "end": 99,
+        "text": "acetaminophen",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 108,
+        "end": 122,
+        "text": "nephrotoxicity",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 124,
+        "end": 134,
+        "text": "amiodarone",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 143,
+        "end": 156,
+        "text": "lung toxicity",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 161,
+        "end": 172,
+        "text": "doxorubicin",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 181,
+        "end": 195,
+        "text": "cardiotoxicity",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 207,
+        "end": 248,
+        "text": "IH636 grape seed proanthocyanidin extract",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 250,
+        "end": 268,
+        "text": "Grape seed extract",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 293,
+        "end": 310,
+        "text": "proanthocyanidins",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 477,
+        "end": 518,
+        "text": "IH636 grape seed proanthocyanidin extract",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 520,
+        "end": 524,
+        "text": "GSPE",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 537,
+        "end": 550,
+        "text": "acetaminophen",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 552,
+        "end": 555,
+        "text": "AAP",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 565,
+        "end": 579,
+        "text": "nephrotoxicity",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 581,
+        "end": 591,
+        "text": "amiodarone",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 593,
+        "end": 596,
+        "text": "AMI",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 606,
+        "end": 619,
+        "text": "lung toxicity",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 625,
+        "end": 636,
+        "text": "doxorubicin",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 638,
+        "end": 641,
+        "text": "DOX",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 651,
+        "end": 665,
+        "text": "cardiotoxicity",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 746,
+        "end": 750,
+        "text": "GSPE",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 773,
+        "end": 777,
+        "text": "GSPE",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 852,
+        "end": 856,
+        "text": "GSPE",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 1303,
+        "end": 1307,
+        "text": "GSPE",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 1329,
+        "end": 1332,
+        "text": "AAP",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 1334,
+        "end": 1337,
+        "text": "AMI",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 1342,
+        "end": 1345,
+        "text": "DOX",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 1675,
+        "end": 1679,
+        "text": "GSPE",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 1714,
+        "end": 1718,
+        "text": "GSPE",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 930,
+        "end": 933,
+        "text": "AAP",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 955,
+        "end": 958,
+        "text": "AMI",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 988,
+        "end": 991,
+        "text": "DOX",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 1576,
+        "end": 1589,
+        "text": "tissue damage",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 1955,
+        "end": 1958,
+        "text": "AAP",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 1960,
+        "end": 1963,
+        "text": "AMI",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 1968,
+        "end": 1971,
+        "text": "DOX",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 2011,
+        "end": 2019,
+        "text": "necrosis",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 2083,
+        "end": 2087,
+        "text": "GSPE",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 2095,
+        "end": 2098,
+        "text": "AAP",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 2100,
+        "end": 2103,
+        "text": "AMI",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 2108,
+        "end": 2111,
+        "text": "DOX",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 2208,
+        "end": 2212,
+        "text": "GSPE",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 2500,
+        "end": 2503,
+        "text": "AMI",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 2599,
+        "end": 2605,
+        "text": "GSPE's",
+        "labels": ["CHEMICAL"]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 73,
+    "created_at": "2025-02-24T16:13:36.059382Z",
+    "updated_at": "2025-02-24T16:13:36.059382Z",
+    "lead_time": 415.553
+  },
+  {
+    "text": "Recurrent excitation in the dentate gyrus of a murine model of temporal lobe epilepsy. Similar to rats, systemic pilocarpine injection causes status epilepticus (SE) and the eventual development of spontaneous seizures and mossy fiber sprouting in C57BL/6 and CD1 mice, but the physiological correlates of these events have not been identified in mice. Population responses in granule cells of the dentate gyrus were examined in transverse slices of the ventral hippocampus from pilocarpine-treated and untreated mice. In Mg(2+)-free bathing medium containing bicuculline, conditions designed to increase excitability in the slices, electrical stimulation of the hilus resulted in a single population spike in granule cells from control mice and pilocarpine-treated mice that did not experience SE. In SE survivors, similar stimulation resulted in a population spike followed, at a variable latency, by negative DC shifts and repetitive afterdischarges of 3-60 s duration, which were blocked by ionotropic glutamate receptor antagonists. Focal glutamate photostimulation of the granule cell layer at sites distant from the recording pipette resulted in population responses of 1-30 s duration in slices from SE survivors but not other groups. These data support the hypothesis that SE-induced mossy fiber sprouting and synaptic reorganization are relevant characteristics of seizure development in these murine strains, resembling rat models of human temporal lobe epilepsy.",
+    "id": 240,
+    "label": [
+      {
+        "start": 63,
+        "end": 85,
+        "text": "temporal lobe epilepsy",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 113,
+        "end": 124,
+        "text": "pilocarpine",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 142,
+        "end": 160,
+        "text": "status epilepticus",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 162,
+        "end": 164,
+        "text": "SE",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 210,
+        "end": 218,
+        "text": "seizures",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 479,
+        "end": 490,
+        "text": "pilocarpine",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 522,
+        "end": 524,
+        "text": "Mg",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 560,
+        "end": 571,
+        "text": "bicuculline",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 746,
+        "end": 757,
+        "text": "pilocarpine",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 795,
+        "end": 797,
+        "text": "SE",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 802,
+        "end": 804,
+        "text": "SE",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 1006,
+        "end": 1015,
+        "text": "glutamate",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 1044,
+        "end": 1053,
+        "text": "glutamate",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 1208,
+        "end": 1210,
+        "text": "SE",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 1282,
+        "end": 1284,
+        "text": "SE",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 1375,
+        "end": 1382,
+        "text": "seizure",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 1451,
+        "end": 1473,
+        "text": "temporal lobe epilepsy",
+        "labels": ["DISEASE"]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 29,
+    "created_at": "2025-02-24T12:21:31.417491Z",
+    "updated_at": "2025-02-24T12:21:31.417491Z",
+    "lead_time": 92.911
+  },
+  {
+    "text": "Nitro-L-arginine methyl ester: a potential protector against gentamicin ototoxicity. The nitric oxide (NO) inhibitor nitro-L-arginine methyl ester (L-NAME) may act as an otoprotectant against high-frequency hearing loss caused by gentamicin, but further studies are needed to confirm this.Aminoglycoside antibiotics are still widely used by virtue of their efficacy and low cost. Their ototoxicity is a serious health problem and, as their ototoxic mechanism involves the production of NO, we need to assess the use of NO inhibitors for the prevention of aminoglycoside-induced sensorineural hearing loss. In this experimental study we used 30 Sprague-Dawley rats, 27 of which had gentamicin instilled into the middle ear. The otoprotectant L-NAME was administered topically to 12/27 animals. Its effect was determined in terms of attenuation of hearing loss, measured by shifts in the auditory brainstem response threshold. L-NAME reduced gentamicin-induced hearing loss in the high-frequency range, but gave no protection in the middle or low frequencies.",
+    "id": 244,
+    "label": [
+      {
+        "start": 0,
+        "end": 29,
+        "text": "Nitro-L-arginine methyl ester",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 61,
+        "end": 71,
+        "text": "gentamicin",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 72,
+        "end": 83,
+        "text": "ototoxicity",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 89,
+        "end": 101,
+        "text": "nitric oxide",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 103,
+        "end": 105,
+        "text": "NO",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 117,
+        "end": 146,
+        "text": "nitro-L-arginine methyl ester",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 148,
+        "end": 154,
+        "text": "L-NAME",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 192,
+        "end": 219,
+        "text": "high-frequency hearing loss",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 230,
+        "end": 240,
+        "text": "gentamicin",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 289,
+        "end": 303,
+        "text": "Aminoglycoside",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 386,
+        "end": 397,
+        "text": "ototoxicity",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 440,
+        "end": 448,
+        "text": "ototoxic",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 486,
+        "end": 488,
+        "text": "NO",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 519,
+        "end": 521,
+        "text": "NO",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 555,
+        "end": 569,
+        "text": "aminoglycoside",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 578,
+        "end": 604,
+        "text": "sensorineural hearing loss",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 681,
+        "end": 691,
+        "text": "gentamicin",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 741,
+        "end": 747,
+        "text": "L-NAME",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 925,
+        "end": 931,
+        "text": "L-NAME",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 846,
+        "end": 858,
+        "text": "hearing loss",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 940,
+        "end": 950,
+        "text": "gentamicin",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 959,
+        "end": 971,
+        "text": "hearing loss",
+        "labels": ["DISEASE"]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 30,
+    "created_at": "2025-02-24T12:25:03.993825Z",
+    "updated_at": "2025-02-24T12:25:03.993825Z",
+    "lead_time": 165.662
+  },
+  {
+    "text": "A novel compound, maltolyl p-coumarate, attenuates cognitive deficits and shows neuroprotective effects in vitro and in vivo dementia models. To develop a novel and effective drug that could enhance cognitive function and neuroprotection, we newly synthesized maltolyl p-coumarate by the esterification of maltol and p-coumaric acid. In the present study, we investigated whether maltolyl p-coumarate could improve cognitive decline in scopolamine-injected rats and in amyloid beta peptide(1-42)-infused rats. Maltolyl p-coumarate was found to attenuate cognitive deficits in both rat models using passive avoidance test and to reduce apoptotic cell death observed in the hippocampus of the amyloid beta peptide(1-42)-infused rats. We also examined the neuroprotective effects of maltolyl p-coumarate in vitro using SH-SY5Y cells. Cells were pretreated with maltolyl p-coumarate, before exposed to amyloid beta peptide(1-42), glutamate or H2O2. We found that maltolyl p-coumarate significantly decreased apoptotic cell death and reduced reactive oxygen species, cytochrome c release, and caspase 3 activation. Taking these in vitro and in vivo results together, our study suggests that maltolyl p-coumarate is a potentially effective candidate against Alzheimer's disease that is characterized by wide spread neuronal death and progressive decline of cognitive function.",
+    "id": 249,
+    "label": [
+      {
+        "start": 18,
+        "end": 38,
+        "text": "maltolyl p-coumarate",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 125,
+        "end": 133,
+        "text": "dementia",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 260,
+        "end": 280,
+        "text": "maltolyl p-coumarate",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 317,
+        "end": 332,
+        "text": "p-coumaric acid",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 306,
+        "end": 312,
+        "text": "maltol",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 380,
+        "end": 400,
+        "text": "maltolyl p-coumarate",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 436,
+        "end": 447,
+        "text": "scopolamine",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 469,
+        "end": 489,
+        "text": "amyloid beta peptide",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 510,
+        "end": 530,
+        "text": "Maltolyl p-coumarate",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 554,
+        "end": 572,
+        "text": "cognitive deficits",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 415,
+        "end": 432,
+        "text": "cognitive decline",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 691,
+        "end": 711,
+        "text": "amyloid beta peptide",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 780,
+        "end": 800,
+        "text": "maltolyl p-coumarate",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 858,
+        "end": 878,
+        "text": "maltolyl p-coumarate",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 898,
+        "end": 918,
+        "text": "amyloid beta peptide",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 939,
+        "end": 943,
+        "text": "H2O2",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 959,
+        "end": 979,
+        "text": "maltolyl p-coumarate",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 926,
+        "end": 935,
+        "text": "glutamate",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 1186,
+        "end": 1206,
+        "text": "maltolyl p-coumarate",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 1252,
+        "end": 1271,
+        "text": "Alzheimer's disease",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 1340,
+        "end": 1369,
+        "text": "decline of cognitive function",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 51,
+        "end": 69,
+        "text": "cognitive deficits",
+        "labels": ["DISEASE"]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 2,
+    "created_at": "2025-02-24T10:48:12.953020Z",
+    "updated_at": "2025-02-24T10:48:12.953020Z",
+    "lead_time": 873.813
+  },
+  {
+    "text": "Massive proteinuria and acute renal failure after oral bisphosphonate (alendronate) administration in a patient with focal segmental glomerulosclerosis. A 61-year-old Japanese man with nephrotic syndrome due to focal segmental glomerulosclerosis was initially responding well to steroid therapy. The amount of daily urinary protein decreased from 15.6 to 2.8 g. Within 14 days of the oral bisphosphonate (alendronate sodium) administration, the amount of daily urinary protein increased rapidly up to 12.8 g with acute renal failure. After discontinuing the oral alendronate, the patient underwent six cycles of hemodialysis and four cycles of LDL apheresis. Urinary volume and serum creatinine levels recovered to the normal range, with urinary protein disappearing completely within 40 days. This report demonstrates that not only intravenous, but also oral bisphosphonates can aggravate proteinuria and acute renal failure.",
+    "id": 259,
+    "label": [
+      {
+        "start": 8,
+        "end": 19,
+        "text": "proteinuria",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 24,
+        "end": 43,
+        "text": "acute renal failure",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 55,
+        "end": 69,
+        "text": "bisphosphonate",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 71,
+        "end": 82,
+        "text": "alendronate",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 117,
+        "end": 151,
+        "text": "focal segmental glomerulosclerosis",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 211,
+        "end": 245,
+        "text": "focal segmental glomerulosclerosis",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 279,
+        "end": 286,
+        "text": "steroid",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 185,
+        "end": 203,
+        "text": "nephrotic syndrome",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 389,
+        "end": 403,
+        "text": "bisphosphonate",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 405,
+        "end": 423,
+        "text": "alendronate sodium",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 513,
+        "end": 532,
+        "text": "acute renal failure",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 563,
+        "end": 574,
+        "text": "alendronate",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 684,
+        "end": 694,
+        "text": "creatinine",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 860,
+        "end": 875,
+        "text": "bisphosphonates",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 890,
+        "end": 901,
+        "text": "proteinuria",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 906,
+        "end": 925,
+        "text": "acute renal failure",
+        "labels": ["DISEASE"]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 28,
+    "created_at": "2025-02-24T12:19:58.230152Z",
+    "updated_at": "2025-02-24T12:19:58.230152Z",
+    "lead_time": 135.344
+  },
+  {
+    "text": "Clinically significant proteinuria following the administration of sirolimus to renal transplant recipients. BACKGROUND: Sirolimus is the latest immunosuppressive agent used to prevent rejection, and may have less nephrotoxicity than calcineurin inhibitor (CNI)-based regimens. To date there has been little documentation of clinically significant proteinuria linked with the use of sirolimus. We have encountered several patients who developed substantial proteinuria associated with sirolimus use. In each patient, the close temporal association between the commencement of sirolimus therapy and proteinuria implicated sirolimus as the most likely etiology of the proteinuria. METHODS: We analyzed the clinical and laboratory information available for all 119 patients transplanted at the Washington Hospital Center between 1999-2003 for whom sirolimus was a component of their immunosuppressant regimen. In these patients, the magnitude of proteinuria was assessed on morning urine samples by turbidometric measurement or random urine protein:creatinine ratios, an estimate of grams of proteinuria/day. Laboratory results were compared between prior, during and following sirolimus use. RESULTS: Twenty-eight patients (24%) developed increased proteinuria from baseline during their post-transplantation course. In 21 patients an alternative cause of proteinuria was either obvious or insufficient data was available to be conclusive. In 7 of the 28 patients there was a striking temporal association between the initiation of sirolimus and the development of nephrotic-range proteinuria. Proteinuria correlated most strongly with sirolimus therapy when compared to other demographic and clinical variables. In most patients, discontinuation of sirolimus resulted in a decrease, but not resolution, of proteinuria. CONCLUSIONS: Sirolimus induces or aggravates pre-existing proteinuria in an unpredictable subset of renal allograft recipients. Proteinuria may improve, but does not resolve, when sirolimus is withdrawn.",
+    "id": 262,
+    "label": [
+      {
+        "start": 23,
+        "end": 34,
+        "text": "proteinuria",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 67,
+        "end": 76,
+        "text": "sirolimus",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 121,
+        "end": 130,
+        "text": "Sirolimus",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 214,
+        "end": 228,
+        "text": "nephrotoxicity",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 348,
+        "end": 359,
+        "text": "proteinuria",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 383,
+        "end": 392,
+        "text": "sirolimus",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 457,
+        "end": 468,
+        "text": "proteinuria",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 485,
+        "end": 494,
+        "text": "sirolimus",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 576,
+        "end": 585,
+        "text": "sirolimus",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 598,
+        "end": 609,
+        "text": "proteinuria",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 666,
+        "end": 677,
+        "text": "proteinuria",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 845,
+        "end": 854,
+        "text": "sirolimus",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 943,
+        "end": 954,
+        "text": "proteinuria",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 1046,
+        "end": 1056,
+        "text": "creatinine",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 1089,
+        "end": 1100,
+        "text": "proteinuria",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 1247,
+        "end": 1258,
+        "text": "proteinuria",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 1354,
+        "end": 1365,
+        "text": "proteinuria",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 1530,
+        "end": 1539,
+        "text": "sirolimus",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 1579,
+        "end": 1590,
+        "text": "proteinuria",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 1592,
+        "end": 1603,
+        "text": "Proteinuria",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 1634,
+        "end": 1643,
+        "text": "sirolimus",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 1748,
+        "end": 1757,
+        "text": "sirolimus",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 1805,
+        "end": 1816,
+        "text": "proteinuria",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 1831,
+        "end": 1840,
+        "text": "Sirolimus",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 1876,
+        "end": 1887,
+        "text": "proteinuria",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 1946,
+        "end": 1957,
+        "text": "Proteinuria",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 621,
+        "end": 630,
+        "text": "sirolimus",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 1175,
+        "end": 1184,
+        "text": "sirolimus",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 1563,
+        "end": 1572,
+        "text": "nephrotic",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 1998,
+        "end": 2007,
+        "text": "sirolimus",
+        "labels": ["CHEMICAL"]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 6,
+    "created_at": "2025-02-24T11:05:22.736545Z",
+    "updated_at": "2025-02-24T11:05:22.736545Z",
+    "lead_time": 329.06
+  },
+  {
+    "text": "Normalizing effects of modafinil on sleep in chronic cocaine users. OBJECTIVE: The purpose of the present study was to determine the effect of morning-dosed modafinil on sleep and daytime sleepiness in chronic cocaine users. METHOD: Twenty cocaine-dependent participants were randomly assigned to receive modafinil, 400 mg (N=10), or placebo (N=10) every morning at 7:30 a.m. for 16 days in an inpatient, double-blind randomized trial. Participants underwent polysomnographic sleep recordings on days 1 to 3, 7 to 9, and 14 to 16 (first, second, and third weeks of abstinence). The Multiple Sleep Latency Test was performed at 11:30 a.m., 2:00 p.m., and 4:30 p.m. on days 2, 8, and 15. For comparison of sleep architecture variables, 12 healthy comparison participants underwent a single night of experimental polysomnography that followed 1 night of accommodation polysomnography. RESULTS: Progressive abstinence from cocaine was associated with worsening of all measured polysomnographic sleep outcomes. Compared with placebo, modafinil decreased nighttime sleep latency and increased slow-wave sleep time in cocaine-dependent participants. The effect of modafinil interacted with the abstinence week and was associated with longer total sleep time and shorter REM sleep latency in the third week of abstinence. Comparison of slow-wave sleep time, total sleep time, and sleep latency in cocaine-dependent and healthy participants revealed a normalizing effect of modafinil in cocaine-dependent participants. Modafinil was associated with increased daytime sleep latency, as measured by the Multiple Sleep Latency Test, and a nearly significant decrease in subjective daytime sleepiness. CONCLUSIONS: Morning-dosed modafinil promotes nocturnal sleep, normalizes sleep architecture, and decreases daytime sleepiness in abstinent cocaine users. These effects may be relevant in the treatment of cocaine dependence.",
+    "id": 264,
+    "label": [
+      {
+        "start": 23,
+        "end": 32,
+        "text": "modafinil",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 53,
+        "end": 60,
+        "text": "cocaine",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 157,
+        "end": 166,
+        "text": "modafinil",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 180,
+        "end": 198,
+        "text": "daytime sleepiness",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 210,
+        "end": 217,
+        "text": "cocaine",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 240,
+        "end": 247,
+        "text": "cocaine",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 305,
+        "end": 314,
+        "text": "modafinil",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 919,
+        "end": 926,
+        "text": "cocaine",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 1029,
+        "end": 1038,
+        "text": "modafinil",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 1111,
+        "end": 1118,
+        "text": "cocaine",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 1157,
+        "end": 1166,
+        "text": "modafinil",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 1389,
+        "end": 1396,
+        "text": "cocaine",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 1465,
+        "end": 1474,
+        "text": "modafinil",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 1478,
+        "end": 1485,
+        "text": "cocaine",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 1510,
+        "end": 1519,
+        "text": "Modafinil",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 1716,
+        "end": 1725,
+        "text": "modafinil",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 1797,
+        "end": 1815,
+        "text": "daytime sleepiness",
+        "labels": ["DISEASE"]
+      },
+      {
+        "start": 1829,
+        "end": 1836,
+        "text": "cocaine",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 1894,
+        "end": 1901,
+        "text": "cocaine",
+        "labels": ["CHEMICAL"]
+      },
+      {
+        "start": 1669,
+        "end": 1687,
+        "text": "daytime sleepiness",
+        "labels": ["DISEASE"]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 47,
+    "created_at": "2025-02-24T13:11:43.758087Z",
+    "updated_at": "2025-02-24T13:11:43.758087Z",
+    "lead_time": 124.545
+  }
+]
